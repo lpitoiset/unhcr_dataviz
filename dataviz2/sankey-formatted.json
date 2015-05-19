@@ -1,0 +1,33 @@
+{
+	"nodes":
+	[
+		{"name":"Syrian Arab Rep."},
+		{"name":"Origin 2"},
+		{"name":"Origin 3"},
+		{"name":"Turkey"},
+		{"name":"Lebanon"},
+		{"name":"Jordan"},
+		{"name":"Iraq"},
+		{"name":"Egypt"},
+		{"name":"Germany"},
+		{"name":"Sweden"},
+		{"name":"Libya"},
+		{"name":"Armenia"},
+		{"name":"Other"}
+	],
+	"links":
+	[
+		{"source":"Syrian Arab Rep.","target":"Turkey","value":1557899},
+		{"source":"Syrian Arab Rep.","target":"Lebanon","value":1147494},
+		{"source":"Syrian Arab Rep.","target":"Jordan","value":585304},
+		{"source":"Syrian Arab Rep.","target":"Iraq","value":234196},
+		{"source":"Syrian Arab Rep.","target":"Egypt","value":138381},
+		{"source":"Syrian Arab Rep.","target":"Germany","value":40994},
+		{"source":"Syrian Arab Rep.","target":"Sweden","value":34285},
+		{"source":"Syrian Arab Rep.","target":"Libya","value":18653},
+		{"source":"Syrian Arab Rep.","target":"Armenia","value":14994},
+		{"source":"Syrian Arab Rep.","target":"Other","value":59422},
+		{"source":"Origin 2","target":"Lebanon","value":200000},
+		{"source":"Origin 3","target":"Egypt","value":200000}
+	]
+}

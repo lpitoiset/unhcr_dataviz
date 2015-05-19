@@ -1,0 +1,140 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="stylesheet" href="bootstrap.css" media="screen"/>
+    
+    <style media="screen, print">#tab1{font-size:90%}#fp_box{width:200px;position:absolute;right:20px;top:20px}#fp_box_button{position:absolute;right:20px;top:170px;width:200px}.pf_table_main_col_small{width:200px}.pf_table_main_col_medium{width:400px}.pf_table_main_col_large{width:700px}.pf_table_origin_col{width:200px}.pf_table_origin_col_large{width:300px}.pf_table_num_col{width:90px}.pf_table_total{font-weight:bold}.pf_table_total_large{font-size:120%;font-weight:bold}.pf_delete_row{}.header_help{color:#428bca;border-bottom:1px dashed #428bca;cursor:pointer}.modal-content{padding:20px 40px 40px 40px}.modal-title{margin-bottom:20px}.close{position:relative;right:-25px;top:-10px}</style>
+    <script src="jquery-1.10.2.min.js"></script>
+
+    <title>dataviz4</title>
+</head>
+<body>
+
+    
+    <div class="container body" style="position: relative;">
+        
+        
+        <!--[if IE]>
+                <div style="margin-top: 20px; background-color: #ffe38c" class="well"><i class="fa fa-exclamation-triangle"></i> <b>Warning!</b> - a compatible browser such as Mozilla Firefox or Google Chrome is <b>required</b> to use the PSR application. </div>
+        <![endif]-->
+
+            
+<script src="d3.min.js"></script>
+<script src="topojson.v1.min.js"></script>
+
+
+    <div class="" id="map">
+
+    <div class="" id="pie">
+    <div class="" id="total_refugees">
+    <div class="maptitle">2014 Refugees by Origin</div>
+
+
+    
+    </div>
+
+<script>
+
+
+var m_width=$("#map").width(),width=$("#map").width(),height=width/1.7;
+$('#map').height(width/1.7);
+var svg=d3.select("#map")
+    .append("svg")
+    .attr("preserveAspectRatio","xMidYMid")
+    .attr("viewBox","0 0 "+width+" "+height)
+    .attr("width",m_width)
+    .attr("height",m_width*height/width);
+var scale=width/6.3;
+var projection=d3.geo.mercator()
+    .scale(scale)
+    .center([10,35])
+    .translate([((width)/2),height/2]);
+var path=d3.geo.path().projection(projection);
+var g=svg.append("g");
+d3.json("world.json?v2.3",function(error,data){
+    var mapdata=topojson.feature(data,data.objects.un_world);
+    g.append("g")
+        .attr("id","countries")
+        .selectAll("path")
+        .data(mapdata.features)
+        .enter()
+        .append("path")
+        .attr("id",function(d){return d.id;})
+        .attr('class','country')
+        .attr('fill',function(d){return'#c3c3c3';})
+        .attr('fill-opacity',0.7)
+        .attr('stroke','#FAFAFA')
+        .attr('stroke-width',0.5)
+        .attr("d",path)
+        .on("mouseover",function(){})
+        .on("mouseout",function(){})
+var piedata=[0,0];
+var total_refugees=0;
+d3.json("json_status"+'?'+Math.random(),function(error,data){$(data)
+        .each(function(){
+            if(this.iso!=''){
+                var selection=d3.select('#'+this.iso);
+                if(this.CoO=='0'){
+                    selection.attr('fill','#111111');total_refugees+=this.CoO;
+                }
+                if(this.CoO>100000){
+                    selection.attr('fill','#ff9999');total_refugees+=this.CoO;
+                }
+                if(this.CoO>1000000){
+                    selection.attr('fill','#ff6666');total_refugees+=this.CoO;
+                }
+                if(this.CoO>2000000){
+                    selection.attr('fill','#ff3333');total_refugees+=this.CoO;
+                }
+                if(this.CoO>3000000){
+                    selection.attr('fill','#ff0000');total_refugees+=this.CoO;
+                }
+                /*
+                if(this.status=='submitted'){
+                    selection.attr('fill','#111111');piedata[0]=piedata[0]+1;
+                }
+                else{selection.attr('fill','#618784');piedata[1]=piedata[1]+1;
+                */
+            
+            }
+            });
+        var radius=Math.min(($('#pie').width()/2),($('#pie').height()/2));
+        var arc=d3.svg.arc().outerRadius(radius-10).innerRadius(radius-50);
+        var pie=d3.layout.pie().sort(null).value(function(d){return d;});
+        var chartsvg=d3.select("#pie")
+            .append("svg")
+            .attr("width",'100%')
+            .attr("height",'100%')
+            .append("g")
+            .attr("transform","translate("+($('#pie').width()/2)+","+($('#pie').height()/2)+")");
+        var g=chartsvg
+            .selectAll(".arc")
+            .data(pie(piedata))
+            .enter()
+            .append("g")
+            .attr("class","arc");
+        g.append("path")
+            .attr("d",arc)
+            .attr('fill-opacity',0.7)
+            .style("fill",function(d,i){if(i!=0){return'#618784';}else{return'#00937F';};});
+        chartsvg.append("text")
+        .attr("transform","translate(4, 9)")
+        .style('font-size','30px')
+        .style('font-weight','bold')
+        .style("text-anchor","middle")
+        .style('padding-top','10px')
+        .text(function(d){var percent=(piedata[0]/(piedata[0]+piedata[1]))*100;return Math.round(percent)+'%'});});
+});
+</script>
+
+        <div class="clearfix"></div>
+    </div>
+
+    
+    </body>
+</html>

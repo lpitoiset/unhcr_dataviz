@@ -1,0 +1,125 @@
+
+  {
+ "name": "flare",
+ "children": 
+ [
+   {
+    "name": "asia",
+    "children": 
+    [
+    {"name": "Syrian Arab Rep.", "size": 3882},
+    {"name": "Afghanistan", "size": 2593},
+    {"name": "Myanmar", "size": 478},
+    {"name": "Iraq", "size": 369},
+    {"name": "Pakistan", "size": 335},
+    {"name": "Viet Nam", "size": 313},
+    {"name": "China", "size": 210},
+    {"name": "Sri Lanka", "size": 121},
+    {"name": "Islamic Republic of Iran", "size": 81},
+    {"name": "Turkey", "size": 63},
+    {"name": "Bhutan", "size": 23},
+    {"name": "Indonesia", "size": 14},
+    {"name": "Cambodia", "size": 13},
+    {"name": "Armenia", "size": 11},
+    {"name": "Bangladesh", "size": 10},
+    {"name": "Azerbaijan", "size": 10},
+    {"name": "India", "size": 10},
+    {"name": "Nepal", "size": 8},
+    {"name": "Lao People's Dem. Rep.", "size": 7},
+    {"name": "Georgia", "size": 6},
+    {"name": "Uzbekistan", "size": 4},
+    {"name": "Lebanon", "size": 4},
+    {"name": "Yemen", "size": 2},
+    {"name": "Kyrgyzstan", "size": 2},
+    {"name": "Kazakhstan", "size": 2},
+    {"name": "Mongolia", "size": 2}
+
+
+    ]
+  },
+  {
+   "name": "africa",
+   "children": [
+
+   {"name": "Somalia", "size": 1105},
+   {"name": "Sudan", "size": 665},
+   {"name": "DRC", "size": 516},
+   {"name": "South Sudan", "size": 498},
+   {"name": "CAR", "size": 412},
+   {"name": "Eritrea", "size": 363},
+   {"name": "Mali", "size": 139},
+   {"name": "Western Sahara", "size": 116},
+   {"name": "Nigeria", "size": 90},
+   {"name": "Ethiopia", "size": 86},
+   {"name": "Rwanda", "size": 79},
+   {"name": "Burundi", "size": 72},
+   {"name": "Côte d'Ivoire", "size": 71},
+   {"name": "Chad", "size": 48},
+   {"name": "Mauritania", "size": 34},
+   {"name": "Senegal", "size": 23},
+   {"name": "Zimbabwe", "size": 22},
+   {"name": "Ghana", "size": 22},
+   {"name": "Egypt", "size": 15},
+   {"name": "Guinea", "size": 15},
+   {"name": "Congo", "size": 14},
+   {"name": "Liberia", "size": 13},
+   {"name": "Cameroon", "size": 10},
+   {"name": "Angola", "size": 9},
+   {"name": "Togo", "size": 9},
+   {"name": "Kenya", "size": 8},
+   {"name": "Uganda", "size": 7},
+   {"name": "Gambia", "size": 5},
+   {"name": "Sierra Leone", "size": 4},
+   {"name": "Libya", "size": 4},
+   {"name": "Algeria", "size": 3},
+   {"name": "Burkina Faso", "size": 1}
+   ]
+   },
+   {
+     "name": "latin america",
+     "children": [
+
+     {"name": "Colombia", "size": 360},
+     {"name": "Haiti", "size": 37},
+     {"name": "El Salvador", "size": 10},
+     {"name": "Mexico", "size": 10},
+     {"name": "Venezuela (Bolivarian Republic of)", "size": 8},
+     {"name": "Cuba", "size": 7},
+     {"name": "Guatemala", "size": 7},
+     {"name": "Peru", "size": 4},
+     {"name": "Honduras", "size": 4}
+     ]
+     },
+     {
+       "name": "europe",
+       "children": [
+
+       {"name": "Ukraine", "size": 237},
+       {"name": "Russian Federation", "size": 72},
+       {"name": "Serbia (and Kosovo: S/RES/1244 (1999))", "size": 45},
+       {"name": "Croatia", "size": 40},
+       {"name": "Bosnia and Herzegovina", "size": 21},
+       {"name": "Albania", "size": 10},
+       {"name": "Belarus", "size": 4},
+       {"name": "Rep. of Moldova", "size": 2},
+       {"name": "Romania", "size": 1}
+       ]
+     },
+     {
+       "name": "northern america",
+       "children": [
+
+       {"name": "United States of America", "size": 4}
+       ]
+       },
+     {
+       "name": "other",
+       "children": [
+
+       {"name": "Occupied Palestinian Territory", "size": 97},
+       {"name": "Tibetans", "size": 15}
+       ]
+     }
+     ]
+   }
+

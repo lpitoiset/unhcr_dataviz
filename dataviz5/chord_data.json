@@ -1,0 +1,177 @@
+[
+  {
+    "source": "Syrian Arab Rep.",
+    "target": "Syrian Arab Rep.",
+    "count": 1
+  },
+  {
+    "source": "Afghanistan",
+    "target": "Afghanistan",
+    "count": 2
+  },
+  {
+    "source": "Somalia",
+    "target": "Somalia",
+    "count": 3
+  },
+  {
+    "source": "Somalia",
+    "target": "Sudan",
+    "count": 2
+  },
+  {
+    "source": "Somalia",
+    "target": "Dem. Rep. of Congo",
+    "count": 1
+  },
+  {
+    "source": "Somalia",
+    "target": "South Sudan",
+    "count": 1
+  },
+  {
+    "source": "Myanmar",
+    "target": "Myanmar",
+    "count": 3
+  },
+  {
+    "source": "Myanmar",
+    "target": "Sudan",
+    "count": 1
+  },
+  {
+    "source": "Central African Rep.",
+    "target": "Central African Rep.",
+    "count": 4
+  },
+  {
+    "source": "Sudan",
+    "target": "Somalia",
+    "count": 2
+  },
+  {
+    "source": "Sudan",
+    "target": "Sudan",
+    "count": 5
+  },
+  {
+    "source": "Sudan",
+    "target": "Iraq",
+    "count": 2
+  },
+  {
+    "source": "Sudan",
+    "target": "Eritrea",
+    "count": 1
+  },
+  {
+    "source": "Sudan",
+    "target": "Colombia",
+    "count": 1
+  },
+  {
+    "source": "Pakistan",
+    "target": "Sudan",
+    "count": 1
+  },
+  {
+    "source": "Pakistan",
+    "target": "Pakistan",
+    "count": 5
+  },
+  {
+    "source": "Pakistan",
+    "target": "Viet Nam",
+    "count": 1
+  },
+  {
+    "source": "Dem. Rep. of Congo",
+    "target": "Sudan",
+    "count": 1
+  },
+  {
+    "source": "Dem. Rep. of Congo",
+    "target": "Dem. Rep. of Congo",
+    "count": 5
+  },
+  {
+    "source": "Dem. Rep. of Congo",
+    "target": "Viet Nam",
+    "count": 2
+  },
+  {
+    "source": "Ukraine",
+    "target": "Ukraine",
+    "count": 3
+  },
+  {
+    "source": "Iraq",
+    "target": "Iraq",
+    "count": 4
+  },
+  {
+    "source": "Eritrea",
+    "target": "Somalia",
+    "count": 1
+  },
+  {
+    "source": "Eritrea",
+    "target": "Sudan",
+    "count": 1
+  },
+  {
+    "source": "Eritrea",
+    "target": "Eritrea",
+    "count": 16
+  },
+  {
+    "source": "China",
+    "target": "Sudan",
+    "count": 1
+  },
+  {
+    "source": "China",
+    "target": "China",
+    "count": 2
+  },
+  {
+    "source": "Mali",
+    "target": "Mali",
+    "count": 1
+  },
+  {
+    "source": "Sri Lanka",
+    "target": "Sri Lanka",
+    "count": 1
+  },
+  {
+    "source": "Colombia",
+    "target": "Sudan",
+    "count": 1
+  },
+  {
+    "source": "Colombia",
+    "target": "Colombia",
+    "count": 1
+  },
+  {
+    "source": "South Sudan",
+    "target": "South Sudan",
+    "count": 2
+  },
+  {
+    "source": "Nigeria",
+    "target": "Nigeria",
+    "count": 1
+  },
+  {
+    "source": "Ethiopia",
+    "target": "Ethiopia",
+    "count": 2
+  },
+  {
+    "source": "Viet Nam",
+    "target": "Somalia",
+    "count": 1
+  }
+]
