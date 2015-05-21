@@ -56,7 +56,7 @@ var projection=d3.geo.mercator()
     .translate([((width)/2),height/2]);
 var path=d3.geo.path().projection(projection);
 var g=svg.append("g");
-d3.json("world.json?v2.3",function(error,data){
+d3.json("world2.json?v2.3",function(error,data){
     var mapdata=topojson.feature(data,data.objects.un_world);
     g.append("g")
         .attr("id","countries")
@@ -75,7 +75,7 @@ d3.json("world.json?v2.3",function(error,data){
         .on("mouseout",function(){})
 var piedata=[0,0];
 var total_refugees=0;
-d3.json("json_status"+'?'+Math.random(),function(error,data){$(data)
+d3.json("json_status.json"+'?'+Math.random(),function(error,data){$(data)
         .each(function(){
             if(this.iso!=''){
                 var selection=d3.select('#'+this.iso);
