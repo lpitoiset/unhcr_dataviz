@@ -64,6 +64,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: 'Ubuntu', sans-serif;
 		color: #555;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -933,7 +934,7 @@
 /* Main */
 
 	.main {
-		padding: 6em 0 4em 0;
+		padding: 1em 0 4em 0;
 	}
 		.main.style_divider {
 			background-color: #333;
@@ -1413,4 +1414,18 @@
 .link:hover {
   stroke-opacity: .5;
 }
-
+ /* world map */
+ .map-legend {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  right: 0;
+  width: 300px;
+    margin: 0;
+    padding: 3px 10px;
+    border-radius: 10px 10px 10px 10px;
+  background-color: #666666;
+ 	left: 10px;
+ 	font-family: Ubuntu, sans-serif;
+ 	font-size: 14pt;
+ }

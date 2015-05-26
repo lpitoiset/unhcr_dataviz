@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "2",
+    "code": "AFG",
+    "iso": "AFG",
+    "name": "Afghanistan",
+    "status": "submitted",
+    "CoO": "2593291"
+  },
+  {
+    "id": "3",
+    "code": "ALB",
+    "iso": "ALB",
+    "name": "Albania",
+    "status": "submitted",
+    "CoO": "10082"
+  },
+  {
+    "id": "4",
+    "code": "ALG",
+    "iso": "DZA",
+    "name": "Algeria",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "6",
+    "code": "ANG",
+    "iso": "AGO",
+    "name": "Angola",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "7",
+    "code": "ANT",
+    "iso": "ATG",
+    "name": "Antigua and Barbuda",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "8",
+    "code": "ARE",
+    "iso": "EGY",
+    "name": "Egypt",
+    "status": "submitted",
+    "CoO": "15847"
+  },
+  {
+    "id": "9",
+    "code": "ARG",
+    "iso": "ARG",
+    "name": "Argentina",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "10",
+    "code": "ARM",
+    "iso": "ARM",
+    "name": "Armenia",
+    "status": "submitted",
+    "CoO": "11839"
+  },
+  {
+    "id": "11",
+    "code": "AUL",
+    "iso": "AUS",
+    "name": "Australia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "12",
+    "code": "AUS",
+    "iso": "AUT",
+    "name": "Austria",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "13",
+    "code": "AZE",
+    "iso": "AZE",
+    "name": "Azerbaijan",
+    "status": "submitted",
+    "CoO": "10506"
+  },
+  {
+    "id": "14",
+    "code": "BAH",
+    "iso": "BHR",
+    "name": "Bahrain",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "15",
+    "code": "BAR",
+    "iso": "BRB",
+    "name": "Barbados",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "16",
+    "code": "BDI",
+    "iso": "BDI",
+    "name": "Burundi",
+    "status": "submitted",
+    "CoO": "72498"
+  },
+  {
+    "id": "17",
+    "code": "BEL",
+    "iso": "BEL",
+    "name": "Belgium",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "18",
+    "code": "BEN",
+    "iso": "BEN",
+    "name": "Benin",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "20",
+    "code": "BGD",
+    "iso": "BGD",
+    "name": "Bangladesh",
+    "status": "submitted",
+    "CoO": "10863"
+  },
+  {
+    "id": "21",
+    "code": "BHS",
+    "iso": "BHS",
+    "name": "Bahamas",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "23",
+    "code": "BKF",
+    "iso": "BFA",
+    "name": "Burkina Faso",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "24",
+    "code": "BLR",
+    "iso": "BLR",
+    "name": "Belarus",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "25",
+    "code": "BOL",
+    "iso": "BOL",
+    "name": "Bolivia (Plurinational State of)",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "26",
+    "code": "BOT",
+    "iso": "BWA",
+    "name": "Botswana",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "27",
+    "code": "BRA",
+    "iso": "BRA",
+    "name": "Brazil",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "28",
+    "code": "BRU",
+    "iso": "BRN",
+    "name": "Brunei Darussalam",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "29",
+    "code": "BSN",
+    "iso": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "status": "submitted",
+    "CoO": "21885"
+  },
+  {
+    "id": "30",
+    "code": "BUL",
+    "iso": "BGR",
+    "name": "Bulgaria",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "31",
+    "code": "BZE",
+    "iso": "BLZ",
+    "name": "Belize",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "32",
+    "code": "CAM",
+    "iso": "KHM",
+    "name": "Cambodia",
+    "status": "submitted",
+    "CoO": "13069"
+  },
+  {
+    "id": "33",
+    "code": "CAN",
+    "iso": "CAN",
+    "name": "Canada",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "34",
+    "code": "CAR",
+    "iso": "CAF",
+    "name": "Central African Rep.",
+    "status": "submitted",
+    "CoO": "412020"
+  },
+  {
+    "id": "35",
+    "code": "CAY",
+    "iso": "CYM",
+    "name": "Cayman Islands",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "36",
+    "code": "CHD",
+    "iso": "TCD",
+    "name": "Chad",
+    "status": "submitted",
+    "CoO": "48255"
+  },
+  {
+    "id": "37",
+    "code": "CHI",
+    "iso": "CHN",
+    "name": "China",
+    "status": "submitted",
+    "CoO": "210724"
+  },
+  {
+    "id": "38",
+    "code": "CHL",
+    "iso": "CHL",
+    "name": "Chile",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "39",
+    "code": "CMR",
+    "iso": "CMR",
+    "name": "Cameroon",
+    "status": "submitted",
+    "CoO": "10750"
+  },
+  {
+    "id": "40",
+    "code": "COB",
+    "iso": "COG",
+    "name": "Congo",
+    "status": "submitted",
+    "CoO": "14473"
+  },
+  {
+    "id": "41",
+    "code": "COD",
+    "iso": "COD",
+    "name": "Dem. Rep. of the Congo",
+    "status": "submitted",
+    "CoO": "516736"
+  },
+  {
+    "id": "44",
+    "code": "COL",
+    "iso": "COL",
+    "name": "Colombia",
+    "status": "submitted",
+    "CoO": "360295"
+  },
+  {
+    "id": "45",
+    "code": "COS",
+    "iso": "CRI",
+    "name": "Costa Rica",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "46",
+    "code": "CUB",
+    "iso": "CUB",
+    "name": "Cuba",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "47",
+    "code": "CVI",
+    "iso": "CPV",
+    "name": "Cabo Verde",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "48",
+    "code": "CYP",
+    "iso": "CYP",
+    "name": "Cyprus",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "49",
+    "code": "CZE",
+    "iso": "CZE",
+    "name": "Czech Rep.",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "50",
+    "code": "DEN",
+    "iso": "DNK",
+    "name": "Denmark",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "51",
+    "code": "DJB",
+    "iso": "DJI",
+    "name": "Djibouti",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "52",
+    "code": "DMA",
+    "iso": "DMA",
+    "name": "Dominica",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "53",
+    "code": "DOM",
+    "iso": "DOM",
+    "name": "Dominican Rep.",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "54",
+    "code": "ECU",
+    "iso": "ECU",
+    "name": "Ecuador",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "56",
+    "code": "ERT",
+    "iso": "ERI",
+    "name": "Eritrea",
+    "status": "submitted",
+    "CoO": "363036"
+  },
+  {
+    "id": "57",
+    "code": "EST",
+    "iso": "EST",
+    "name": "Estonia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "58",
+    "code": "ETH",
+    "iso": "ETH",
+    "name": "Ethiopia",
+    "status": "submitted",
+    "CoO": "86823"
+  },
+  {
+    "id": "60",
+    "code": "FIJ",
+    "iso": "FJI",
+    "name": "Fiji",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "61",
+    "code": "FIN",
+    "iso": "FIN",
+    "name": "Finland",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "64",
+    "code": "FRA",
+    "iso": "FRA",
+    "name": "France",
+    "status": "submitted",
+    "CoO": "3000000"
+  },
+  {
+    "id": "66",
+    "code": "FSM",
+    "iso": "FSM",
+    "name": "Micronesia (Federated States of)",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "67",
+    "code": "GAB",
+    "iso": "GAB",
+    "name": "Gabon",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "68",
+    "code": "GAM",
+    "iso": "GMB",
+    "name": "Gambia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "70",
+    "code": "GBR",
+    "iso": "GBR",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "71",
+    "code": "GEO",
+    "iso": "GEO",
+    "name": "Georgia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "72",
+    "code": "GFR",
+    "iso": "DEU",
+    "name": "Germany",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "73",
+    "code": "GHA",
+    "iso": "GHA",
+    "name": "Ghana",
+    "status": "submitted",
+    "CoO": "22145"
+  },
+  {
+    "id": "75",
+    "code": "GNB",
+    "iso": "GNB",
+    "name": "Guinea-Bissau",
+    "status": "submitted",
+    "CoO": "15197"
+  },
+  {
+    "id": "76",
+    "code": "GRE",
+    "iso": "GRC",
+    "name": "Greece",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "77",
+    "code": "GRN",
+    "iso": "GRD",
+    "name": "Grenada",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "78",
+    "code": "GUA",
+    "iso": "GTM",
+    "name": "Guatemala",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "79",
+    "code": "GUI",
+    "iso": "GIN",
+    "name": "Guinea",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "80",
+    "code": "GUY",
+    "iso": "GUY",
+    "name": "Guyana",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "81",
+    "code": "HAI",
+    "iso": "HTI",
+    "name": "Haiti",
+    "status": "submitted",
+    "CoO": "37160"
+  },
+  {
+    "id": "82",
+    "code": "HKG",
+    "iso": "HKG",
+    "name": "Hong Kong SAR, China",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "83",
+    "code": "HON",
+    "iso": "HND",
+    "name": "Honduras",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "84",
+    "code": "HRV",
+    "iso": "HRV",
+    "name": "Croatia",
+    "status": "submitted",
+    "CoO": "40125"
+  },
+  {
+    "id": "85",
+    "code": "HUN",
+    "iso": "HUN",
+    "name": "Hungary",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "86",
+    "code": "ICE",
+    "iso": "ISL",
+    "name": "Iceland",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "87",
+    "code": "ICO",
+    "iso": "CIV",
+    "name": "Côte d'Ivoire",
+    "status": "submitted",
+    "CoO": "71941"
+  },
+  {
+    "id": "88",
+    "code": "IND",
+    "iso": "IND",
+    "name": "India",
+    "status": "submitted",
+    "CoO": "10431"
+  },
+  {
+    "id": "89",
+    "code": "INS",
+    "iso": "IDN",
+    "name": "Indonesia",
+    "status": "submitted",
+    "CoO": "14403"
+  },
+  {
+    "id": "90",
+    "code": "IRE",
+    "iso": "IRL",
+    "name": "Ireland",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "91",
+    "code": "IRN",
+    "iso": "IRN",
+    "name": "Iran (Islamic Rep. of)",
+    "status": "submitted",
+    "CoO": "81821"
+  },
+  {
+    "id": "92",
+    "code": "IRQ",
+    "iso": "IRQ",
+    "name": "Iraq",
+    "status": "submitted",
+    "CoO": "369672"
+  },
+  {
+    "id": "93",
+    "code": "ISR",
+    "iso": "ISR",
+    "name": "Israel",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "94",
+    "code": "ITA",
+    "iso": "ITA",
+    "name": "Italy",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "95",
+    "code": "JAM",
+    "iso": "JAM",
+    "name": "Jamaica",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "96",
+    "code": "JOR",
+    "iso": "JOR",
+    "name": "Jordan",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "97",
+    "code": "JPN",
+    "iso": "JPN",
+    "name": "Japan",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "98",
+    "code": "KAZ",
+    "iso": "KAZ",
+    "name": "Kazakhstan",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "99",
+    "code": "KEN",
+    "iso": "KEN",
+    "name": "Kenya",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "100",
+    "code": "KGZ",
+    "iso": "KGZ",
+    "name": "Kyrgyzstan",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "102",
+    "code": "KOR",
+    "iso": "KOR",
+    "name": "Rep. of Korea",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "104",
+    "code": "KUW",
+    "iso": "KWT",
+    "name": "Kuwait",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "105",
+    "code": "LAO",
+    "iso": "LAO",
+    "name": "Lao People's Dem. Rep.",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "106",
+    "code": "LBR",
+    "iso": "LBR",
+    "name": "Liberia",
+    "status": "submitted",
+    "CoO": "13575"
+  },
+  {
+    "id": "107",
+    "code": "LBY",
+    "iso": "LBY",
+    "name": "Libya",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "108",
+    "code": "LCA",
+    "iso": "LCA",
+    "name": "Saint Lucia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "109",
+    "code": "LEB",
+    "iso": "LBN",
+    "name": "Lebanon",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "110",
+    "code": "LES",
+    "iso": "LSO",
+    "name": "Lesotho",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "111",
+    "code": "LIE",
+    "iso": "LIE",
+    "name": "Liechtenstein",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "112",
+    "code": "LKA",
+    "iso": "LKA",
+    "name": "Sri Lanka",
+    "status": "submitted",
+    "CoO": "121979"
+  },
+  {
+    "id": "113",
+    "code": "LTU",
+    "iso": "LTU",
+    "name": "Lithuania",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "114",
+    "code": "LUX",
+    "iso": "LUX",
+    "name": "Luxembourg",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "115",
+    "code": "LVA",
+    "iso": "LVA",
+    "name": "Latvia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "116",
+    "code": "MAC",
+    "iso": "MAC",
+    "name": "Macao SAR, China",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "117",
+    "code": "MAD",
+    "iso": "MDG",
+    "name": "Madagascar",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "119",
+    "code": "MAU",
+    "iso": "MRT",
+    "name": "Mauritania",
+    "status": "submitted",
+    "CoO": "34111"
+  },
+  {
+    "id": "120",
+    "code": "MCD",
+    "iso": "MKD",
+    "name": "The former Yugoslav Rep. of Macedonia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "121",
+    "code": "MCO",
+    "iso": "MCO",
+    "name": "Monaco",
+    "status": null,
+    "CoO": "0"
+  },
+  {
+    "id": "122",
+    "code": "MDA",
+    "iso": "MDA",
+    "name": "Rep. of Moldova",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "124",
+    "code": "MEX",
+    "iso": "MEX",
+    "name": "Mexico",
+    "status": "submitted",
+    "CoO": "10653"
+  },
+  {
+    "id": "126",
+    "code": "MLI",
+    "iso": "MLI",
+    "name": "Mali",
+    "status": "submitted",
+    "CoO": "139197"
+  },
+  {
+    "id": "127",
+    "code": "MLS",
+    "iso": "MYS",
+    "name": "Malaysia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "128",
+    "code": "MLW",
+    "iso": "MWI",
+    "name": "Malawi",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "129",
+    "code": "MNG",
+    "iso": "MNG",
+    "name": "Mongolia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "130",
+    "code": "MOR",
+    "iso": "MAR",
+    "name": "Morocco",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "131",
+    "code": "MOZ",
+    "iso": "MOZ",
+    "name": "Mozambique",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "132",
+    "code": "MTA",
+    "iso": "MLT",
+    "name": "Malta",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "133",
+    "code": "MNE",
+    "iso": "MNE",
+    "name": "Montenegro",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "135",
+    "code": "MYA",
+    "iso": "MMR",
+    "name": "Myanmar",
+    "status": "submitted",
+    "CoO": "478996"
+  },
+  {
+    "id": "136",
+    "code": "NAM",
+    "iso": "NAM",
+    "name": "Namibia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "137",
+    "code": "NEP",
+    "iso": "NPL",
+    "name": "Nepal",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "138",
+    "code": "NET",
+    "iso": "NLD",
+    "name": "Netherlands",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "139",
+    "code": "NGR",
+    "iso": "NER",
+    "name": "Niger",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "140",
+    "code": "NIC",
+    "iso": "NIC",
+    "name": "Nicaragua",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "141",
+    "code": "NIG",
+    "iso": "NGA",
+    "name": "Nigeria",
+    "status": "submitted",
+    "CoO": "90908"
+  },
+  {
+    "id": "143",
+    "code": "NOR",
+    "iso": "NOR",
+    "name": "Norway",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "144",
+    "code": "NRU",
+    "iso": "NRU",
+    "name": "Nauru",
+    "status": null,
+    "CoO": "0"
+  },
+  {
+    "id": "145",
+    "code": "NZL",
+    "iso": "NZL",
+    "name": "New Zealand",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "146",
+    "code": "OMN",
+    "iso": "OMN",
+    "name": "Oman",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "147",
+    "code": "PAK",
+    "iso": "PAK",
+    "name": "Pakistan",
+    "status": "submitted",
+    "CoO": "335809"
+  },
+  {
+    "id": "148",
+    "code": "PAN",
+    "iso": "PAN",
+    "name": "Panama",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "149",
+    "code": "PAR",
+    "iso": "PRY",
+    "name": "Paraguay",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "150",
+    "code": "PER",
+    "iso": "PER",
+    "name": "Peru",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "151",
+    "code": "PHI",
+    "iso": "PHL",
+    "name": "Philippines",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "152",
+    "code": "PLW",
+    "iso": "PLW",
+    "name": "Palau",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "153",
+    "code": "PNG",
+    "iso": "PNG",
+    "name": "Papua New Guinea",
+    "status": null,
+    "CoO": "0"
+  },
+  {
+    "id": "154",
+    "code": "POL",
+    "iso": "POL",
+    "name": "Poland",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "155",
+    "code": "POR",
+    "iso": "PRT",
+    "name": "Portugal",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "157",
+    "code": "QAT",
+    "iso": "QAT",
+    "name": "Qatar",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "158",
+    "code": "ROM",
+    "iso": "ROU",
+    "name": "Romania",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "159",
+    "code": "RSA",
+    "iso": "ZAF",
+    "name": "South Africa",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "160",
+    "code": "RUS",
+    "iso": "RUS",
+    "name": "Russian Federation",
+    "status": "submitted",
+    "CoO": "72718"
+  },
+  {
+    "id": "161",
+    "code": "RWA",
+    "iso": "RWA",
+    "name": "Rwanda",
+    "status": "submitted",
+    "CoO": "79386"
+  },
+  {
+    "id": "162",
+    "code": "SAL",
+    "iso": "SLV",
+    "name": "El Salvador",
+    "status": "submitted",
+    "CoO": "10960"
+  },
+  {
+    "id": "163",
+    "code": "SAU",
+    "iso": "SAU",
+    "name": "Saudi Arabia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "164",
+    "code": "SRB",
+    "iso": "SRB",
+    "name": "Serbia (and Kosovo: S/RES/1244 (1999))",
+    "status": "submitted",
+    "CoO": "45847"
+  },
+  {
+    "id": "165",
+    "code": "SEN",
+    "iso": "SEN",
+    "name": "Senegal",
+    "status": "submitted",
+    "CoO": "23111"
+  },
+  {
+    "id": "168",
+    "code": "SIN",
+    "iso": "SGP",
+    "name": "Singapore",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "169",
+    "code": "SLE",
+    "iso": "SLE",
+    "name": "Sierra Leone",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "171",
+    "code": "SOL",
+    "iso": "SLB",
+    "name": "Solomon Islands",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "172",
+    "code": "SOM",
+    "iso": "SOM",
+    "name": "Somalia",
+    "status": "submitted",
+    "CoO": "1105991"
+  },
+  {
+    "id": "173",
+    "code": "SPA",
+    "iso": "ESP",
+    "name": "Spain",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "174",
+    "code": "SRV",
+    "iso": "VNM",
+    "name": "Viet Nam",
+    "status": "submitted",
+    "CoO": "313418"
+  },
+  {
+    "id": "175",
+    "code": "STK",
+    "iso": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "177",
+    "code": "SUD",
+    "iso": "SDN",
+    "name": "Sudan",
+    "status": "submitted",
+    "CoO": "665924"
+  },
+  {
+    "id": "178",
+    "code": "SUR",
+    "iso": "SUR",
+    "name": "Suriname",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "179",
+    "code": "SSD",
+    "iso": "SSD",
+    "name": "South Sudan",
+    "status": "submitted",
+    "CoO": "498896"
+  },
+  {
+    "id": "180",
+    "code": "SVK",
+    "iso": "SVK",
+    "name": "Slovakia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "181",
+    "code": "SVN",
+    "iso": "SVN",
+    "name": "Slovenia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "182",
+    "code": "SWA",
+    "iso": "SWZ",
+    "name": "Swaziland",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "183",
+    "code": "SWE",
+    "iso": "SWE",
+    "name": "Sweden",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "184",
+    "code": "SWI",
+    "iso": "CHE",
+    "name": "Switzerland",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "185",
+    "code": "SYR",
+    "iso": "SYR",
+    "name": "Syrian Arab Rep.",
+    "status": "submitted",
+    "CoO": "3882670"
+  },
+  {
+    "id": "186",
+    "code": "TAN",
+    "iso": "TZA",
+    "name": "United Rep. of Tanzania",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "187",
+    "code": "TCI",
+    "iso": "TCA",
+    "name": "Turks and Caicos Islands",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "188",
+    "code": "THA",
+    "iso": "THA",
+    "name": "Thailand",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "189",
+    "code": "TJK",
+    "iso": "TJK",
+    "name": "Tajikistan",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "190",
+    "code": "TKM",
+    "iso": "TKM",
+    "name": "Turkmenistan",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "191",
+    "code": "TMP",
+    "iso": "TLS",
+    "name": "Timor-Leste",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "192",
+    "code": "TOG",
+    "iso": "TGO",
+    "name": "Togo",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "193",
+    "code": "TON",
+    "iso": "TON",
+    "name": "Tonga",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "194",
+    "code": "TRT",
+    "iso": "TTO",
+    "name": "Trinidad and Tobago",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "195",
+    "code": "TUN",
+    "iso": "TUN",
+    "name": "Tunisia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "196",
+    "code": "TUR",
+    "iso": "TUR",
+    "name": "Turkey",
+    "status": "submitted",
+    "CoO": "63963"
+  },
+  {
+    "id": "198",
+    "code": "UAE",
+    "iso": "ARE",
+    "name": "United Arab Emirates",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "199",
+    "code": "UGA",
+    "iso": "UGA",
+    "name": "Uganda",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "200",
+    "code": "UKR",
+    "iso": "UKR",
+    "name": "Ukraine",
+    "status": "submitted",
+    "CoO": "237218"
+  },
+  {
+    "id": "201",
+    "code": "URU",
+    "iso": "URY",
+    "name": "Uruguay",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "202",
+    "code": "USA",
+    "iso": "USA",
+    "name": "United States of America",
+    "status": "submitted",
+    "CoO": "3000000"
+  },
+  {
+    "id": "203",
+    "code": "UZB",
+    "iso": "UZB",
+    "name": "Uzbekistan",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "204",
+    "code": "VAN",
+    "iso": "VUT",
+    "name": "Vanuatu",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "206",
+    "code": "VCT",
+    "iso": "VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "207",
+    "code": "VEN",
+    "iso": "VEN",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "211",
+    "code": "YEM",
+    "iso": "YEM",
+    "name": "Yemen",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "213",
+    "code": "ZAM",
+    "iso": "ZMB",
+    "name": "Zambia",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "214",
+    "code": "ZIM",
+    "iso": "ZWE",
+    "name": "Zimbabwe",
+    "status": "submitted",
+    "CoO": "22489"
+  },
+  {
+    "id": "215",
+    "code": "KOS",
+    "iso": "",
+    "name": "Kosovo (S/RES/1244(1999))",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "224",
+    "code": "ABW",
+    "iso": "ABW",
+    "name": "Aruba",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "225",
+    "code": "BVI",
+    "iso": "VGB",
+    "name": "British Virgin Islands",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "228",
+    "code": "MSR",
+    "iso": "MSR",
+    "name": "Montserrat",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "229",
+    "code": "BES",
+    "iso": "BES",
+    "name": "Bonaire, Saint Eustatius and Saba",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "254",
+    "code": "CUW",
+    "iso": "CUW",
+    "name": "Curaçao ",
+    "status": "submitted",
+    "CoO": "0"
+  },
+  {
+    "id": "255",
+    "code": "SXM",
+    "iso": "SXM",
+    "name": "Sint Maarten (Dutch part)",
+    "status": "submitted",
+    "CoO": "0"
+  }
+]
