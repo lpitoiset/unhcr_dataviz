@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <title>Dataviz Labs</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+        <link rel="stylesheet" href="css/style.css" />
+    <!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+</head>
+<body>
+
+<div id="content">
+
+<!-- Sections -->
+<div id="intro" class="section intro">
+    <div class="logo"><img src="css/images/logo-labs-content-trends.png" /></div>
+    <div class="description">
+        <p><strong>Informing humanitarians worldwide.</strong></p>
+        <p>ReliefWeb has been the leading source for reliable and timely humanitarian information on global crises and disasters since 1996.</p>
+    </div>
+    <div class="data"></div>
+    <div class="disclaimer">
+      <p>Data for jobs, training, vulnerable groups and some themes is only available since the launch of the new <a href="http://reliefweb.int">ReliefWeb</a> in 2011.</p>
+    </div>
+</div>
+
+<h3 class="section-header">Country overview</h3>
+<div id="map" class="section map"></div>
+
+<h3 class="section-header">Updates overview</h3>
+<div id="overview-updates" class="section details"></div>
+
+</div>
+
+<!-- Libraries -->
+<script src="js/libraries/simple_statistics.js"></script>
+<script src="js/libraries/spin.min.js"></script>
+<script src="js/libraries/d3.v3.min.js"></script>
+<script src="js/libraries/topojson.v1.min.js"></script>
+<script src="js/libraries/queue.v1.min.js"></script>
+<script src="js/libraries/colorbrewer.js"></script>
+<script src="js/libraries/Blob.js"></script>
+<script src="js/libraries/FileSaver.min.js"></script>
+
+<!-- Application -->
+<script src="js/export.js"></script>
+<script src="js/rwsettings.js"></script>
+<script src="js/rwapi.js"></script>
+<script src="js/section.intro.js"></script>
+<script src="js/section.map.js"></script>
+<script src="js/section.details.js"></script>
+<script>
+(function () {
+  sections.intro('intro').load();
+  sections.map('map').load();
+  sections.details('overview-updates').load();
+})();
+</script>
+
+
+    
+    </body>
+</html>

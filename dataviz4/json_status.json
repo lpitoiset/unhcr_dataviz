@@ -13,7 +13,7 @@
     "iso": "ALB",
     "name": "Albania",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "10082"
   },
   {
     "id": "4",
@@ -45,7 +45,7 @@
     "iso": "EGY",
     "name": "Egypt",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "15847"
   },
   {
     "id": "9",
@@ -61,7 +61,7 @@
     "iso": "ARM",
     "name": "Armenia",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "11839"
   },
   {
     "id": "11",
@@ -85,7 +85,7 @@
     "iso": "AZE",
     "name": "Azerbaijan",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "10506"
   },
   {
     "id": "14",
@@ -109,7 +109,7 @@
     "iso": "BDI",
     "name": "Burundi",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "72498"
   },
   {
     "id": "17",
@@ -133,7 +133,7 @@
     "iso": "BGD",
     "name": "Bangladesh",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "10863"
   },
   {
     "id": "21",
@@ -197,7 +197,7 @@
     "iso": "BIH",
     "name": "Bosnia and Herzegovina",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "21885"
   },
   {
     "id": "30",
@@ -221,7 +221,7 @@
     "iso": "KHM",
     "name": "Cambodia",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "13069"
   },
   {
     "id": "33",
@@ -253,7 +253,7 @@
     "iso": "TCD",
     "name": "Chad",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "48255"
   },
   {
     "id": "37",
@@ -277,7 +277,7 @@
     "iso": "CMR",
     "name": "Cameroon",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "10750"
   },
   {
     "id": "40",
@@ -285,7 +285,7 @@
     "iso": "COG",
     "name": "Congo",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "14473"
   },
   {
     "id": "41",
@@ -405,7 +405,7 @@
     "iso": "ETH",
     "name": "Ethiopia",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "86823"
   },
   {
     "id": "60",
@@ -485,7 +485,7 @@
     "iso": "GHA",
     "name": "Ghana",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "22145"
   },
   {
     "id": "75",
@@ -493,7 +493,7 @@
     "iso": "GNB",
     "name": "Guinea-Bissau",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "15197"
   },
   {
     "id": "76",
@@ -541,7 +541,7 @@
     "iso": "HTI",
     "name": "Haiti",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "37160"
   },
   {
     "id": "82",
@@ -565,7 +565,7 @@
     "iso": "HRV",
     "name": "Croatia",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "40125"
   },
   {
     "id": "85",
@@ -589,7 +589,7 @@
     "iso": "CIV",
     "name": "Côte d'Ivoire",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "71941"
   },
   {
     "id": "88",
@@ -597,7 +597,7 @@
     "iso": "IND",
     "name": "India",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "10431"
   },
   {
     "id": "89",
@@ -605,7 +605,7 @@
     "iso": "IDN",
     "name": "Indonesia",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "14403"
   },
   {
     "id": "90",
@@ -621,7 +621,7 @@
     "iso": "IRN",
     "name": "Iran (Islamic Rep. of)",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "81821"
   },
   {
     "id": "92",
@@ -725,7 +725,7 @@
     "iso": "LBR",
     "name": "Liberia",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "13575"
   },
   {
     "id": "107",
@@ -821,7 +821,7 @@
     "iso": "MRT",
     "name": "Mauritania",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "34111"
   },
   {
     "id": "120",
@@ -853,7 +853,7 @@
     "iso": "MEX",
     "name": "Mexico",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "10653"
   },
   {
     "id": "126",
@@ -973,7 +973,7 @@
     "iso": "NGA",
     "name": "Nigeria",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "90908"
   },
   {
     "id": "143",
@@ -1109,7 +1109,7 @@
     "iso": "RUS",
     "name": "Russian Federation",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "72718"
   },
   {
     "id": "161",
@@ -1117,7 +1117,7 @@
     "iso": "RWA",
     "name": "Rwanda",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "79386"
   },
   {
     "id": "162",
@@ -1125,7 +1125,7 @@
     "iso": "SLV",
     "name": "El Salvador",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "10960"
   },
   {
     "id": "163",
@@ -1141,7 +1141,7 @@
     "iso": "SRB",
     "name": "Serbia (and Kosovo: S/RES/1244 (1999))",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "45847"
   },
   {
     "id": "165",
@@ -1149,7 +1149,7 @@
     "iso": "SEN",
     "name": "Senegal",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "23111"
   },
   {
     "id": "168",
@@ -1365,7 +1365,7 @@
     "iso": "TUR",
     "name": "Turkey",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "63963"
   },
   {
     "id": "198",
@@ -1461,7 +1461,7 @@
     "iso": "ZWE",
     "name": "Zimbabwe",
     "status": "submitted",
-    "CoO": "0"
+    "CoO": "22489"
   },
   {
     "id": "215",

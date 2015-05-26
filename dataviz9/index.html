@@ -1,0 +1,240 @@
+<!DOCTYPE HTML>
+<!-- Laurent Pitoiset 2015 -->
+<html>
+<head>
+	<title>Dataviz Labs</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+	<!-- application settings -->
+	<script type="text/javascript">
+	var debug=true;
+	function cl(what){
+		if (debug) {console.log(what)};
+	}
+	</script>
+	<!-- js libraries -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/jquery.scrolly.min.js"></script>
+	<script src="js/skel.min.js"></script>
+	<script src="js/init.js"></script>
+	<!-- d3 libraries -->
+	<script src="js/d3.min.js"></script>
+	<script src="js/topojson.v1.min.js"></script>
+
+	<!-- <script src="js/sankey.js"></script> -->
+<!-- application scripts -->
+		<link rel="stylesheet" href="css/skel.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/style-xlarge.css" />
+		<link rel="stylesheet" href="fonts/humanitarian-webfont.css" />
+		<link rel="stylesheet" href="css/humanitarian-icons.css" />
+	<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	<!-- application js -->
+	<script type="text/javascript">
+
+		$(function() {
+
+			$('.tab-panels .tabs li').on('click', function() {
+				//alert("hello");
+				var $panel = $(this).closest('.tab-panels');
+
+				$panel.find('.tabs li.active').removeClass('active');
+				$(this).addClass('active');
+
+		        //figure out which panel to show
+		        var panelToShow = $(this).attr('rel');
+		        cl("panel to show: "+panelToShow);
+
+		        //hide current panel
+		        cl("panel to hide: " +$("div.allpanels").find(' .panel.active').attr('id'));
+		        $("div.allpanels").find('.panel.active').slideUp(300, showNextPanel);
+
+		        //show next panel
+		        function showNextPanel() {
+		        	$(this).removeClass('active');
+
+		        	$('#'+panelToShow).slideDown(300, function() {
+		        		$(this).addClass('active');
+		        	});
+		        }
+		    });
+
+			$("div.query_params").find(query_year).on('change', function(){
+				// alert("select");
+				var json_filename = $(this).val()+"_ref_origin.json";
+				cl(json_filename);
+			});
+		});
+
+	</script>
+</head>
+<body>
+
+	<!-- navigation -->
+	<nav>
+	</nav>
+	<!-- query builder -->
+	<section id="one" class="main style2 special">
+		<div class="container">
+			<div class="querybuilder">
+				<header class="major">
+					<h2><i class="icon-unhcr-office"></i>&nbsp;Popstats query builder</h2>
+				</header>
+				<p>Generate visualizations</p>
+				<br>
+				<div class="query_params">
+					<h3>
+						I want to see 
+
+						<select name="form_year" id="query_year">
+							<option value="2014" selected="">2014</option>
+							<option value="2013">2013</option>
+						</select>
+						<select name="form_poc" id="querybuilder">
+							<option value="1">Refugees</option>
+							<option value="2">Asylum-seekers</option>
+							<option value="3">all Persons of Concern</option>
+						</select>
+						by				
+						<select name="form_type" id="querybuilder">
+							<option value="1" selected="">Origin</option>
+							<option value="2">Destination</option>
+						</select>
+						on:
+					</h3>
+				</div>
+				<div class="tab-panels">
+					<ul class="tabs">
+						<li rel="panel1" class="active">world map</li>
+						<li rel="panel2">sankey</li>
+						<li rel="panel3">bubbles</li>
+						<li rel="panel4">tree map</li>
+					</ul>
+				</div>
+
+
+				<br />
+			</div>
+			<div class="allpanels">
+				<div id="panel1" class="panel active">
+
+					<div class="" id="map">
+
+					</div>
+
+					<script>
+						var m_width=$("#map").width(),width=$("#map").width(),height=width/1.7;
+						$('#map').height(width/1.7);
+						var svg=d3.select("#map")
+						.append("svg")
+						.attr("preserveAspectRatio","xMidYMid")
+						.attr("viewBox","0 0 "+width+" "+height)
+						.attr("width",m_width)
+						.attr("height",m_width*height/width);
+						var scale=width/6.3;
+						var projection=d3.geo.mercator()
+						.scale(scale)
+						.center([10,35])
+						.translate([((width)/2),height/2]);
+						var path=d3.geo.path().projection(projection);
+						var g=svg.append("g");
+						d3.json("data/world2.json",function(error,data){
+							var mapdata=topojson.feature(data,data.objects.un_world);
+							g.append("g")
+							.attr("id","countries")
+							.selectAll("path")
+							.data(mapdata.features)
+							.enter()
+							.append("path")
+							.attr("id",function(d){return d.id;})
+							.attr('class','country')
+							.attr('fill',function(d){return'#c3c3c3';})
+							.attr('fill-opacity',0.7)
+							.attr('stroke','#FAFAFA')
+							.attr('stroke-width',0.5)
+							.attr("d",path)
+							.on("mouseover",function(){})
+							.on("mouseout",function(){})
+							var piedata=[0,0];
+							var total_refugees=0;
+
+
+							var json_filename = "data/"+$("div.query_params").find(query_year).val()+"_ref_origin.json";
+
+							d3.json(json_filename+'?'+Math.random(),function(error,data){$(data)
+								.each(function(){
+									if(this.iso!=''){
+										var selection=d3.select('#'+this.iso);
+										if(this.CoO=='0'){
+											selection.attr('fill','#c3c3c3');total_refugees+=this.CoO;
+										}
+										if(this.CoO>0){
+											selection.attr('fill','rgb(254,240,217)');total_refugees+=this.CoO;
+										}
+										if(this.CoO>20000){
+											selection.attr('fill','rgb(254,232,200)');total_refugees+=this.CoO;
+										}
+										if(this.CoO>30000){
+											selection.attr('fill','rgb(253,212,158)');total_refugees+=this.CoO;
+										}
+										if(this.CoO>50000){
+											selection.attr('fill','rgb(253,187,132)');total_refugees+=this.CoO;
+										}
+										if(this.CoO>100000){
+											selection.attr('fill','rgb(252,141,89)');total_refugees+=this.CoO;
+										}
+										if(this.CoO>1000000){
+											selection.attr('fill','rgb(239,101,72)');total_refugees+=this.CoO;
+										}
+										if(this.CoO>2000000){
+											selection.attr('fill','rgb(215,48,31)');total_refugees+=this.CoO;
+										}
+										if(this.CoO>3000000){
+											selection.attr('fill','rgb(153,0,0)');total_refugees+=this.CoO;
+										}
+                /*
+                if(this.status=='submitted'){
+                    selection.attr('fill','#111111');piedata[0]=piedata[0]+1;
+                }
+                else{selection.attr('fill','#618784');piedata[1]=piedata[1]+1;
+                */
+
+            }
+        });
+
+	});
+	});
+	</script>
+
+	</div>
+	<div id="panel2" class="panel">
+
+		<p id="chart">
+			sankey script here
+		</div>
+		<div id="panel3" class="panel">
+			content3<br/>
+			content3<br/>
+			content3<br/>
+			content3<br/>
+			content3<br/>
+		</div>
+		<div id="panel4" class="panel">
+			content4<br/>
+			content4<br/>
+			content4<br/>
+			content4<br/>
+			content4<br/>
+		</div>
+	</div>
+
+	</div>
+
+	</div>
+	</section>
+
+</body>
+</html>

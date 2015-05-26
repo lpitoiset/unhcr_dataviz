@@ -169,6 +169,14 @@
 		text-align: right;
 	}
 
+/* misc LP */
+
+.querybuilder {
+	background-color: #333;
+	width: 100%
+}
+
+
 /* Section/Article */
 
 	section.special, article.special {
@@ -243,7 +251,6 @@
 	input[type="text"],
 	input[type="password"],
 	input[type="email"],
-	select,
 	textarea {
 		-moz-appearance: none;
 		-webkit-appearance: none;
@@ -928,16 +935,22 @@
 	.main {
 		padding: 6em 0 4em 0;
 	}
-
+		.main.style_divider {
+			background-color: #333;
+			color: rgba(255, 255, 255, 0.75);
+			background-attachment: fixed,							fixed;
+			background-image: url("images/overlay1.png"), url("../images/pic10.jpg");
+			background-size: auto,							cover;
+			height: 50px;
+		}
 		.main.style1 {
 			background: #fff;
 		}
 
 		.main.style2 {
-			background-color: #333;
+			background-color: #fff;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../images/header.jpg");
 			background-size: auto,							cover;
 		}
 
