@@ -1,1522 +1,1057 @@
 [
   {
-    "id": "2",
-    "code": "AFG",
     "iso": "AFG",
     "name": "Afghanistan",
-    "status": "submitted",
-    "CoO": "2593291"
+    "CoO": "2556502"
   },
   {
-    "id": "3",
-    "code": "ALB",
+    "iso": "AIA",
+    "name": "Anguilla",
+    "CoO": "0"
+  },
+  {
     "iso": "ALB",
     "name": "Albania",
-    "status": "submitted",
-    "CoO": "10082"
+    "CoO": "10103"
   },
   {
-    "id": "4",
-    "code": "ALG",
     "iso": "DZA",
     "name": "Algeria",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "3660"
   },
   {
-    "id": "6",
-    "code": "ANG",
+    "iso": "AND",
+    "name": "Andorra",
+    "CoO": "5"
+  },
+  {
     "iso": "AGO",
     "name": "Angola",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "10286"
   },
   {
-    "id": "7",
-    "code": "ANT",
     "iso": "ATG",
     "name": "Antigua and Barbuda",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "49"
   },
   {
-    "id": "8",
-    "code": "ARE",
     "iso": "EGY",
     "name": "Egypt",
-    "status": "submitted",
-    "CoO": "15847"
+    "CoO": "12810"
   },
   {
-    "id": "9",
-    "code": "ARG",
     "iso": "ARG",
     "name": "Argentina",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "388"
   },
   {
-    "id": "10",
-    "code": "ARM",
     "iso": "ARM",
     "name": "Armenia",
-    "status": "submitted",
-    "CoO": "11839"
+    "CoO": "11998"
   },
   {
-    "id": "11",
-    "code": "AUL",
     "iso": "AUS",
     "name": "Australia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "28"
   },
   {
-    "id": "12",
-    "code": "AUS",
     "iso": "AUT",
     "name": "Austria",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "10"
   },
   {
-    "id": "13",
-    "code": "AZE",
     "iso": "AZE",
     "name": "Azerbaijan",
-    "status": "submitted",
-    "CoO": "10506"
+    "CoO": "10814"
   },
   {
-    "id": "14",
-    "code": "BAH",
     "iso": "BHR",
     "name": "Bahrain",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "275"
   },
   {
-    "id": "15",
-    "code": "BAR",
     "iso": "BRB",
     "name": "Barbados",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "67"
   },
   {
-    "id": "16",
-    "code": "BDI",
     "iso": "BDI",
     "name": "Burundi",
-    "status": "submitted",
-    "CoO": "72498"
+    "CoO": "72647"
   },
   {
-    "id": "17",
-    "code": "BEL",
     "iso": "BEL",
     "name": "Belgium",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "78"
   },
   {
-    "id": "18",
-    "code": "BEN",
     "iso": "BEN",
     "name": "Benin",
-    "status": "submitted",
+    "CoO": "302"
+  },
+  {
+    "iso": "BMU",
+    "name": "Bermuda",
     "CoO": "0"
   },
   {
-    "id": "20",
-    "code": "BGD",
     "iso": "BGD",
     "name": "Bangladesh",
-    "status": "submitted",
-    "CoO": "10863"
+    "CoO": "9728"
   },
   {
-    "id": "21",
-    "code": "BHS",
     "iso": "BHS",
     "name": "Bahamas",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "210"
   },
   {
-    "id": "23",
-    "code": "BKF",
+    "iso": "BTN",
+    "name": "Bhutan",
+    "CoO": "31567"
+  },
+  {
     "iso": "BFA",
     "name": "Burkina Faso",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1584"
   },
   {
-    "id": "24",
-    "code": "BLR",
     "iso": "BLR",
     "name": "Belarus",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "4397"
   },
   {
-    "id": "25",
-    "code": "BOL",
     "iso": "BOL",
     "name": "Bolivia (Plurinational State of)",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "601"
   },
   {
-    "id": "26",
-    "code": "BOT",
     "iso": "BWA",
     "name": "Botswana",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "168"
   },
   {
-    "id": "27",
-    "code": "BRA",
     "iso": "BRA",
     "name": "Brazil",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "985"
   },
   {
-    "id": "28",
-    "code": "BRU",
     "iso": "BRN",
     "name": "Brunei Darussalam",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1"
   },
   {
-    "id": "29",
-    "code": "BSN",
     "iso": "BIH",
     "name": "Bosnia and Herzegovina",
-    "status": "submitted",
-    "CoO": "21885"
+    "CoO": "26790"
   },
   {
-    "id": "30",
-    "code": "BUL",
     "iso": "BGR",
     "name": "Bulgaria",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1880"
   },
   {
-    "id": "31",
-    "code": "BZE",
     "iso": "BLZ",
     "name": "Belize",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "40"
   },
   {
-    "id": "32",
-    "code": "CAM",
     "iso": "KHM",
     "name": "Cambodia",
-    "status": "submitted",
-    "CoO": "13069"
+    "CoO": "13747"
   },
   {
-    "id": "33",
-    "code": "CAN",
     "iso": "CAN",
     "name": "Canada",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "99"
   },
   {
-    "id": "34",
-    "code": "CAR",
     "iso": "CAF",
     "name": "Central African Rep.",
-    "status": "submitted",
-    "CoO": "412020"
+    "CoO": "252867"
   },
   {
-    "id": "35",
-    "code": "CAY",
     "iso": "CYM",
     "name": "Cayman Islands",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "6"
   },
   {
-    "id": "36",
-    "code": "CHD",
     "iso": "TCD",
     "name": "Chad",
-    "status": "submitted",
-    "CoO": "48255"
+    "CoO": "48640"
   },
   {
-    "id": "37",
-    "code": "CHI",
     "iso": "CHN",
     "name": "China",
-    "status": "submitted",
-    "CoO": "210724"
+    "CoO": "195133"
   },
   {
-    "id": "38",
-    "code": "CHL",
     "iso": "CHL",
     "name": "Chile",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "596"
   },
   {
-    "id": "39",
-    "code": "CMR",
     "iso": "CMR",
     "name": "Cameroon",
-    "status": "submitted",
-    "CoO": "10750"
+    "CoO": "11427"
   },
   {
-    "id": "40",
-    "code": "COB",
     "iso": "COG",
     "name": "Congo",
-    "status": "submitted",
-    "CoO": "14473"
+    "CoO": "11753"
   },
   {
-    "id": "41",
-    "code": "COD",
     "iso": "COD",
     "name": "Dem. Rep. of the Congo",
-    "status": "submitted",
-    "CoO": "516736"
+    "CoO": "499563"
   },
   {
-    "id": "44",
-    "code": "COL",
+    "iso": "COM",
+    "name": "Comoros",
+    "CoO": "513"
+  },
+  {
+    "iso": "COK",
+    "name": "Cook Islands",
+    "CoO": "1"
+  },
+  {
     "iso": "COL",
     "name": "Colombia",
-    "status": "submitted",
-    "CoO": "360295"
+    "CoO": "396717"
   },
   {
-    "id": "45",
-    "code": "COS",
     "iso": "CRI",
     "name": "Costa Rica",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "463"
   },
   {
-    "id": "46",
-    "code": "CUB",
     "iso": "CUB",
     "name": "Cuba",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "7460"
   },
   {
-    "id": "47",
-    "code": "CVI",
+    "iso": "CUW",
+    "name": "CuraÃ§ao ",
+    "CoO": "35"
+  },
+  {
     "iso": "CPV",
     "name": "Cabo Verde",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "28"
   },
   {
-    "id": "48",
-    "code": "CYP",
     "iso": "CYP",
     "name": "Cyprus",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "10"
   },
   {
-    "id": "49",
-    "code": "CZE",
     "iso": "CZE",
     "name": "Czech Rep.",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "991"
   },
   {
-    "id": "50",
-    "code": "DEN",
     "iso": "DNK",
     "name": "Denmark",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "10"
   },
   {
-    "id": "51",
-    "code": "DJB",
     "iso": "DJI",
     "name": "Djibouti",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "762"
   },
   {
-    "id": "52",
-    "code": "DMA",
     "iso": "DMA",
     "name": "Dominica",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "43"
   },
   {
-    "id": "53",
-    "code": "DOM",
     "iso": "DOM",
     "name": "Dominican Rep.",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "306"
   },
   {
-    "id": "54",
-    "code": "ECU",
     "iso": "ECU",
     "name": "Ecuador",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "707"
   },
   {
-    "id": "56",
-    "code": "ERT",
+    "iso": "GNQ",
+    "name": "Equatorial Guinea",
+    "CoO": "200"
+  },
+  {
     "iso": "ERI",
     "name": "Eritrea",
-    "status": "submitted",
-    "CoO": "363036"
+    "CoO": "308236"
   },
   {
-    "id": "57",
-    "code": "EST",
     "iso": "EST",
     "name": "Estonia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "352"
   },
   {
-    "id": "58",
-    "code": "ETH",
     "iso": "ETH",
     "name": "Ethiopia",
-    "status": "submitted",
-    "CoO": "86823"
+    "CoO": "77122"
   },
   {
-    "id": "60",
-    "code": "FIJ",
+    "iso": "GUF",
+    "name": "French Guiana",
+    "CoO": "0"
+  },
+  {
     "iso": "FJI",
     "name": "Fiji",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1112"
   },
   {
-    "id": "61",
-    "code": "FIN",
     "iso": "FIN",
     "name": "Finland",
-    "status": "submitted",
+    "CoO": "7"
+  },
+  {
+    "iso": "PYF",
+    "name": "French Polynesia",
     "CoO": "0"
   },
   {
-    "id": "64",
-    "code": "FRA",
     "iso": "FRA",
     "name": "France",
-    "status": "submitted",
-    "CoO": "3000000"
+    "CoO": "98"
   },
   {
-    "id": "66",
-    "code": "FSM",
-    "iso": "FSM",
-    "name": "Micronesia (Federated States of)",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "67",
-    "code": "GAB",
     "iso": "GAB",
     "name": "Gabon",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "176"
   },
   {
-    "id": "68",
-    "code": "GAM",
     "iso": "GMB",
     "name": "Gambia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "3397"
   },
   {
-    "id": "70",
-    "code": "GBR",
+    "iso": "PSE",
+    "name": "State of Palestine",
+    "CoO": "96044"
+  },
+  {
     "iso": "GBR",
     "name": "United Kingdom of Great Britain and Northern Ireland",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "142"
   },
   {
-    "id": "71",
-    "code": "GEO",
     "iso": "GEO",
     "name": "Georgia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "6778"
   },
   {
-    "id": "72",
-    "code": "GFR",
     "iso": "DEU",
     "name": "Germany",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "175"
   },
   {
-    "id": "73",
-    "code": "GHA",
     "iso": "GHA",
     "name": "Ghana",
-    "status": "submitted",
-    "CoO": "22145"
+    "CoO": "21078"
   },
   {
-    "id": "75",
-    "code": "GNB",
+    "iso": "GIB",
+    "name": "Gibraltar",
+    "CoO": "2"
+  },
+  {
     "iso": "GNB",
     "name": "Guinea-Bissau",
-    "status": "submitted",
-    "CoO": "15197"
+    "CoO": "1223"
   },
   {
-    "id": "76",
-    "code": "GRE",
     "iso": "GRC",
     "name": "Greece",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "91"
   },
   {
-    "id": "77",
-    "code": "GRN",
     "iso": "GRD",
     "name": "Grenada",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "330"
   },
   {
-    "id": "78",
-    "code": "GUA",
     "iso": "GTM",
     "name": "Guatemala",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "6615"
   },
   {
-    "id": "79",
-    "code": "GUI",
     "iso": "GIN",
     "name": "Guinea",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "14561"
   },
   {
-    "id": "80",
-    "code": "GUY",
     "iso": "GUY",
     "name": "Guyana",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "800"
   },
   {
-    "id": "81",
-    "code": "HAI",
     "iso": "HTI",
     "name": "Haiti",
-    "status": "submitted",
-    "CoO": "37160"
+    "CoO": "38659"
   },
   {
-    "id": "82",
-    "code": "HKG",
     "iso": "HKG",
     "name": "Hong Kong SAR, China",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "25"
   },
   {
-    "id": "83",
-    "code": "HON",
     "iso": "HND",
     "name": "Honduras",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "3300"
   },
   {
-    "id": "84",
-    "code": "HRV",
     "iso": "HRV",
     "name": "Croatia",
-    "status": "submitted",
-    "CoO": "40125"
+    "CoO": "49756"
   },
   {
-    "id": "85",
-    "code": "HUN",
     "iso": "HUN",
     "name": "Hungary",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1220"
   },
   {
-    "id": "86",
-    "code": "ICE",
     "iso": "ISL",
     "name": "Iceland",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "2"
   },
   {
-    "id": "87",
-    "code": "ICO",
     "iso": "CIV",
     "name": "Côte d'Ivoire",
-    "status": "submitted",
-    "CoO": "71941"
+    "CoO": "85652"
   },
   {
-    "id": "88",
-    "code": "IND",
     "iso": "IND",
     "name": "India",
-    "status": "submitted",
-    "CoO": "10431"
+    "CoO": "11041"
   },
   {
-    "id": "89",
-    "code": "INS",
     "iso": "IDN",
     "name": "Indonesia",
-    "status": "submitted",
-    "CoO": "14403"
+    "CoO": "14786"
   },
   {
-    "id": "90",
-    "code": "IRE",
     "iso": "IRL",
     "name": "Ireland",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "9"
   },
   {
-    "id": "91",
-    "code": "IRN",
-    "iso": "IRN",
-    "name": "Iran (Islamic Rep. of)",
-    "status": "submitted",
-    "CoO": "81821"
+    "iso": "CIV",
+    "name": "Côte d'Ivoire",
+    "CoO": "75070"
   },
   {
-    "id": "92",
-    "code": "IRQ",
     "iso": "IRQ",
     "name": "Iraq",
-    "status": "submitted",
-    "CoO": "369672"
+    "CoO": "401466"
   },
   {
-    "id": "93",
-    "code": "ISR",
     "iso": "ISR",
     "name": "Israel",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1041"
   },
   {
-    "id": "94",
-    "code": "ITA",
     "iso": "ITA",
     "name": "Italy",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "66"
   },
   {
-    "id": "95",
-    "code": "JAM",
     "iso": "JAM",
     "name": "Jamaica",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1503"
   },
   {
-    "id": "96",
-    "code": "JOR",
     "iso": "JOR",
     "name": "Jordan",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1632"
   },
   {
-    "id": "97",
-    "code": "JPN",
     "iso": "JPN",
     "name": "Japan",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "157"
   },
   {
-    "id": "98",
-    "code": "KAZ",
     "iso": "KAZ",
     "name": "Kazakhstan",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "2123"
   },
   {
-    "id": "99",
-    "code": "KEN",
     "iso": "KEN",
     "name": "Kenya",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "8586"
   },
   {
-    "id": "100",
-    "code": "KGZ",
     "iso": "KGZ",
     "name": "Kyrgyzstan",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "2301"
   },
   {
-    "id": "102",
-    "code": "KOR",
+    "iso": "KIR",
+    "name": "Kiribati",
+    "CoO": "20"
+  },
+  {
     "iso": "KOR",
     "name": "Rep. of Korea",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "500"
   },
   {
-    "id": "104",
-    "code": "KUW",
+    "iso": "PRK",
+    "name": "Dem. People's Rep. of Korea",
+    "CoO": "1167"
+  },
+  {
     "iso": "KWT",
     "name": "Kuwait",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "977"
   },
   {
-    "id": "105",
-    "code": "LAO",
     "iso": "LAO",
     "name": "Lao People's Dem. Rep.",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "7745"
   },
   {
-    "id": "106",
-    "code": "LBR",
     "iso": "LBR",
     "name": "Liberia",
-    "status": "submitted",
-    "CoO": "13575"
+    "CoO": "17558"
   },
   {
-    "id": "107",
-    "code": "LBY",
     "iso": "LBY",
     "name": "Libya",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "3314"
   },
   {
-    "id": "108",
-    "code": "LCA",
     "iso": "LCA",
     "name": "Saint Lucia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "710"
   },
   {
-    "id": "109",
-    "code": "LEB",
     "iso": "LBN",
     "name": "Lebanon",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "3819"
   },
   {
-    "id": "110",
-    "code": "LES",
     "iso": "LSO",
     "name": "Lesotho",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "15"
   },
   {
-    "id": "111",
-    "code": "LIE",
-    "iso": "LIE",
-    "name": "Liechtenstein",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "112",
-    "code": "LKA",
     "iso": "LKA",
     "name": "Sri Lanka",
-    "status": "submitted",
-    "CoO": "121979"
+    "CoO": "123084"
   },
   {
-    "id": "113",
-    "code": "LTU",
     "iso": "LTU",
     "name": "Lithuania",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "220"
   },
   {
-    "id": "114",
-    "code": "LUX",
     "iso": "LUX",
     "name": "Luxembourg",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1"
   },
   {
-    "id": "115",
-    "code": "LVA",
     "iso": "LVA",
     "name": "Latvia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "233"
   },
   {
-    "id": "116",
-    "code": "MAC",
     "iso": "MAC",
     "name": "Macao SAR, China",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1"
   },
   {
-    "id": "117",
-    "code": "MAD",
     "iso": "MDG",
     "name": "Madagascar",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "296"
   },
   {
-    "id": "119",
-    "code": "MAU",
     "iso": "MRT",
     "name": "Mauritania",
-    "status": "submitted",
-    "CoO": "34111"
+    "CoO": "34252"
   },
   {
-    "id": "120",
-    "code": "MCD",
     "iso": "MKD",
     "name": "The former Yugoslav Rep. of Macedonia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1628"
   },
   {
-    "id": "121",
-    "code": "MCO",
     "iso": "MCO",
     "name": "Monaco",
-    "status": null,
-    "CoO": "0"
+    "CoO": "3"
   },
   {
-    "id": "122",
-    "code": "MDA",
     "iso": "MDA",
     "name": "Rep. of Moldova",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "2207"
   },
   {
-    "id": "124",
-    "code": "MEX",
+    "iso": "MDV",
+    "name": "Maldives",
+    "CoO": "31"
+  },
+  {
     "iso": "MEX",
     "name": "Mexico",
-    "status": "submitted",
-    "CoO": "10653"
+    "CoO": "9390"
   },
   {
-    "id": "126",
-    "code": "MLI",
+    "iso": "MHL",
+    "name": "Marshall Islands",
+    "CoO": "3"
+  },
+  {
     "iso": "MLI",
     "name": "Mali",
-    "status": "submitted",
-    "CoO": "139197"
+    "CoO": "152828"
   },
   {
-    "id": "127",
-    "code": "MLS",
     "iso": "MYS",
     "name": "Malaysia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "485"
   },
   {
-    "id": "128",
-    "code": "MLW",
     "iso": "MWI",
     "name": "Malawi",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "326"
   },
   {
-    "id": "129",
-    "code": "MNG",
-    "iso": "MNG",
-    "name": "Mongolia",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "130",
-    "code": "MOR",
-    "iso": "MAR",
-    "name": "Morocco",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "131",
-    "code": "MOZ",
-    "iso": "MOZ",
-    "name": "Mozambique",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "132",
-    "code": "MTA",
-    "iso": "MLT",
-    "name": "Malta",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "133",
-    "code": "MNE",
     "iso": "MNE",
     "name": "Montenegro",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "546"
   },
   {
-    "id": "135",
-    "code": "MYA",
+    "iso": "MNG",
+    "name": "Mongolia",
+    "CoO": "2059"
+  },
+  {
+    "iso": "MAR",
+    "name": "Morocco",
+    "CoO": "1308"
+  },
+  {
+    "iso": "MOZ",
+    "name": "Mozambique",
+    "CoO": "56"
+  },
+  {
+    "iso": "MLT",
+    "name": "Malta",
+    "CoO": "6"
+  },
+  {
+    "iso": "MUS",
+    "name": "Mauritius",
+    "CoO": "81"
+  },
+  {
     "iso": "MMR",
     "name": "Myanmar",
-    "status": "submitted",
-    "CoO": "478996"
+    "CoO": "479606"
   },
   {
-    "id": "136",
-    "code": "NAM",
     "iso": "NAM",
     "name": "Namibia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1143"
   },
   {
-    "id": "137",
-    "code": "NEP",
     "iso": "NPL",
     "name": "Nepal",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "8110"
   },
   {
-    "id": "138",
-    "code": "NET",
     "iso": "NLD",
     "name": "Netherlands",
-    "status": "submitted",
+    "CoO": "64"
+  },
+  {
+    "iso": "NFK",
+    "name": "Norfolk Island",
     "CoO": "0"
   },
   {
-    "id": "139",
-    "code": "NGR",
     "iso": "NER",
     "name": "Niger",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "683"
   },
   {
-    "id": "140",
-    "code": "NIC",
     "iso": "NIC",
     "name": "Nicaragua",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1538"
   },
   {
-    "id": "141",
-    "code": "NIG",
     "iso": "NGA",
     "name": "Nigeria",
-    "status": "submitted",
-    "CoO": "90908"
+    "CoO": "31176"
   },
   {
-    "id": "143",
-    "code": "NOR",
+    "iso": "NIU",
+    "name": "Niue",
+    "CoO": "14"
+  },
+  {
     "iso": "NOR",
     "name": "Norway",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "13"
   },
   {
-    "id": "144",
-    "code": "NRU",
     "iso": "NRU",
     "name": "Nauru",
-    "status": null,
     "CoO": "0"
   },
   {
-    "id": "145",
-    "code": "NZL",
     "iso": "NZL",
     "name": "New Zealand",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "17"
   },
   {
-    "id": "146",
-    "code": "OMN",
     "iso": "OMN",
     "name": "Oman",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "26"
   },
   {
-    "id": "147",
-    "code": "PAK",
     "iso": "PAK",
     "name": "Pakistan",
-    "status": "submitted",
-    "CoO": "335809"
+    "CoO": "48686"
   },
   {
-    "id": "148",
-    "code": "PAN",
     "iso": "PAN",
     "name": "Panama",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "105"
   },
   {
-    "id": "149",
-    "code": "PAR",
     "iso": "PRY",
     "name": "Paraguay",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "95"
   },
   {
-    "id": "150",
-    "code": "PER",
     "iso": "PER",
     "name": "Peru",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "4768"
   },
   {
-    "id": "151",
-    "code": "PHI",
     "iso": "PHL",
     "name": "Philippines",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "724"
   },
   {
-    "id": "152",
-    "code": "PLW",
     "iso": "PLW",
     "name": "Palau",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1"
   },
   {
-    "id": "153",
-    "code": "PNG",
     "iso": "PNG",
     "name": "Papua New Guinea",
-    "status": null,
-    "CoO": "0"
+    "CoO": "221"
   },
   {
-    "id": "154",
-    "code": "POL",
     "iso": "POL",
     "name": "Poland",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1429"
   },
   {
-    "id": "155",
-    "code": "POR",
     "iso": "PRT",
     "name": "Portugal",
-    "status": "submitted",
+    "CoO": "32"
+  },
+  {
+    "iso": "PRI",
+    "name": "Puerto Rico",
     "CoO": "0"
   },
   {
-    "id": "157",
-    "code": "QAT",
     "iso": "QAT",
     "name": "Qatar",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "17"
   },
   {
-    "id": "158",
-    "code": "ROM",
     "iso": "ROU",
     "name": "Romania",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "2330"
   },
   {
-    "id": "159",
-    "code": "RSA",
     "iso": "ZAF",
     "name": "South Africa",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "423"
   },
   {
-    "id": "160",
-    "code": "RUS",
     "iso": "RUS",
     "name": "Russian Federation",
-    "status": "submitted",
-    "CoO": "72718"
+    "CoO": "74316"
   },
   {
-    "id": "161",
-    "code": "RWA",
     "iso": "RWA",
     "name": "Rwanda",
-    "status": "submitted",
-    "CoO": "79386"
+    "CoO": "83955"
   },
   {
-    "id": "162",
-    "code": "SAL",
     "iso": "SLV",
     "name": "El Salvador",
-    "status": "submitted",
-    "CoO": "10960"
+    "CoO": "9635"
   },
   {
-    "id": "163",
-    "code": "SAU",
     "iso": "SAU",
     "name": "Saudi Arabia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "584"
   },
   {
-    "id": "164",
-    "code": "SRB",
-    "iso": "SRB",
-    "name": "Serbia (and Kosovo: S/RES/1244 (1999))",
-    "status": "submitted",
-    "CoO": "45847"
-  },
-  {
-    "id": "165",
-    "code": "SEN",
     "iso": "SEN",
     "name": "Senegal",
-    "status": "submitted",
-    "CoO": "23111"
+    "CoO": "19822"
   },
   {
-    "id": "168",
-    "code": "SIN",
+    "iso": "SYC",
+    "name": "Seychelles",
+    "CoO": "26"
+  },
+  {
     "iso": "SGP",
     "name": "Singapore",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "65"
   },
   {
-    "id": "169",
-    "code": "SLE",
     "iso": "SLE",
     "name": "Sierra Leone",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "5311"
   },
   {
-    "id": "171",
-    "code": "SOL",
+    "iso": "SMR",
+    "name": "San Marino",
+    "CoO": "1"
+  },
+  {
     "iso": "SLB",
     "name": "Solomon Islands",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "61"
   },
   {
-    "id": "172",
-    "code": "SOM",
     "iso": "SOM",
     "name": "Somalia",
-    "status": "submitted",
-    "CoO": "1105991"
+    "CoO": "1121770"
   },
   {
-    "id": "173",
-    "code": "SPA",
     "iso": "ESP",
     "name": "Spain",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "56"
   },
   {
-    "id": "174",
-    "code": "SRV",
+    "iso": "SRB",
+    "name": "Serbia and Kosovo (S/RES/1244 (1999))",
+    "CoO": "48725"
+  },
+  {
     "iso": "VNM",
     "name": "Viet Nam",
-    "status": "submitted",
-    "CoO": "313418"
+    "CoO": "314107"
   },
   {
-    "id": "175",
-    "code": "STK",
-    "iso": "KNA",
-    "name": "Saint Kitts and Nevis",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "177",
-    "code": "SUD",
-    "iso": "SDN",
-    "name": "Sudan",
-    "status": "submitted",
-    "CoO": "665924"
-  },
-  {
-    "id": "178",
-    "code": "SUR",
-    "iso": "SUR",
-    "name": "Suriname",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "179",
-    "code": "SSD",
     "iso": "SSD",
     "name": "South Sudan",
-    "status": "submitted",
-    "CoO": "498896"
+    "CoO": "114470"
   },
   {
-    "id": "180",
-    "code": "SVK",
+    "iso": "XX1",
+    "name": "Stateless",
+    "CoO": "20202"
+  },
+  {
+    "iso": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "CoO": "15"
+  },
+  {
+    "iso": "STP",
+    "name": "Sao Tome and Principe",
+    "CoO": "31"
+  },
+  {
+    "iso": "SDN",
+    "name": "Sudan",
+    "CoO": "648942"
+  },
+  {
+    "iso": "SUR",
+    "name": "Suriname",
+    "CoO": "17"
+  },
+  {
     "iso": "SVK",
     "name": "Slovakia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "323"
   },
   {
-    "id": "181",
-    "code": "SVN",
     "iso": "SVN",
     "name": "Slovenia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "28"
   },
   {
-    "id": "182",
-    "code": "SWA",
     "iso": "SWZ",
     "name": "Swaziland",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "109"
   },
   {
-    "id": "183",
-    "code": "SWE",
     "iso": "SWE",
     "name": "Sweden",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "16"
   },
   {
-    "id": "184",
-    "code": "SWI",
     "iso": "CHE",
     "name": "Switzerland",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "15"
   },
   {
-    "id": "185",
-    "code": "SYR",
     "iso": "SYR",
     "name": "Syrian Arab Rep.",
-    "status": "submitted",
-    "CoO": "3882670"
+    "CoO": "2468332"
   },
   {
-    "id": "186",
-    "code": "TAN",
     "iso": "TZA",
     "name": "United Rep. of Tanzania",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1040"
   },
   {
-    "id": "187",
-    "code": "TCI",
     "iso": "TCA",
     "name": "Turks and Caicos Islands",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "15"
   },
   {
-    "id": "188",
-    "code": "THA",
     "iso": "THA",
     "name": "Thailand",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "222"
   },
   {
-    "id": "189",
-    "code": "TJK",
+    "iso": "XX2",
+    "name": "Tibet",
+    "CoO": "15065"
+  },
+  {
     "iso": "TJK",
     "name": "Tajikistan",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "662"
   },
   {
-    "id": "190",
-    "code": "TKM",
     "iso": "TKM",
     "name": "Turkmenistan",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "519"
   },
   {
-    "id": "191",
-    "code": "TMP",
     "iso": "TLS",
     "name": "Timor-Leste",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "10"
   },
   {
-    "id": "192",
-    "code": "TOG",
     "iso": "TGO",
     "name": "Togo",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "10319"
   },
   {
-    "id": "193",
-    "code": "TON",
     "iso": "TON",
     "name": "Tonga",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "18"
   },
   {
-    "id": "194",
-    "code": "TRT",
     "iso": "TTO",
     "name": "Trinidad and Tobago",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "336"
   },
   {
-    "id": "195",
-    "code": "TUN",
     "iso": "TUN",
     "name": "Tunisia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1363"
   },
   {
-    "id": "196",
-    "code": "TUR",
     "iso": "TUR",
     "name": "Turkey",
-    "status": "submitted",
-    "CoO": "63963"
+    "CoO": "66575"
   },
   {
-    "id": "198",
-    "code": "UAE",
+    "iso": "TUV",
+    "name": "Tuvalu",
+    "CoO": "2"
+  },
+  {
     "iso": "ARE",
     "name": "United Arab Emirates",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "90"
   },
   {
-    "id": "199",
-    "code": "UGA",
     "iso": "UGA",
     "name": "Uganda",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "8176"
   },
   {
-    "id": "200",
-    "code": "UKR",
     "iso": "UKR",
     "name": "Ukraine",
-    "status": "submitted",
-    "CoO": "237218"
+    "CoO": "5163"
   },
   {
-    "id": "201",
-    "code": "URU",
     "iso": "URY",
     "name": "Uruguay",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "147"
   },
   {
-    "id": "202",
-    "code": "USA",
     "iso": "USA",
     "name": "United States of America",
-    "status": "submitted",
-    "CoO": "3000000"
+    "CoO": "4760"
   },
   {
-    "id": "203",
-    "code": "UZB",
     "iso": "UZB",
     "name": "Uzbekistan",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "4952"
   },
   {
-    "id": "204",
-    "code": "VAN",
     "iso": "VUT",
     "name": "Vanuatu",
-    "status": "submitted",
+    "CoO": "1"
+  },
+  {
+    "iso": "XX3",
+    "name": "Various",
+    "CoO": "107207"
+  },
+  {
+    "iso": "VAT",
+    "name": "Holy See",
     "CoO": "0"
   },
   {
-    "id": "206",
-    "code": "VCT",
     "iso": "VCT",
     "name": "Saint Vincent and the Grenadines",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "1535"
   },
   {
-    "id": "207",
-    "code": "VEN",
     "iso": "VEN",
     "name": "Venezuela (Bolivarian Republic of)",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "8395"
   },
   {
-    "id": "211",
-    "code": "YEM",
+    "iso": "WSM",
+    "name": "Samoa",
+    "CoO": "1"
+  },
+  {
+    "iso": "ESH",
+    "name": "Western Sahara",
+    "CoO": "116504"
+  },
+  {
     "iso": "YEM",
     "name": "Yemen",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "2428"
   },
   {
-    "id": "213",
-    "code": "ZAM",
     "iso": "ZMB",
     "name": "Zambia",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "232"
   },
   {
-    "id": "214",
-    "code": "ZIM",
     "iso": "ZWE",
     "name": "Zimbabwe",
-    "status": "submitted",
-    "CoO": "22489"
-  },
-  {
-    "id": "215",
-    "code": "KOS",
-    "iso": "",
-    "name": "Kosovo (S/RES/1244(1999))",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "224",
-    "code": "ABW",
-    "iso": "ABW",
-    "name": "Aruba",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "225",
-    "code": "BVI",
-    "iso": "VGB",
-    "name": "British Virgin Islands",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "228",
-    "code": "MSR",
-    "iso": "MSR",
-    "name": "Montserrat",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "229",
-    "code": "BES",
-    "iso": "BES",
-    "name": "Bonaire, Saint Eustatius and Saba",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "254",
-    "code": "CUW",
-    "iso": "CUW",
-    "name": "Curaçao ",
-    "status": "submitted",
-    "CoO": "0"
-  },
-  {
-    "id": "255",
-    "code": "SXM",
-    "iso": "SXM",
-    "name": "Sint Maarten (Dutch part)",
-    "status": "submitted",
-    "CoO": "0"
+    "CoO": "19734"
   }
 ]

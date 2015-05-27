@@ -2,22 +2,22 @@
   {
     "iso": "AFG",
     "name": "Afghanistan",
-    "CoO": "2593368"
+    "CoO": "2586152"
   },
   {
     "iso": "AIA",
     "name": "Anguilla",
-    "CoO": "1"
+    "CoO": "0"
   },
   {
     "iso": "ALB",
     "name": "Albania",
-    "CoO": "10140"
+    "CoO": "12568"
   },
   {
     "iso": "DZA",
     "name": "Algeria",
-    "CoO": "3523"
+    "CoO": "5677"
   },
   {
     "iso": "AND",
@@ -27,67 +27,67 @@
   {
     "iso": "AGO",
     "name": "Angola",
-    "CoO": "9507"
+    "CoO": "19258"
   },
   {
     "iso": "ATG",
     "name": "Antigua and Barbuda",
-    "CoO": "53"
+    "CoO": "45"
   },
   {
     "iso": "EGY",
     "name": "Egypt",
-    "CoO": "15873"
+    "CoO": "10020"
   },
   {
     "iso": "ARG",
     "name": "Argentina",
-    "CoO": "318"
+    "CoO": "447"
   },
   {
     "iso": "ARM",
     "name": "Armenia",
-    "CoO": "11850"
+    "CoO": "15935"
   },
   {
     "iso": "AUS",
     "name": "Australia",
-    "CoO": "25"
+    "CoO": "48"
   },
   {
     "iso": "AUT",
     "name": "Austria",
-    "CoO": "10"
+    "CoO": "12"
   },
   {
     "iso": "AZE",
     "name": "Azerbaijan",
-    "CoO": "10521"
+    "CoO": "15537"
   },
   {
     "iso": "BHR",
     "name": "Bahrain",
-    "CoO": "347"
+    "CoO": "297"
   },
   {
     "iso": "BRB",
     "name": "Barbados",
-    "CoO": "86"
+    "CoO": "55"
   },
   {
     "iso": "BDI",
     "name": "Burundi",
-    "CoO": "72499"
+    "CoO": "73363"
   },
   {
     "iso": "BEL",
     "name": "Belgium",
-    "CoO": "75"
+    "CoO": "93"
   },
   {
     "iso": "BEN",
     "name": "Benin",
-    "CoO": "340"
+    "CoO": "457"
   },
   {
     "iso": "BMU",
@@ -97,42 +97,42 @@
   {
     "iso": "BGD",
     "name": "Bangladesh",
-    "CoO": "10867"
+    "CoO": "10161"
   },
   {
     "iso": "BHS",
     "name": "Bahamas",
-    "CoO": "215"
+    "CoO": "196"
   },
   {
     "iso": "BTN",
     "name": "Bhutan",
-    "CoO": "23642"
+    "CoO": "41590"
   },
   {
     "iso": "BFA",
     "name": "Burkina Faso",
-    "CoO": "1857"
+    "CoO": "1460"
   },
   {
     "iso": "BLR",
     "name": "Belarus",
-    "CoO": "4302"
+    "CoO": "6191"
   },
   {
     "iso": "BOL",
     "name": "Bolivia (Plurinational State of)",
-    "CoO": "599"
+    "CoO": "618"
   },
   {
     "iso": "BWA",
     "name": "Botswana",
-    "CoO": "237"
+    "CoO": "127"
   },
   {
     "iso": "BRA",
     "name": "Brazil",
-    "CoO": "977"
+    "CoO": "1076"
   },
   {
     "iso": "BRN",
@@ -142,72 +142,72 @@
   {
     "iso": "BIH",
     "name": "Bosnia and Herzegovina",
-    "CoO": "21892"
+    "CoO": "51822"
   },
   {
     "iso": "BGR",
     "name": "Bulgaria",
-    "CoO": "1648"
+    "CoO": "2147"
   },
   {
     "iso": "BLZ",
     "name": "Belize",
-    "CoO": "45"
+    "CoO": "39"
   },
   {
     "iso": "KHM",
     "name": "Cambodia",
-    "CoO": "13071"
+    "CoO": "14024"
   },
   {
     "iso": "CAN",
     "name": "Canada",
-    "CoO": "95"
+    "CoO": "123"
   },
   {
     "iso": "CAF",
     "name": "Central African Rep.",
-    "CoO": "412041"
+    "CoO": "164568"
   },
   {
     "iso": "CYM",
     "name": "Cayman Islands",
-    "CoO": "6"
+    "CoO": "1"
   },
   {
     "iso": "TCD",
     "name": "Chad",
-    "CoO": "48258"
+    "CoO": "39694"
   },
   {
     "iso": "CHN",
     "name": "China",
-    "CoO": "210730"
+    "CoO": "193453"
   },
   {
     "iso": "CHL",
     "name": "Chile",
-    "CoO": "579"
+    "CoO": "1152"
   },
   {
     "iso": "CMR",
     "name": "Cameroon",
-    "CoO": "10761"
+    "CoO": "13382"
   },
   {
     "iso": "COG",
     "name": "Congo",
-    "CoO": "14497"
+    "CoO": "12119"
   },
   {
     "iso": "COD",
     "name": "Dem. Rep. of the Congo",
-    "CoO": "516770"
+    "CoO": "509290"
   },
   {
     "iso": "COM",
     "name": "Comoros",
-    "CoO": "581"
+    "CoO": "454"
   },
   {
     "iso": "COK",
@@ -217,82 +217,82 @@
   {
     "iso": "COL",
     "name": "Colombia",
-    "CoO": "360298"
+    "CoO": "394117"
   },
   {
     "iso": "CRI",
     "name": "Costa Rica",
-    "CoO": "417"
+    "CoO": "325"
   },
   {
     "iso": "CUB",
     "name": "Cuba",
-    "CoO": "7502"
+    "CoO": "7731"
   },
   {
     "iso": "CUW",
     "name": "CuraÃ§ao ",
-    "CoO": "35"
+    "CoO": "0"
   },
   {
     "iso": "CPV",
     "name": "Cabo Verde",
-    "CoO": "27"
+    "CoO": "25"
   },
   {
     "iso": "CYP",
     "name": "Cyprus",
-    "CoO": "10"
+    "CoO": "11"
   },
   {
     "iso": "CZE",
     "name": "Czech Rep.",
-    "CoO": "1328"
+    "CoO": "622"
   },
   {
     "iso": "DNK",
     "name": "Denmark",
-    "CoO": "12"
+    "CoO": "9"
   },
   {
     "iso": "DJI",
     "name": "Djibouti",
-    "CoO": "880"
+    "CoO": "640"
   },
   {
     "iso": "DMA",
     "name": "Dominica",
-    "CoO": "38"
+    "CoO": "54"
   },
   {
     "iso": "DOM",
     "name": "Dominican Rep.",
-    "CoO": "349"
+    "CoO": "289"
   },
   {
     "iso": "ECU",
     "name": "Ecuador",
-    "CoO": "805"
+    "CoO": "844"
   },
   {
     "iso": "GNQ",
     "name": "Equatorial Guinea",
-    "CoO": "174"
+    "CoO": "228"
   },
   {
     "iso": "ERI",
     "name": "Eritrea",
-    "CoO": "363077"
+    "CoO": "285371"
   },
   {
     "iso": "EST",
     "name": "Estonia",
-    "CoO": "339"
+    "CoO": "456"
   },
   {
     "iso": "ETH",
     "name": "Ethiopia",
-    "CoO": "86861"
+    "CoO": "74968"
   },
   {
     "iso": "GUF",
@@ -302,7 +302,7 @@
   {
     "iso": "FJI",
     "name": "Fiji",
-    "CoO": "924"
+    "CoO": "1317"
   },
   {
     "iso": "FIN",
@@ -317,42 +317,42 @@
   {
     "iso": "FRA",
     "name": "France",
-    "CoO": "92"
+    "CoO": "100"
   },
   {
     "iso": "GAB",
     "name": "Gabon",
-    "CoO": "172"
+    "CoO": "183"
   },
   {
     "iso": "GMB",
     "name": "Gambia",
-    "CoO": "5134"
+    "CoO": "3076"
   },
   {
     "iso": "PSE",
     "name": "State of Palestine",
-    "CoO": "97235"
+    "CoO": "94918"
   },
   {
     "iso": "GBR",
     "name": "United Kingdom of Great Britain and Northern Ireland",
-    "CoO": "141"
+    "CoO": "153"
   },
   {
     "iso": "GEO",
     "name": "Georgia",
-    "CoO": "6732"
+    "CoO": "9261"
   },
   {
     "iso": "DEU",
     "name": "Germany",
-    "CoO": "176"
+    "CoO": "182"
   },
   {
     "iso": "GHA",
     "name": "Ghana",
-    "CoO": "22149"
+    "CoO": "24298"
   },
   {
     "iso": "GIB",
@@ -362,342 +362,342 @@
   {
     "iso": "GNB",
     "name": "Guinea-Bissau",
-    "CoO": "1307"
+    "CoO": "1180"
   },
   {
     "iso": "GRC",
     "name": "Greece",
-    "CoO": "113"
+    "CoO": "51"
   },
   {
     "iso": "GRD",
     "name": "Grenada",
-    "CoO": "324"
+    "CoO": "316"
   },
   {
     "iso": "GTM",
     "name": "Guatemala",
-    "CoO": "7483"
+    "CoO": "6388"
   },
   {
     "iso": "GIN",
     "name": "Guinea",
-    "CoO": "15243"
+    "CoO": "14061"
   },
   {
     "iso": "GUY",
     "name": "Guyana",
-    "CoO": "700"
+    "CoO": "801"
   },
   {
     "iso": "HTI",
     "name": "Haiti",
-    "CoO": "37161"
+    "CoO": "38568"
   },
   {
     "iso": "HKG",
     "name": "Hong Kong SAR, China",
-    "CoO": "25"
+    "CoO": "19"
   },
   {
     "iso": "HND",
     "name": "Honduras",
-    "CoO": "4159"
+    "CoO": "2613"
   },
   {
     "iso": "HRV",
     "name": "Croatia",
-    "CoO": "40126"
+    "CoO": "62606"
   },
   {
     "iso": "HUN",
     "name": "Hungary",
-    "CoO": "1267"
+    "CoO": "1087"
   },
   {
     "iso": "ISL",
     "name": "Iceland",
-    "CoO": "1"
+    "CoO": "3"
   },
   {
     "iso": "CIV",
     "name": "Côte d'Ivoire",
-    "CoO": "71959"
+    "CoO": "100720"
   },
   {
     "iso": "IND",
     "name": "India",
-    "CoO": "10433"
+    "CoO": "14258"
   },
   {
     "iso": "IDN",
     "name": "Indonesia",
-    "CoO": "14408"
+    "CoO": "15523"
   },
   {
     "iso": "IRL",
     "name": "Ireland",
-    "CoO": "10"
+    "CoO": "9"
   },
   {
     "iso": "CIV",
     "name": "Côte d'Ivoire",
-    "CoO": "82170"
+    "CoO": "75940"
   },
   {
     "iso": "IRQ",
     "name": "Iraq",
-    "CoO": "369904"
+    "CoO": "746206"
   },
   {
     "iso": "ISR",
     "name": "Israel",
-    "CoO": "971"
+    "CoO": "1340"
   },
   {
     "iso": "ITA",
     "name": "Italy",
-    "CoO": "67"
+    "CoO": "66"
   },
   {
     "iso": "JAM",
     "name": "Jamaica",
-    "CoO": "1692"
+    "CoO": "1407"
   },
   {
     "iso": "JOR",
     "name": "Jordan",
-    "CoO": "1716"
+    "CoO": "2368"
   },
   {
     "iso": "JPN",
     "name": "Japan",
-    "CoO": "263"
+    "CoO": "172"
   },
   {
     "iso": "KAZ",
     "name": "Kazakhstan",
-    "CoO": "2212"
+    "CoO": "3571"
   },
   {
     "iso": "KEN",
     "name": "Kenya",
-    "CoO": "8556"
+    "CoO": "8950"
   },
   {
     "iso": "KGZ",
     "name": "Kyrgyzstan",
-    "CoO": "2437"
+    "CoO": "3489"
   },
   {
     "iso": "KIR",
     "name": "Kiribati",
-    "CoO": "3"
+    "CoO": "33"
   },
   {
     "iso": "KOR",
     "name": "Rep. of Korea",
-    "CoO": "481"
+    "CoO": "558"
   },
   {
     "iso": "PRK",
     "name": "Dem. People's Rep. of Korea",
-    "CoO": "1282"
+    "CoO": "1132"
   },
   {
     "iso": "KWT",
     "name": "Kuwait",
-    "CoO": "994"
+    "CoO": "1197"
   },
   {
     "iso": "LAO",
     "name": "Lao People's Dem. Rep.",
-    "CoO": "7482"
+    "CoO": "7984"
   },
   {
     "iso": "LBR",
     "name": "Liberia",
-    "CoO": "13575"
+    "CoO": "23428"
   },
   {
     "iso": "LBY",
     "name": "Libya",
-    "CoO": "4194"
+    "CoO": "5251"
   },
   {
     "iso": "LCA",
     "name": "Saint Lucia",
-    "CoO": "922"
+    "CoO": "566"
   },
   {
     "iso": "LBN",
     "name": "Lebanon",
-    "CoO": "4272"
+    "CoO": "15106"
   },
   {
     "iso": "LSO",
     "name": "Lesotho",
-    "CoO": "17"
+    "CoO": "13"
   },
   {
     "iso": "LKA",
     "name": "Sri Lanka",
-    "CoO": "121996"
+    "CoO": "132731"
   },
   {
     "iso": "LTU",
     "name": "Lithuania",
-    "CoO": "183"
+    "CoO": "491"
   },
   {
     "iso": "LUX",
     "name": "Luxembourg",
-    "CoO": "2"
+    "CoO": "0"
   },
   {
     "iso": "LVA",
     "name": "Latvia",
-    "CoO": "213"
+    "CoO": "662"
   },
   {
     "iso": "MAC",
     "name": "Macao SAR, China",
-    "CoO": "5"
+    "CoO": "1"
   },
   {
     "iso": "MDG",
     "name": "Madagascar",
-    "CoO": "281"
+    "CoO": "301"
   },
   {
     "iso": "MRT",
     "name": "Mauritania",
-    "CoO": "34114"
+    "CoO": "33765"
   },
   {
     "iso": "MKD",
     "name": "The former Yugoslav Rep. of Macedonia",
-    "CoO": "1768"
+    "CoO": "7589"
   },
   {
     "iso": "MCO",
     "name": "Monaco",
-    "CoO": "3"
+    "CoO": "4"
   },
   {
     "iso": "MDA",
     "name": "Rep. of Moldova",
-    "CoO": "2242"
+    "CoO": "6148"
   },
   {
     "iso": "MDV",
     "name": "Maldives",
-    "CoO": "36"
+    "CoO": "24"
   },
   {
     "iso": "MEX",
     "name": "Mexico",
-    "CoO": "10666"
+    "CoO": "8435"
   },
   {
     "iso": "MHL",
     "name": "Marshall Islands",
-    "CoO": "3"
+    "CoO": "2"
   },
   {
     "iso": "MLI",
     "name": "Mali",
-    "CoO": "139267"
+    "CoO": "149943"
   },
   {
     "iso": "MYS",
     "name": "Malaysia",
-    "CoO": "468"
+    "CoO": "531"
   },
   {
     "iso": "MWI",
     "name": "Malawi",
-    "CoO": "360"
+    "CoO": "277"
   },
   {
     "iso": "MNE",
     "name": "Montenegro",
-    "CoO": "604"
+    "CoO": "4054"
   },
   {
     "iso": "MNG",
     "name": "Mongolia",
-    "CoO": "2146"
+    "CoO": "2114"
   },
   {
     "iso": "MAR",
     "name": "Morocco",
-    "CoO": "1532"
+    "CoO": "2407"
   },
   {
     "iso": "MOZ",
     "name": "Mozambique",
-    "CoO": "58"
+    "CoO": "160"
   },
   {
     "iso": "MLT",
     "name": "Malta",
-    "CoO": "5"
+    "CoO": "6"
   },
   {
     "iso": "MUS",
     "name": "Mauritius",
-    "CoO": "94"
+    "CoO": "62"
   },
   {
     "iso": "MMR",
     "name": "Myanmar",
-    "CoO": "479001"
+    "CoO": "415371"
   },
   {
     "iso": "NAM",
     "name": "Namibia",
-    "CoO": "1253"
+    "CoO": "1098"
   },
   {
     "iso": "NPL",
     "name": "Nepal",
-    "CoO": "8563"
+    "CoO": "7612"
   },
   {
     "iso": "NLD",
     "name": "Netherlands",
-    "CoO": "68"
+    "CoO": "71"
   },
   {
     "iso": "NFK",
     "name": "Norfolk Island",
-    "CoO": "1"
+    "CoO": "0"
   },
   {
     "iso": "NER",
     "name": "Niger",
-    "CoO": "738"
+    "CoO": "832"
   },
   {
     "iso": "NIC",
     "name": "Nicaragua",
-    "CoO": "1587"
+    "CoO": "1531"
   },
   {
     "iso": "NGA",
     "name": "Nigeria",
-    "CoO": "90921"
+    "CoO": "18021"
   },
   {
     "iso": "NIU",
     "name": "Niue",
-    "CoO": "18"
+    "CoO": "10"
   },
   {
     "iso": "NOR",
     "name": "Norway",
-    "CoO": "13"
+    "CoO": "9"
   },
   {
     "iso": "NRU",
@@ -707,57 +707,57 @@
   {
     "iso": "NZL",
     "name": "New Zealand",
-    "CoO": "17"
+    "CoO": "20"
   },
   {
     "iso": "OMN",
     "name": "Oman",
-    "CoO": "29"
+    "CoO": "65"
   },
   {
     "iso": "PAK",
     "name": "Pakistan",
-    "CoO": "335915"
+    "CoO": "49785"
   },
   {
     "iso": "PAN",
     "name": "Panama",
-    "CoO": "89"
+    "CoO": "107"
   },
   {
     "iso": "PRY",
     "name": "Paraguay",
-    "CoO": "94"
+    "CoO": "101"
   },
   {
     "iso": "PER",
     "name": "Peru",
-    "CoO": "4343"
+    "CoO": "5212"
   },
   {
     "iso": "PHL",
     "name": "Philippines",
-    "CoO": "672"
+    "CoO": "986"
   },
   {
     "iso": "PLW",
     "name": "Palau",
-    "CoO": "1"
+    "CoO": "0"
   },
   {
     "iso": "PNG",
     "name": "Papua New Guinea",
-    "CoO": "288"
+    "CoO": "174"
   },
   {
     "iso": "POL",
     "name": "Poland",
-    "CoO": "1310"
+    "CoO": "1640"
   },
   {
     "iso": "PRT",
     "name": "Portugal",
-    "CoO": "31"
+    "CoO": "32"
   },
   {
     "iso": "PRI",
@@ -767,57 +767,57 @@
   {
     "iso": "QAT",
     "name": "Qatar",
-    "CoO": "21"
+    "CoO": "124"
   },
   {
     "iso": "ROU",
     "name": "Romania",
-    "CoO": "1921"
+    "CoO": "2807"
   },
   {
     "iso": "ZAF",
     "name": "South Africa",
-    "CoO": "424"
+    "CoO": "420"
   },
   {
     "iso": "RUS",
     "name": "Russian Federation",
-    "CoO": "72777"
+    "CoO": "110588"
   },
   {
     "iso": "RWA",
     "name": "Rwanda",
-    "CoO": "79411"
+    "CoO": "97373"
   },
   {
     "iso": "SLV",
     "name": "El Salvador",
-    "CoO": "10965"
+    "CoO": "8171"
   },
   {
     "iso": "SAU",
     "name": "Saudi Arabia",
-    "CoO": "630"
+    "CoO": "818"
   },
   {
     "iso": "SEN",
     "name": "Senegal",
-    "CoO": "23118"
+    "CoO": "18724"
   },
   {
     "iso": "SYC",
     "name": "Seychelles",
-    "CoO": "25"
+    "CoO": "29"
   },
   {
     "iso": "SGP",
     "name": "Singapore",
-    "CoO": "59"
+    "CoO": "68"
   },
   {
     "iso": "SLE",
     "name": "Sierra Leone",
-    "CoO": "4997"
+    "CoO": "6202"
   },
   {
     "iso": "SMR",
@@ -827,182 +827,182 @@
   {
     "iso": "SLB",
     "name": "Solomon Islands",
-    "CoO": "70"
+    "CoO": "61"
   },
   {
     "iso": "SOM",
     "name": "Somalia",
-    "CoO": "1106068"
+    "CoO": "1136719"
   },
   {
     "iso": "ESP",
     "name": "Spain",
-    "CoO": "60"
+    "CoO": "52"
   },
   {
     "iso": "SRB",
     "name": "Serbia and Kosovo (S/RES/1244 (1999))",
-    "CoO": "46123"
+    "CoO": "158908"
   },
   {
     "iso": "VNM",
     "name": "Viet Nam",
-    "CoO": "313419"
+    "CoO": "336939"
   },
   {
     "iso": "SSD",
     "name": "South Sudan",
-    "CoO": "616210"
+    "CoO": "87009"
   },
   {
     "iso": "XX1",
     "name": "Stateless",
-    "CoO": "27403"
+    "CoO": "19673"
   },
   {
     "iso": "KNA",
     "name": "Saint Kitts and Nevis",
-    "CoO": "22"
+    "CoO": "12"
   },
   {
     "iso": "STP",
     "name": "Sao Tome and Principe",
-    "CoO": "22"
+    "CoO": "32"
   },
   {
     "iso": "SDN",
     "name": "Sudan",
-    "CoO": "665954"
+    "CoO": "568943"
   },
   {
     "iso": "SUR",
     "name": "Suriname",
-    "CoO": "17"
+    "CoO": "15"
   },
   {
     "iso": "SVK",
     "name": "Slovakia",
-    "CoO": "319"
+    "CoO": "239"
   },
   {
     "iso": "SVN",
     "name": "Slovenia",
-    "CoO": "26"
+    "CoO": "34"
   },
   {
     "iso": "SWZ",
     "name": "Swaziland",
-    "CoO": "161"
+    "CoO": "65"
   },
   {
     "iso": "SWE",
     "name": "Sweden",
-    "CoO": "18"
+    "CoO": "20"
   },
   {
     "iso": "CHE",
     "name": "Switzerland",
-    "CoO": "19"
+    "CoO": "17"
   },
   {
     "iso": "SYR",
     "name": "Syrian Arab Rep.",
-    "CoO": "3883585"
+    "CoO": "729022"
   },
   {
     "iso": "TZA",
     "name": "United Rep. of Tanzania",
-    "CoO": "857"
+    "CoO": "1122"
   },
   {
     "iso": "TCA",
     "name": "Turks and Caicos Islands",
-    "CoO": "15"
+    "CoO": "14"
   },
   {
     "iso": "THA",
     "name": "Thailand",
-    "CoO": "233"
+    "CoO": "381"
   },
   {
     "iso": "XX2",
     "name": "Tibet",
-    "CoO": "15069"
+    "CoO": "15000"
   },
   {
     "iso": "TJK",
     "name": "Tajikistan",
-    "CoO": "713"
+    "CoO": "674"
   },
   {
     "iso": "TKM",
     "name": "Turkmenistan",
-    "CoO": "486"
+    "CoO": "723"
   },
   {
     "iso": "TLS",
     "name": "Timor-Leste",
-    "CoO": "13"
+    "CoO": "9"
   },
   {
     "iso": "TGO",
     "name": "Togo",
-    "CoO": "9278"
+    "CoO": "15693"
   },
   {
     "iso": "TON",
     "name": "Tonga",
-    "CoO": "22"
+    "CoO": "13"
   },
   {
     "iso": "TTO",
     "name": "Trinidad and Tobago",
-    "CoO": "371"
+    "CoO": "333"
   },
   {
     "iso": "TUN",
     "name": "Tunisia",
-    "CoO": "1486"
+    "CoO": "1935"
   },
   {
     "iso": "TUR",
     "name": "Turkey",
-    "CoO": "63975"
+    "CoO": "135372"
   },
   {
     "iso": "TUV",
     "name": "Tuvalu",
-    "CoO": "2"
+    "CoO": "1"
   },
   {
     "iso": "ARE",
     "name": "United Arab Emirates",
-    "CoO": "90"
+    "CoO": "584"
   },
   {
     "iso": "UGA",
     "name": "Uganda",
-    "CoO": "7191"
+    "CoO": "5608"
   },
   {
     "iso": "UKR",
     "name": "Ukraine",
-    "CoO": "237636"
+    "CoO": "25256"
   },
   {
     "iso": "URY",
     "name": "Uruguay",
-    "CoO": "124"
+    "CoO": "171"
   },
   {
     "iso": "USA",
     "name": "United States of America",
-    "CoO": "4986"
+    "CoO": "4456"
   },
   {
     "iso": "UZB",
     "name": "Uzbekistan",
-    "CoO": "4796"
+    "CoO": "11593"
   },
   {
     "iso": "VUT",
@@ -1012,7 +1012,7 @@
   {
     "iso": "XX3",
     "name": "Various",
-    "CoO": "101181"
+    "CoO": "132807"
   },
   {
     "iso": "VAT",
@@ -1022,12 +1022,12 @@
   {
     "iso": "VCT",
     "name": "Saint Vincent and the Grenadines",
-    "CoO": "1736"
+    "CoO": "1316"
   },
   {
     "iso": "VEN",
     "name": "Venezuela (Bolivarian Republic of)",
-    "CoO": "8009"
+    "CoO": "8208"
   },
   {
     "iso": "WSM",
@@ -1037,21 +1037,21 @@
   {
     "iso": "ESH",
     "name": "Western Sahara",
-    "CoO": "116482"
+    "CoO": "116452"
   },
   {
     "iso": "YEM",
     "name": "Yemen",
-    "CoO": "2628"
+    "CoO": "2594"
   },
   {
     "iso": "ZMB",
     "name": "Zambia",
-    "CoO": "316"
+    "CoO": "243"
   },
   {
     "iso": "ZWE",
     "name": "Zimbabwe",
-    "CoO": "22494"
+    "CoO": "22101"
   }
 ]
