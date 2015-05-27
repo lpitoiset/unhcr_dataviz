@@ -1429,3 +1429,11 @@
  	font-family: Ubuntu, sans-serif;
  	font-size: 14pt;
  }
+ .map-tooltip span {
+ 	display: none;
+ }
+ .map-tooltip:hover span{
+ 	display: block;
+ 	position: fixed;
+ 	overflow: hidden;
+ }

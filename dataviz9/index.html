@@ -11,6 +11,9 @@
 	<script type="text/javascript">
 	var debug=true;
 	var total_refugees=0;
+	var poc_type = ["Refugees","Asylum-seekers","IDPs"];
+	var filename_param1 = ["ref","asy","idp"];
+	var filename_param2 = ["origin","destination"];
 	function cl(what){
 		if (debug) {console.log(what)};
 	}
@@ -33,7 +36,7 @@
 <!-- css -->
 		<link rel="stylesheet" href="css/skel.css" />
 		<link rel="stylesheet" href="css/style.css" />
-		<link rel="stylesheet" href="css/style-xlarge.css" />
+		<link rel="stylesheet" href="css/style-small.css" />
 		<link rel="stylesheet" href="css/humanitarian-icons.css" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
@@ -60,15 +63,15 @@
 							<option value="2014" selected="">2014</option>
 							<option value="2013">2013</option>
 						</select>
-						<select name="form_poc" id="querybuilder">
-							<option value="1">Refugees</option>
-							<option value="2">Asylum-seekers</option>
-							<option value="3">all Persons of Concern</option>
+						<select name="form_poc" id="query_poc">
+							<option value="0" selected="">Refugees</option>
+							<option value="1">Asylum-seekers</option>
+							<option value="2">all Persons of Concern</option>
 						</select>
 						by				
-						<select name="form_type" id="querybuilder">
-							<option value="1" selected="">Origin</option>
-							<option value="2">Destination</option>
+						<select name="form_type" id="query_type">
+							<option value="0" selected="">Origin</option>
+							<option value="1">Destination</option>
 						</select>
 						on:
 					</h3>
@@ -88,7 +91,7 @@
 			<div class="allpanels">
 				<div id="panel1" class="panel active">
 
-					<div class="" id="map"></div>
+					<div title="map-tooltip" id="map"></div>
 					<div class="map-legend" id="map-legend">xxxxx</div>
 
 					<script>
@@ -133,7 +136,14 @@
 
 							function displayColors(){
 
-								var json_filename = "data/"+$("div.query_params").find(query_year).val()+"_ref_origin.json";
+								var json_filename = "data/"+
+								$("div.query_params").find(query_year).val()+
+								"_"+
+								filename_param1[$("div.query_params").find(query_poc).val()]+
+								"_"+
+								filename_param2[$("div.query_params").find(query_type).val()]+
+								".json";
+								cl(json_filename);
 								total_refugees = 0;
 								d3.json(json_filename+'?'+Math.random(),function(error,data){$(data)
 									.each(function(){
@@ -168,7 +178,7 @@
 											}
 											total_refugees+=this.CoO*1.0;
 											cl("CoO: "+total_refugees);
-$(".map-legend").html("<i class='icon-ocha-affected-population'></i>&nbsp;"+total_refugees.toLocaleString("en")+ " Refugees");
+$(".map-legend").html("<i class='icon-ocha-affected-population'></i>&nbsp;"+total_refugees.toLocaleString("en")+ " " + poc_type[$("div.query_params").find(query_poc).val()]);
 
 							            }
 							        });
@@ -236,6 +246,13 @@ $(".map-legend").html("<i class='icon-ocha-affected-population'></i>&nbsp;"+tota
 				cl("new year selected: "+ $(this).val());
 				displayColors();
 			});
+			var map_tooltip_span = document.getElementById('map_tooltip_span');
+			window.onmousemove = function (e) {
+				var x = e.clientX,
+				y = e.clientY;
+				map_tooltip_span.style.top = (y+20)+ "px";
+				map_tooltip_span.style.left = (x+20)+ "px";
+			};
 		});
 	</script>
 </body>
