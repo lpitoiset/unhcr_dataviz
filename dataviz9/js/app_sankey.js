@@ -1,15 +1,14 @@
 
-  var units = "Refugees";
+var units = "Refugees";
 
-  var margin = {top: 10, right: 10, bottom: 10, left: 10},
-  width = 500 - margin.left - margin.right,
-  height = 500 - margin.top - margin.bottom;
+var margin = {top: 10, right: 10, bottom: 10, left: 10},
+width = 500 - margin.left - margin.right,
+height = 500 - margin.top - margin.bottom;
 
 
 
 function app_sankey(){
-
-
+  total_refugees = 0;
 var formatNumber = d3.format(",.0f"),    // zero decimal places
 format = function(d) { return formatNumber(d) + " " + units; },
 color = d3.scale.category20();
@@ -32,7 +31,8 @@ var path = sankey.link();
 // load the data
 d3.json("data/2014_ref_sankey_origin.json", function(error, graph) {
   var nodeMap = {};
-  graph.nodes.forEach(function(x) { nodeMap[x.name] = x; });
+  graph.nodes.forEach(function(x) { nodeMap[x.name] = x;});
+  
   graph.links = graph.links.map(function(x) {
     return {
       source: nodeMap[x.source],
@@ -41,6 +41,11 @@ d3.json("data/2014_ref_sankey_origin.json", function(error, graph) {
     };
   });
 
+d3.json("data/2014_ref_sankey_origin.json", function(data) {
+  $(data).each(function(){
+    cl("json: "+this.value);
+  });
+});
   sankey
   .nodes(graph.nodes)
   .links(graph.links)
@@ -110,6 +115,11 @@ function dragmove(d) {
   link.attr("d", path);
 }
 });
+
+$(".map-legend").html("<i class='icon-ocha-affected-population'></i>&nbsp;"+
+  total_refugees.toLocaleString("en")+
+  " " +
+  poc_type[query_poc]);
 
 
 }

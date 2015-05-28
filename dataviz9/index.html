@@ -172,6 +172,7 @@
 			$("#query_year").on('change', function(){
 				cl("new year selected: "+ $(this).val());
 				// displayColors();
+		        $("div.allpanels").find('.panel.active').find('.dataviz').html("");
 				app_worldmap();
 			});
 			// change poc type

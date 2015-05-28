@@ -1438,3 +1438,8 @@
  	position: fixed;
  	overflow: hidden;
  }
+.sankey{
+ 	font-family: Ubuntu, sans-serif;
+ 	font-size: 10pt;
+
+}
