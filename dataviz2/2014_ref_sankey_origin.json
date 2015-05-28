@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "name": "Syrian Arab Rep."
+    },
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Somalia"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Côte d'Ivoire"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "Kenya"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Yemen"
+    },
+    {
+      "name": "Turkey"
+    },
+    {
+      "name": "Lebanon"
+    },
+    {
+      "name": "Jordan"
+    },
+    {
+      "name": "Other"
+    }
+  ],
+  "links": [
+    {
+      "source": "Afghanistan",
+      "target": "Pakistan",
+      "value": "1504912"
+    },
+    {
+      "source": "Afghanistan",
+      "target": "Côte d'Ivoire",
+      "value": "950000"
+    },
+    {
+      "source": "Afghanistan",
+      "target": "Other",
+      "value": "138379"
+    },
+    {
+      "source": "Somalia",
+      "target": "Kenya",
+      "value": "424691"
+    },
+    {
+      "source": "Somalia",
+      "target": "Ethiopia",
+      "value": "245097"
+    },
+    {
+      "source": "Somalia",
+      "target": "Yemen",
+      "value": "244204"
+    },
+    {
+      "source": "Somalia",
+      "target": "Other",
+      "value": "191999"
+    },
+    {
+      "source": "Syrian Arab Rep.",
+      "target": "Turkey",
+      "value": "1557899"
+    },
+    {
+      "source": "Syrian Arab Rep.",
+      "target": "Lebanon",
+      "value": "1147494"
+    },
+    {
+      "source": "Syrian Arab Rep.",
+      "target": "Jordan",
+      "value": "623112"
+    },
+    {
+      "source": "Syrian Arab Rep.",
+      "target": "Iraq",
+      "value": "234196"
+    },
+    {
+      "source": "Syrian Arab Rep.",
+      "target": "Egypt",
+      "value": "138381"
+    },
+    {
+      "source": "Syrian Arab Rep.",
+      "target": "Other",
+      "value": "181588"
+    }
+  ]
+}
