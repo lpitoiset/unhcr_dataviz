@@ -29,10 +29,9 @@ var sankey = d3.sankey()
 var path = sankey.link();
 
 // load the data
-d3.json("data/2014_ref_sankey_origin.json", function(error, graph) {
+d3.json("data/2014_ref_sankey_origin.json"+'?'+Math.random(), function(error, graph) {
   var nodeMap = {};
   graph.nodes.forEach(function(x) { nodeMap[x.name] = x;});
-  
   graph.links = graph.links.map(function(x) {
     return {
       source: nodeMap[x.source],
@@ -41,11 +40,12 @@ d3.json("data/2014_ref_sankey_origin.json", function(error, graph) {
     };
   });
 
-d3.json("data/2014_ref_sankey_origin.json", function(data) {
-  $(data).each(function(){
-    cl("json: "+this.value);
-  });
-});
+ d3.json("data/2014_ref_sankey_origin.json"+'?'+Math.random(), function(error, data2) {
+   $(data2).each(function(){
+     cl(this.name);
+   });
+ });
+ cl("ref "+total_refugees);
   sankey
   .nodes(graph.nodes)
   .links(graph.links)
