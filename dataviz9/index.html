@@ -174,19 +174,25 @@
 				// displayColors();
 		        $("div.allpanels").find('.panel.active').find('.dataviz').html("");
 				app_worldmap();
+displayColors();
 			});
 			// change poc type
 			$("#query_poc").on('change', function(){
 				cl("new poc type selected: "+ $(this).val());
+				app_worldmap();
 				displayColors();
+
 			});
 			// change origin / dest
 			$("#query_type").on('change', function(){
 				cl("new origin / dest selected: "+ $(this).val());
+				app_worldmap();
 				displayColors();
+
 			});
 
 			app_worldmap();
+displayColors();
 
 		});
 

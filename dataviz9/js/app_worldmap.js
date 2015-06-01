@@ -42,62 +42,61 @@ function app_worldmap(){
 	});
 
 
-	function displayColors(){
-		var country_color = "#CCC";
-		var color_palette = ['#c3c3c3','#ddbbaa','rgb(254,232,200)','rgb(253,212,158)','rgb(253,187,132)','rgb(252,141,89)','rgb(239,101,72)','rgb(215,48,31)','rgb(153,0,0)'];
-		query_poc = $("#query_poc").val();
-		query_type = $("#query_type").val();
-		query_year = $("#query_year").val();
-		cl("params: "+query_year+"/"+query_poc+"/"+query_type);
-		var json_filename = "data/"+
-		query_year+
-		"_"+
-		filename_param1[query_poc]+
-		"_"+
-		filename_param2[query_type]+
-		".json";
-		cl("file name: "+json_filename);
-		total_refugees = 0;
-		poc_value = 0;
-		d3.json(json_filename+'?'+Math.random(),function(error,data){$(data)
-			.each(function(){
-				if(this.iso!=''){
-					var selection=d3.select('#'+this.iso);
-					switch(query_type){
-						case "0": 
-						poc_value = this.CoO;
-											 // cl("case 0: CoO "+ poc_value); 
-											 break;
-											 case "1": poc_value = this.CoA; 
-											// cl("case 1: CoA "+ poc_value); 
-											break;
-											default: poc_value = 0; cl("case default: problem "+ query_type); break;
-										}
-										if (poc_value == '0') { country_color = color_palette[0];};
-										if (poc_value > 0) { country_color = color_palette[1];};
-										if (poc_value > 20000) { country_color = color_palette[2];};
-										if (poc_value > 30000) { country_color = color_palette[3];};
-										if (poc_value > 50000) { country_color = color_palette[4];};
-										if (poc_value > 100000) { country_color = color_palette[5];};
-										if (poc_value > 1000000) { country_color = color_palette[6];};
-										if (poc_value > 2000000) { country_color = color_palette[7];};
-										if (poc_value > 3000000) { country_color = color_palette[8];cl("color "+color_palette[8]+"/"+poc_value)};
+}	// function
 
-										selection.attr('fill',country_color);
 
-										total_refugees+=poc_value*1.0;
-											 // cl("CoO: "+total_refugees);
-											 $(".map-legend").html("<i class='icon-ocha-affected-population'></i>&nbsp;"+
-											 	total_refugees.toLocaleString("en")+
-											 	" " +
-											 	poc_type[query_poc]);
 
-											}
-										});
+function displayColors(){
+	var country_color = "#CCC";
+	var color_palette = ['#c3c3c3','#ddbbaa','rgb(254,232,200)','rgb(253,212,158)','rgb(253,187,132)','rgb(252,141,89)','rgb(239,101,72)','rgb(215,48,31)','rgb(153,0,0)'];
+	query_poc = $(".querybuilder").find("#query_poc").val();
+	query_type = $("#query_type").val();
+	query_year = $("#query_year").val();
+	cl("params: "+query_year+"/"+query_poc+"/"+query_type);
+	var json_filename = "data/"+
+	query_year+
+	"_"+
+	filename_param1[query_poc]+
+	"_"+
+	filename_param2[query_type]+
+	".json";
+	cl("file name: "+json_filename);
+	total_refugees = 0;
+	poc_value = 0;
+	d3.json(json_filename+'?'+Math.random(),function(error,data){$(data)
+		.each(function(){
+			if(this.iso!=''){
+				var selection=d3.select('#'+this.iso);
+				switch(query_type){
+					case "0": 
+					poc_value = this.CoO;
+					 // cl("case 0: CoO "+ poc_value); 
+					 break;
+					 case "1": poc_value = this.CoA; 
+					// cl("case 1: CoA "+ poc_value); 
+					break;
+					default: poc_value = 0; cl("case default: problem "+ query_type); break;
+				}
+				if (poc_value == '0') { country_color = color_palette[0];};
+				if (poc_value > 0) { country_color = color_palette[1];};
+				if (poc_value > 20000) { country_color = color_palette[2];};
+				if (poc_value > 30000) { country_color = color_palette[3];};
+				if (poc_value > 50000) { country_color = color_palette[4];};
+				if (poc_value > 100000) { country_color = color_palette[5];};
+				if (poc_value > 1000000) { country_color = color_palette[6];};
+				if (poc_value > 2000000) { country_color = color_palette[7];};
+				if (poc_value > 3000000) { country_color = color_palette[8];cl("color "+color_palette[8]+"/"+poc_value)};
 
-});
-							}	// function
+				selection.attr('fill',country_color);
 
-							displayColors();
-							
-						}
+				total_refugees+=poc_value*1.0;
+					 // cl("CoO: "+total_refugees);
+					 $(".map-legend").html("<i class='icon-ocha-affected-population'></i>&nbsp;"+
+					 	total_refugees.toLocaleString("en")+
+					 	" " +
+					 	poc_type[query_poc]);
+
+			}
+		});
+	});							
+}
