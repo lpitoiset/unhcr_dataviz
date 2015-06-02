@@ -105,7 +105,7 @@ function displayColors(){
 					}
 
 					cl("country "+this.country_iso+" | case 0: CoA "+ poc_value); 
-					country_data.push({iso:this.country_iso,value:poc_value});
+					// country_data.push({iso:this.country_iso,value:poc_value});
 					break;
 					default: poc_value = 0; cl("case default: problem "+ query_type); break;
 				}
