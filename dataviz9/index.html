@@ -19,6 +19,7 @@
 		var query_type =0;
 		var query_poc = 0;
 		var query_year = 0;
+		var country_data = {};
 		function cl(what){
 			if (debug) {console.log(what)};
 		}
@@ -101,8 +102,29 @@
 				<br />
 			</div>
 			<div class="allpanels">
-				<div class="map-legend" id="map-legend">0 Refugees</div>
+				<div class="map_score" id="map_score">0 Refugees</div>
 				<div id="panel1" class="panel active">
+					<div class="map_legend">
+					    <div class="map_legend_block">
+					    	<i style="background:#fee5d9"></i>1 - 10,000
+					        <br><i style="background:#ddbbaa"></i>10,000 - 20,000
+					        <br><i style="background:rgb(254,232,200)"></i>20,000 - 30,000
+					        <br><i style="background:rgb(253,212,158)"></i>30,000 - 50,000
+					        <br><i style="background:rgb(253,187,132)"></i>50,000 - 100,000
+					        <br><i style="background:rgb(252,141,89)"></i>100,000 - 1 million
+					        <br><i style="background:rgb(239,101,72)"></i>1 - 2 million
+					        <br><i style="background:rgb(215,48,31)"></i>2 - 3 million
+					        <br><i style="background:rgb(153,0,0)"></i>3 million+
+					    </div>
+					    <div class="map_legend_block">
+					    	<i style="background:#fee5d9"></i><div id="label_country">country name</div>
+					    	<br><i style="background:#fee5d9"></i><div id="label_value">country value</div>
+					    </div>
+    <div class="control export">
+        <h5>Data for 2014</h5><span>Download: </span><a href="#">CSV</a>
+        </div>
+</div>
+
 					<div class="dataviz world_map" id="map" ></div>
 				</div>
 				<div id="panel2" class="panel">
@@ -133,13 +155,14 @@
 				function displayApplication(panelId){
 					switch (panelId){
 						case "panel1":
-						app_worldmap();
+							app_worldmap();
+							displayColors();
 						break;
 						case "panel2":
-						app_sankey();
+							app_sankey();
 						break;
 						default:
-						cl("panel display: "+panelId+" / nothing implemented");
+							cl("panel display: "+panelId+" / nothing implemented");
 						break
 					}
 
@@ -171,14 +194,14 @@
 			// change year
 			$("#query_year").on('change', function(){
 				cl("new year selected: "+ $(this).val());
-				// displayColors();
 		        $("div.allpanels").find('.panel.active').find('.dataviz').html("");
 				app_worldmap();
-displayColors();
+				displayColors();
 			});
 			// change poc type
 			$("#query_poc").on('change', function(){
 				cl("new poc type selected: "+ $(this).val());
+		        $("div.allpanels").find('.panel.active').find('.dataviz').html("");
 				app_worldmap();
 				displayColors();
 
@@ -186,13 +209,14 @@ displayColors();
 			// change origin / dest
 			$("#query_type").on('change', function(){
 				cl("new origin / dest selected: "+ $(this).val());
+		        $("div.allpanels").find('.panel.active').find('.dataviz').html("");
 				app_worldmap();
 				displayColors();
 
 			});
 
 			app_worldmap();
-displayColors();
+			displayColors();
 
 		});
 

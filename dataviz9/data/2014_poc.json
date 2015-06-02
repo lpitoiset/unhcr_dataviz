@@ -1,0 +1,6411 @@
+[
+  {
+    "year": 2014,
+    "country_id": 2,
+    "country_code": "AFG",
+    "country_iso": "AFG",
+    "name": "Afghanistan",
+    "country_of_origin": {
+      "asy": 1040959,
+      "idp": 45578385,
+      "ioc": 0,
+      "ooc": 6831149,
+      "rdp": null,
+      "ref": 25817148,
+      "ret": 450646,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 360,
+      "idp": 45578385,
+      "ioc": null,
+      "ooc": 6829763,
+      "rdp": null,
+      "ref": 5622070,
+      "ret": 431587,
+      "roc": 144843,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 3,
+    "country_code": "ALB",
+    "country_iso": "ALB",
+    "name": "Albania",
+    "country_of_origin": {
+      "asy": 204888,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 59310,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 9715,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2703,
+      "ret": null,
+      "roc": null,
+      "sta": 14886
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 4,
+    "country_code": "ALG",
+    "country_iso": "DZA",
+    "name": "Algeria",
+    "country_of_origin": {
+      "asy": 73967,
+      "idp": null,
+      "ioc": null,
+      "ooc": 72,
+      "rdp": null,
+      "ref": 37714,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 15113,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 564950,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 5,
+    "country_code": "AND",
+    "country_iso": "AND",
+    "name": "Andorra",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 14,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 6,
+    "country_code": "ANG",
+    "country_iso": "AGO",
+    "name": "Angola",
+    "country_of_origin": {
+      "asy": 11527,
+      "idp": null,
+      "ioc": null,
+      "ooc": 818841,
+      "rdp": null,
+      "ref": 166488,
+      "ret": 71485,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 332072,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 119032,
+      "ret": 205926,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 7,
+    "country_code": "ANT",
+    "country_iso": "ATG",
+    "name": "Antigua and Barbuda",
+    "country_of_origin": {
+      "asy": 144,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 19,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 9,
+    "country_code": "ARG",
+    "country_iso": "ARG",
+    "name": "Argentina",
+    "country_of_origin": {
+      "asy": 1203,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 611,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 9471,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 42204,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 10,
+    "country_code": "ARM",
+    "country_iso": "ARM",
+    "name": "Armenia",
+    "country_of_origin": {
+      "asy": 99190,
+      "idp": null,
+      "ioc": null,
+      "ooc": 78,
+      "rdp": null,
+      "ref": 102418,
+      "ret": 37,
+      "roc": null,
+      "sta": 2417
+    },
+    "country_of_asylum": {
+      "asy": 1446,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 92274,
+      "ret": 37,
+      "roc": 231200,
+      "sta": 2836
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 224,
+    "country_code": "ABW",
+    "country_iso": "ABW",
+    "name": "Aruba",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 12,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 11,
+    "country_code": "AUL",
+    "country_iso": "AUS",
+    "name": "Australia",
+    "country_of_origin": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 88,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 34072,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 142328,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 12,
+    "country_code": "AUS",
+    "country_iso": "AUT",
+    "name": "Austria",
+    "country_of_origin": {
+      "asy": 52,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 30,
+      "ret": null,
+      "roc": null,
+      "sta": 12
+    },
+    "country_of_asylum": {
+      "asy": 44446,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 166794,
+      "ret": null,
+      "roc": null,
+      "sta": 604
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 13,
+    "country_code": "AZE",
+    "country_iso": "AZE",
+    "name": "Azerbaijan",
+    "country_of_origin": {
+      "asy": 70601,
+      "idp": 3647101,
+      "ioc": null,
+      "ooc": 11,
+      "rdp": null,
+      "ref": 127440,
+      "ret": null,
+      "roc": null,
+      "sta": 8
+    },
+    "country_of_asylum": {
+      "asy": 758,
+      "idp": 3647101,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 18327,
+      "ret": null,
+      "roc": null,
+      "sta": 3585
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 21,
+    "country_code": "BHS",
+    "country_iso": "BHS",
+    "name": "Bahamas",
+    "country_of_origin": {
+      "asy": 328,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 40,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 108,
+      "idp": null,
+      "ioc": null,
+      "ooc": 225,
+      "rdp": null,
+      "ref": 105,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 14,
+    "country_code": "BAH",
+    "country_iso": "BHR",
+    "name": "Bahrain",
+    "country_of_origin": {
+      "asy": 973,
+      "idp": null,
+      "ioc": null,
+      "ooc": 42,
+      "rdp": null,
+      "ref": 368,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 349,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 20,
+    "country_code": "BGD",
+    "country_iso": "BGD",
+    "name": "Bangladesh",
+    "country_of_origin": {
+      "asy": 61105,
+      "idp": null,
+      "ioc": null,
+      "ooc": 84,
+      "rdp": null,
+      "ref": 87611,
+      "ret": null,
+      "roc": 36,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 17,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 32577,
+      "ret": null,
+      "roc": 200000,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 15,
+    "country_code": "BAR",
+    "country_iso": "BRB",
+    "name": "Barbados",
+    "country_of_origin": {
+      "asy": 161,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 21,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 0,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 24,
+    "country_code": "BLR",
+    "country_iso": "BLR",
+    "name": "Belarus",
+    "country_of_origin": {
+      "asy": 4874,
+      "idp": null,
+      "ioc": null,
+      "ooc": 6,
+      "rdp": null,
+      "ref": 16216,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 1679,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 32808,
+      "ret": null,
+      "roc": null,
+      "sta": 32200
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 17,
+    "country_code": "BEL",
+    "country_iso": "BEL",
+    "name": "Belgium",
+    "country_of_origin": {
+      "asy": 84,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 24,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 101028,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 177466,
+      "ret": null,
+      "roc": null,
+      "sta": 17878
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 31,
+    "country_code": "BZE",
+    "country_iso": "BLZ",
+    "name": "Belize",
+    "country_of_origin": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 378,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 82,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 18,
+    "country_code": "BEN",
+    "country_iso": "BEN",
+    "name": "Benin",
+    "country_of_origin": {
+      "asy": 9989,
+      "idp": null,
+      "ioc": null,
+      "ooc": 96,
+      "rdp": null,
+      "ref": 936,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 58,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 406,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 19,
+    "country_code": "BER",
+    "country_iso": "BMU",
+    "name": "Bermuda",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 22,
+    "country_code": "BHU",
+    "country_iso": "BTN",
+    "name": "Bhutan",
+    "country_of_origin": {
+      "asy": 724,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 413147,
+      "ret": null,
+      "roc": 490,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 25,
+    "country_code": "BOL",
+    "country_iso": "BOL",
+    "name": "Bolivia (Plurinational State of)",
+    "country_of_origin": {
+      "asy": 505,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 5456,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 442,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 31160,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 229,
+    "country_code": "BES",
+    "country_iso": "BES",
+    "name": "Bonaire, Saint Eustatius and Saba",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 29,
+    "country_code": "BSN",
+    "country_iso": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "country_of_origin": {
+      "asy": 155823,
+      "idp": 1475500,
+      "ioc": null,
+      "ooc": 185891,
+      "rdp": null,
+      "ref": 247034,
+      "ret": 2340,
+      "roc": 420,
+      "sta": 807
+    },
+    "country_of_asylum": {
+      "asy": 650,
+      "idp": 1475500,
+      "ioc": null,
+      "ooc": 185885,
+      "rdp": null,
+      "ref": 145443,
+      "ret": 2340,
+      "roc": null,
+      "sta": 1413
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 26,
+    "country_code": "BOT",
+    "country_iso": "BWA",
+    "name": "Botswana",
+    "country_of_origin": {
+      "asy": 284,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 17,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 195,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2637,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 27,
+    "country_code": "BRA",
+    "country_iso": "BRA",
+    "name": "Brazil",
+    "country_of_origin": {
+      "asy": 659,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 767,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 67468,
+      "idp": null,
+      "ioc": null,
+      "ooc": 175428,
+      "rdp": null,
+      "ref": 84053,
+      "ret": null,
+      "roc": null,
+      "sta": 12
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 225,
+    "country_code": "BVI",
+    "country_iso": "VGB",
+    "name": "British Virgin Islands",
+    "country_of_origin": {
+      "asy": 28,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 28,
+    "country_code": "BRU",
+    "country_iso": "BRN",
+    "name": "Brunei Darussalam",
+    "country_of_origin": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": 20524
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 30,
+    "country_code": "BUL",
+    "country_iso": "BGR",
+    "name": "Bulgaria",
+    "country_of_origin": {
+      "asy": 28205,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 37013,
+      "ret": null,
+      "roc": null,
+      "sta": 67
+    },
+    "country_of_asylum": {
+      "asy": 153429,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 85200,
+      "ret": null,
+      "roc": null,
+      "sta": 402
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 23,
+    "country_code": "BKF",
+    "country_iso": "BFA",
+    "name": "Burkina Faso",
+    "country_of_origin": {
+      "asy": 9191,
+      "idp": null,
+      "ioc": null,
+      "ooc": 45,
+      "rdp": null,
+      "ref": 3581,
+      "ret": 11,
+      "roc": 16,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 398,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 191103,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 16,
+    "country_code": "BDI",
+    "country_iso": "BDI",
+    "name": "Burundi",
+    "country_of_origin": {
+      "asy": 323988,
+      "idp": 1505788,
+      "ioc": null,
+      "ooc": 988316,
+      "rdp": null,
+      "ref": 1255958,
+      "ret": 342198,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 265600,
+      "idp": 1505788,
+      "ioc": null,
+      "ooc": 35465,
+      "rdp": null,
+      "ref": 1458541,
+      "ret": 341960,
+      "roc": null,
+      "sta": 32550
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 47,
+    "country_code": "CVI",
+    "country_iso": "CPV",
+    "name": "Cabo Verde",
+    "country_of_origin": {
+      "asy": 138,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 46,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": 115
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 32,
+    "country_code": "CAM",
+    "country_iso": "KHM",
+    "name": "Cambodia",
+    "country_of_origin": {
+      "asy": 1761,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 268807,
+      "ret": null,
+      "roc": 162,
+      "sta": 200
+    },
+    "country_of_asylum": {
+      "asy": 550,
+      "idp": null,
+      "ioc": null,
+      "ooc": 7,
+      "rdp": null,
+      "ref": 1240,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 39,
+    "country_code": "CMR",
+    "country_iso": "CMR",
+    "name": "Cameroon",
+    "country_of_origin": {
+      "asy": 38815,
+      "idp": null,
+      "ioc": null,
+      "ooc": 9,
+      "rdp": null,
+      "ref": 29881,
+      "ret": 296,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 247156,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2093549,
+      "ret": null,
+      "roc": 479249,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 33,
+    "country_code": "CAN",
+    "country_iso": "CAN",
+    "name": "Canada",
+    "country_of_origin": {
+      "asy": 159,
+      "idp": null,
+      "ioc": null,
+      "ooc": 36,
+      "rdp": null,
+      "ref": 272,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 167850,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 9812,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 35,
+    "country_code": "CAY",
+    "country_iso": "CYM",
+    "name": "Cayman Islands",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 6,
+      "idp": null,
+      "ioc": null,
+      "ooc": 90,
+      "rdp": null,
+      "ref": 20,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 34,
+    "country_code": "CAR",
+    "country_iso": "CAF",
+    "name": "Central African Rep.",
+    "country_of_origin": {
+      "asy": 283116,
+      "idp": 1600521,
+      "ioc": null,
+      "ooc": 180435,
+      "rdp": 1221806,
+      "ref": 7909911,
+      "ret": 69650,
+      "roc": 203988,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 3262,
+      "idp": 1600521,
+      "ioc": null,
+      "ooc": null,
+      "rdp": 1221806,
+      "ref": 107382,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 36,
+    "country_code": "CHD",
+    "country_iso": "TCD",
+    "name": "Chad",
+    "country_of_origin": {
+      "asy": 33397,
+      "idp": null,
+      "ioc": null,
+      "ooc": 388665,
+      "rdp": null,
+      "ref": 1150520,
+      "ret": 124,
+      "roc": 3093807,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 52130,
+      "idp": null,
+      "ioc": null,
+      "ooc": 568656,
+      "rdp": null,
+      "ref": 18126023,
+      "ret": 933,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 38,
+    "country_code": "CHL",
+    "country_iso": "CHL",
+    "name": "Chile",
+    "country_of_origin": {
+      "asy": 1225,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 4198,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 2270,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 5593,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 37,
+    "country_code": "CHI",
+    "country_iso": "CHN",
+    "name": "China",
+    "country_of_origin": {
+      "asy": 43361,
+      "idp": null,
+      "ioc": null,
+      "ooc": 0,
+      "rdp": null,
+      "ref": 184805,
+      "ret": null,
+      "roc": 10,
+      "sta": 14
+    },
+    "country_of_asylum": {
+      "asy": 5992,
+      "idp": null,
+      "ioc": 22,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1507245,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 44,
+    "country_code": "COL",
+    "country_iso": "COL",
+    "name": "Colombia",
+    "country_of_origin": {
+      "asy": 230473,
+      "idp": 36264906,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2356158,
+      "ret": 5,
+      "roc": 13796802,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 2455,
+      "idp": 36264906,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 7935,
+      "ret": 65,
+      "roc": null,
+      "sta": 72
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 42,
+    "country_code": "COI",
+    "country_iso": "COM",
+    "name": "Comoros",
+    "country_of_origin": {
+      "asy": 2029,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 11356,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 40,
+    "country_code": "COB",
+    "country_iso": "COG",
+    "name": "Congo",
+    "country_of_origin": {
+      "asy": 12273,
+      "idp": null,
+      "ioc": null,
+      "ooc": 944,
+      "rdp": null,
+      "ref": 164475,
+      "ret": 98302,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 68988,
+      "idp": null,
+      "ioc": null,
+      "ooc": 10663,
+      "rdp": null,
+      "ref": 1872028,
+      "ret": 56,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 43,
+    "country_code": "COK",
+    "country_iso": "COK",
+    "name": "Cook Islands",
+    "country_of_origin": {
+      "asy": 57,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 45,
+    "country_code": "COS",
+    "country_iso": "CRI",
+    "name": "Costa Rica",
+    "country_of_origin": {
+      "asy": 408,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 98,
+      "ret": null,
+      "roc": null,
+      "sta": 1200
+    },
+    "country_of_asylum": {
+      "asy": 101113,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1386063,
+      "ret": null,
+      "roc": 747612,
+      "sta": 78405
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 84,
+    "country_code": "HRV",
+    "country_iso": "HRV",
+    "name": "Croatia",
+    "country_of_origin": {
+      "asy": 1845,
+      "idp": null,
+      "ioc": null,
+      "ooc": 78970,
+      "rdp": null,
+      "ref": 504837,
+      "ret": 1415,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 754,
+      "idp": null,
+      "ioc": null,
+      "ooc": 78970,
+      "rdp": null,
+      "ref": 4410,
+      "ret": 1415,
+      "roc": 282,
+      "sta": 14430
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 46,
+    "country_code": "CUB",
+    "country_iso": "CUB",
+    "name": "Cuba",
+    "country_of_origin": {
+      "asy": 26415,
+      "idp": null,
+      "ioc": null,
+      "ooc": 315,
+      "rdp": null,
+      "ref": 114168,
+      "ret": null,
+      "roc": 30006,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 49,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1031,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 254,
+    "country_code": "CUW",
+    "country_iso": "CUW",
+    "name": "Curaçao ",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 203,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 220,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 48,
+    "country_code": "CYP",
+    "country_iso": "CYP",
+    "name": "Cyprus",
+    "country_of_origin": {
+      "asy": 26,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 404,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 86708,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 55904,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 49,
+    "country_code": "CZE",
+    "country_iso": "CZE",
+    "name": "Czech Rep.",
+    "country_of_origin": {
+      "asy": 3506,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 19006,
+      "ret": null,
+      "roc": null,
+      "sta": 3004
+    },
+    "country_of_asylum": {
+      "asy": 2400,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 15685,
+      "ret": null,
+      "roc": null,
+      "sta": 7510
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 87,
+    "country_code": "ICO",
+    "country_iso": "CIV",
+    "name": "Côte d'Ivoire",
+    "country_of_origin": {
+      "asy": 88454,
+      "idp": 144000,
+      "ioc": null,
+      "ooc": 3947,
+      "rdp": null,
+      "ref": 1014075,
+      "ret": 61156,
+      "roc": null,
+      "sta": 3500000
+    },
+    "country_of_asylum": {
+      "asy": 17091,
+      "idp": 144000,
+      "ioc": null,
+      "ooc": 2334,
+      "rdp": null,
+      "ref": 140778,
+      "ret": 60905,
+      "roc": null,
+      "sta": 5600000
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 103,
+    "country_code": "KRN",
+    "country_iso": "PRK",
+    "name": "Dem. People's Rep. of Korea",
+    "country_of_origin": {
+      "asy": 1519,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6864,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 41,
+    "country_code": "COD",
+    "country_iso": "COD",
+    "name": "Dem. Rep. of the Congo",
+    "country_of_origin": {
+      "asy": 1507146,
+      "idp": 50520011,
+      "ioc": null,
+      "ooc": 1914930,
+      "rdp": 23330908,
+      "ref": 14885874,
+      "ret": 148758,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 22481,
+      "idp": 50520011,
+      "ioc": null,
+      "ooc": 2603312,
+      "rdp": 23330908,
+      "ref": 4470153,
+      "ret": 396694,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 50,
+    "country_code": "DEN",
+    "country_iso": "DNK",
+    "name": "Denmark",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": 6,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 25782,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 103539,
+      "ret": null,
+      "roc": null,
+      "sta": 19500
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 51,
+    "country_code": "DJB",
+    "country_iso": "DJI",
+    "name": "Djibouti",
+    "country_of_origin": {
+      "asy": 1279,
+      "idp": null,
+      "ioc": null,
+      "ooc": 24,
+      "rdp": null,
+      "ref": 4352,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 76539,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 321869,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 52,
+    "country_code": "DMA",
+    "country_iso": "DMA",
+    "name": "Dominica",
+    "country_of_origin": {
+      "asy": 7,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 38,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 53,
+    "country_code": "DOM",
+    "country_iso": "DOM",
+    "name": "Dominican Rep.",
+    "country_of_origin": {
+      "asy": 4436,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1535,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 336500,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 17614,
+      "ret": null,
+      "roc": null,
+      "sta": 3992103
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 54,
+    "country_code": "ECU",
+    "country_iso": "ECU",
+    "name": "Ecuador",
+    "country_of_origin": {
+      "asy": 1609,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2206,
+      "ret": 60,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 92605,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 928314,
+      "ret": null,
+      "roc": 478410,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 8,
+    "country_code": "ARE",
+    "country_iso": "EGY",
+    "name": "Egypt",
+    "country_of_origin": {
+      "asy": 99628,
+      "idp": null,
+      "ioc": null,
+      "ooc": 252,
+      "rdp": null,
+      "ref": 26044,
+      "ret": null,
+      "roc": null,
+      "sta": 12
+    },
+    "country_of_asylum": {
+      "asy": 256276,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2360900,
+      "ret": null,
+      "roc": null,
+      "sta": 124
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 162,
+    "country_code": "SAL",
+    "country_iso": "SLV",
+    "name": "El Salvador",
+    "country_of_origin": {
+      "asy": 27758,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 34904,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 116,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 744,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 55,
+    "country_code": "EGU",
+    "country_iso": "GNQ",
+    "name": "Equatorial Guinea",
+    "country_of_origin": {
+      "asy": 455,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 948,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 56,
+    "country_code": "ERT",
+    "country_iso": "ERI",
+    "name": "Eritrea",
+    "country_of_origin": {
+      "asy": 1355109,
+      "idp": null,
+      "ioc": null,
+      "ooc": 11379,
+      "rdp": null,
+      "ref": 10323310,
+      "ret": 456,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": 105,
+      "rdp": null,
+      "ref": 37624,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 57,
+    "country_code": "EST",
+    "country_iso": "EST",
+    "name": "Estonia",
+    "country_of_origin": {
+      "asy": 99,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 204,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 1257,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 3142,
+      "ret": null,
+      "roc": null,
+      "sta": 88076
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 58,
+    "country_code": "ETH",
+    "country_iso": "ETH",
+    "name": "Ethiopia",
+    "country_of_origin": {
+      "asy": 1601390,
+      "idp": null,
+      "ioc": null,
+      "ooc": 279213,
+      "rdp": null,
+      "ref": 1268388,
+      "ret": 792,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 28864,
+      "idp": null,
+      "ioc": null,
+      "ooc": 6826,
+      "rdp": null,
+      "ref": 8568957,
+      "ret": 792,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 65,
+    "country_code": "FRO",
+    "country_iso": "FRO",
+    "name": "Faeroe Islands",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 60,
+    "country_code": "FIJ",
+    "country_iso": "FJI",
+    "name": "Fiji",
+    "country_of_origin": {
+      "asy": 87,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 69,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 62,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 93,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 61,
+    "country_code": "FIN",
+    "country_iso": "FIN",
+    "name": "Finland",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 13318,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 35394,
+      "ret": null,
+      "roc": null,
+      "sta": 4415
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 64,
+    "country_code": "FRA",
+    "country_iso": "FRA",
+    "name": "France",
+    "country_of_origin": {
+      "asy": 295,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 107,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 224105,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 3579837,
+      "ret": null,
+      "roc": null,
+      "sta": 12880
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 59,
+    "country_code": "FGU",
+    "country_iso": "GUF",
+    "name": "French Guiana",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 63,
+    "country_code": "FPO",
+    "country_iso": "PYF",
+    "name": "French Polynesia",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 67,
+    "country_code": "GAB",
+    "country_iso": "GAB",
+    "name": "Gabon",
+    "country_of_origin": {
+      "asy": 505,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 734,
+      "ret": 44,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 10803,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 4977,
+      "ret": 22,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 68,
+    "country_code": "GAM",
+    "country_iso": "GMB",
+    "name": "Gambia",
+    "country_of_origin": {
+      "asy": 60969,
+      "idp": null,
+      "ioc": 0,
+      "ooc": null,
+      "rdp": null,
+      "ref": 5526,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 23501,
+      "ret": 243,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 71,
+    "country_code": "GEO",
+    "country_iso": "GEO",
+    "name": "Georgia",
+    "country_of_origin": {
+      "asy": 89039,
+      "idp": 3415152,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 65650,
+      "ret": null,
+      "roc": null,
+      "sta": 8470
+    },
+    "country_of_asylum": {
+      "asy": 18020,
+      "idp": 3415152,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 7197,
+      "ret": null,
+      "roc": 6640,
+      "sta": 10010
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 72,
+    "country_code": "GFR",
+    "country_iso": "DEU",
+    "name": "Germany",
+    "country_of_origin": {
+      "asy": 38,
+      "idp": null,
+      "ioc": null,
+      "ooc": 13,
+      "rdp": null,
+      "ref": 290,
+      "ret": null,
+      "roc": null,
+      "sta": 12
+    },
+    "country_of_asylum": {
+      "asy": 5098316,
+      "idp": null,
+      "ioc": 0,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1153005,
+      "ret": null,
+      "roc": null,
+      "sta": 23834
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 73,
+    "country_code": "GHA",
+    "country_iso": "GHA",
+    "name": "Ghana",
+    "country_of_origin": {
+      "asy": 52746,
+      "idp": null,
+      "ioc": null,
+      "ooc": 47,
+      "rdp": null,
+      "ref": 416907,
+      "ret": null,
+      "roc": 8,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 66155,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 502569,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 74,
+    "country_code": "GIB",
+    "country_iso": "GIB",
+    "name": "Gibraltar",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 76,
+    "country_code": "GRE",
+    "country_iso": "GRC",
+    "name": "Greece",
+    "country_of_origin": {
+      "asy": 278,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 378,
+      "ret": null,
+      "roc": null,
+      "sta": 189
+    },
+    "country_of_asylum": {
+      "asy": 31929,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 29216,
+      "ret": null,
+      "roc": 9000,
+      "sta": 398
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 253,
+    "country_code": "GRL",
+    "country_iso": "GRL",
+    "name": "Greenland",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 77,
+    "country_code": "GRN",
+    "country_iso": "GRD",
+    "name": "Grenada",
+    "country_of_origin": {
+      "asy": 42,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 78,
+    "country_code": "GUA",
+    "country_iso": "GTM",
+    "name": "Guatemala",
+    "country_of_origin": {
+      "asy": 2262,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6642,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 2118,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2743,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 79,
+    "country_code": "GUI",
+    "country_iso": "GIN",
+    "name": "Guinea",
+    "country_of_origin": {
+      "asy": 71337,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 118432,
+      "ret": 30,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 4530,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 181498,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 75,
+    "country_code": "GNB",
+    "country_iso": "GNB",
+    "name": "Guinea-Bissau",
+    "country_of_origin": {
+      "asy": 13157,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 20240,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 117,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 26049,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 80,
+    "country_code": "GUY",
+    "country_iso": "GUY",
+    "name": "Guyana",
+    "country_of_origin": {
+      "asy": 100,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 182,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 22,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 81,
+    "country_code": "HAI",
+    "country_iso": "HTI",
+    "name": "Haiti",
+    "country_of_origin": {
+      "asy": 23845,
+      "idp": null,
+      "ioc": null,
+      "ooc": 175428,
+      "rdp": null,
+      "ref": 99446,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 0,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 205,
+    "country_code": "VAT",
+    "country_iso": "VAT",
+    "name": "Holy See",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 83,
+    "country_code": "HON",
+    "country_iso": "HND",
+    "name": "Honduras",
+    "country_of_origin": {
+      "asy": 10525,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 9212,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 129,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 223,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 82,
+    "country_code": "HKG",
+    "country_iso": "HKG",
+    "name": "Hong Kong SAR, China",
+    "country_of_origin": {
+      "asy": 47,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 13085,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1419,
+      "ret": null,
+      "roc": null,
+      "sta": 16
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 85,
+    "country_code": "HUN",
+    "country_iso": "HUN",
+    "name": "Hungary",
+    "country_of_origin": {
+      "asy": 5601,
+      "idp": null,
+      "ioc": null,
+      "ooc": 18,
+      "rdp": null,
+      "ref": 4262,
+      "ret": null,
+      "roc": null,
+      "sta": 0
+    },
+    "country_of_asylum": {
+      "asy": 47052,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 8601,
+      "ret": null,
+      "roc": null,
+      "sta": 372
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 86,
+    "country_code": "ICE",
+    "country_iso": "ISL",
+    "name": "Iceland",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 630,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 198,
+      "ret": null,
+      "roc": null,
+      "sta": 476
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 88,
+    "country_code": "IND",
+    "country_iso": "IND",
+    "name": "India",
+    "country_of_origin": {
+      "asy": 63561,
+      "idp": null,
+      "ioc": null,
+      "ooc": 6330,
+      "rdp": null,
+      "ref": 9962,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 21639,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 620470,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 89,
+    "country_code": "INS",
+    "country_iso": "IDN",
+    "name": "Indonesia",
+    "country_of_origin": {
+      "asy": 3430,
+      "idp": null,
+      "ioc": null,
+      "ooc": 6,
+      "rdp": null,
+      "ref": 10704,
+      "ret": null,
+      "roc": 4770,
+      "sta": 182741
+    },
+    "country_of_asylum": {
+      "asy": 238721,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 131250,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 91,
+    "country_code": "IRN",
+    "country_iso": "IRN",
+    "name": "Iran (Islamic Rep. of)",
+    "country_of_origin": {
+      "asy": 268875,
+      "idp": null,
+      "ioc": null,
+      "ooc": 150,
+      "rdp": null,
+      "ref": 216182,
+      "ret": 22,
+      "roc": null,
+      "sta": 0
+    },
+    "country_of_asylum": {
+      "asy": 554,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 3583654,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 92,
+    "country_code": "IRQ",
+    "country_iso": "IRQ",
+    "name": "Iraq",
+    "country_of_origin": {
+      "asy": 800733,
+      "idp": 3596356,
+      "ioc": null,
+      "ooc": 13227,
+      "rdp": 19967,
+      "ref": 4432690,
+      "ret": 10564,
+      "roc": null,
+      "sta": 6
+    },
+    "country_of_asylum": {
+      "asy": 8448,
+      "idp": 3596356,
+      "ioc": null,
+      "ooc": 15,
+      "rdp": 19967,
+      "ref": 271157,
+      "ret": 10494,
+      "roc": null,
+      "sta": 120000
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 90,
+    "country_code": "IRE",
+    "country_iso": "IRL",
+    "name": "Ireland",
+    "country_of_origin": {
+      "asy": 195,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 7,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 4626,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 11706,
+      "ret": null,
+      "roc": null,
+      "sta": 99
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 93,
+    "country_code": "ISR",
+    "country_iso": "ISR",
+    "name": "Israel",
+    "country_of_origin": {
+      "asy": 1730,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1559,
+      "ret": null,
+      "roc": null,
+      "sta": 24
+    },
+    "country_of_asylum": {
+      "asy": 86736,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 593509,
+      "ret": null,
+      "roc": null,
+      "sta": 144
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 94,
+    "country_code": "ITA",
+    "country_iso": "ITA",
+    "name": "Italy",
+    "country_of_origin": {
+      "asy": 1019,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 92,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 45749,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 281145,
+      "ret": null,
+      "roc": null,
+      "sta": 1626
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 95,
+    "country_code": "JAM",
+    "country_iso": "JAM",
+    "name": "Jamaica",
+    "country_of_origin": {
+      "asy": 1879,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 476,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 18,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 97,
+    "country_code": "JPN",
+    "country_iso": "JPN",
+    "name": "Japan",
+    "country_of_origin": {
+      "asy": 65,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1303,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 56918,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 73687,
+      "ret": null,
+      "roc": null,
+      "sta": 6985
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 96,
+    "country_code": "JOR",
+    "country_iso": "JOR",
+    "name": "Jordan",
+    "country_of_origin": {
+      "asy": 16439,
+      "idp": null,
+      "ioc": null,
+      "ooc": 614,
+      "rdp": null,
+      "ref": 4194,
+      "ret": null,
+      "roc": null,
+      "sta": 15
+    },
+    "country_of_asylum": {
+      "asy": 156554,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2754292,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 98,
+    "country_code": "KAZ",
+    "country_iso": "KAZ",
+    "name": "Kazakhstan",
+    "country_of_origin": {
+      "asy": 4795,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 11081,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 558,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 3791,
+      "ret": null,
+      "roc": null,
+      "sta": 42228
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 99,
+    "country_code": "KEN",
+    "country_iso": "KEN",
+    "name": "Kenya",
+    "country_of_origin": {
+      "asy": 35456,
+      "idp": null,
+      "ioc": null,
+      "ooc": 227,
+      "rdp": null,
+      "ref": 128728,
+      "ret": 18480,
+      "roc": null,
+      "sta": 40000
+    },
+    "country_of_asylum": {
+      "asy": 296561,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6087839,
+      "ret": null,
+      "roc": null,
+      "sta": 60000
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 101,
+    "country_code": "KIR",
+    "country_iso": "KIR",
+    "name": "Kiribati",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 215,
+    "country_code": "KOS",
+    "country_iso": "",
+    "name": "Kosovo (S/RES/1244(1999))",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 11,
+      "idp": 85565,
+      "ioc": null,
+      "ooc": null,
+      "rdp": 1395,
+      "ref": 190,
+      "ret": 905,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 104,
+    "country_code": "KUW",
+    "country_iso": "KWT",
+    "name": "Kuwait",
+    "country_of_origin": {
+      "asy": 553,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1312,
+      "ret": null,
+      "roc": null,
+      "sta": 30
+    },
+    "country_of_asylum": {
+      "asy": 3114,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2456,
+      "ret": null,
+      "roc": null,
+      "sta": 279000
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 100,
+    "country_code": "KGZ",
+    "country_iso": "KGZ",
+    "name": "Kyrgyzstan",
+    "country_of_origin": {
+      "asy": 8538,
+      "idp": null,
+      "ioc": null,
+      "ooc": 584600,
+      "rdp": null,
+      "ref": 7131,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 3308,
+      "idp": null,
+      "ioc": null,
+      "ooc": 584600,
+      "rdp": null,
+      "ref": 6743,
+      "ret": null,
+      "roc": null,
+      "sta": 133463
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 105,
+    "country_code": "LAO",
+    "country_iso": "LAO",
+    "name": "Lao People's Dem. Rep.",
+    "country_of_origin": {
+      "asy": 55,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 134123,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 115,
+    "country_code": "LVA",
+    "country_iso": "LVA",
+    "name": "Latvia",
+    "country_of_origin": {
+      "asy": 115,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 861,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 10622,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 4144,
+      "ret": null,
+      "roc": null,
+      "sta": 3407162
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 109,
+    "country_code": "LEB",
+    "country_iso": "LBN",
+    "name": "Lebanon",
+    "country_of_origin": {
+      "asy": 47083,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 11943,
+      "ret": null,
+      "roc": null,
+      "sta": 48
+    },
+    "country_of_asylum": {
+      "asy": 44623,
+      "idp": null,
+      "ioc": null,
+      "ooc": 34232,
+      "rdp": null,
+      "ref": 6923920,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 110,
+    "country_code": "LES",
+    "country_iso": "LSO",
+    "name": "Lesotho",
+    "country_of_origin": {
+      "asy": 40,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 14,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 82,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 106,
+    "country_code": "LBR",
+    "country_iso": "LBR",
+    "name": "Liberia",
+    "country_of_origin": {
+      "asy": 18393,
+      "idp": null,
+      "ioc": 22,
+      "ooc": 324,
+      "rdp": null,
+      "ref": 1356998,
+      "ret": null,
+      "roc": 423,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 146,
+      "idp": null,
+      "ioc": null,
+      "ooc": 5916,
+      "rdp": null,
+      "ref": 154308,
+      "ret": null,
+      "roc": 24,
+      "sta": 0
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 107,
+    "country_code": "LBY",
+    "country_iso": "LBY",
+    "name": "Libya",
+    "country_of_origin": {
+      "asy": 22377,
+      "idp": 8701316,
+      "ioc": null,
+      "ooc": 18,
+      "rdp": null,
+      "ref": 3683,
+      "ret": null,
+      "roc": null,
+      "sta": 12
+    },
+    "country_of_asylum": {
+      "asy": 338588,
+      "idp": 8701316,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1091805,
+      "ret": null,
+      "roc": null,
+      "sta": 0
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 111,
+    "country_code": "LIE",
+    "country_iso": "LIE",
+    "name": "Liechtenstein",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 68,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 206,
+      "ret": null,
+      "roc": null,
+      "sta": 0
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 113,
+    "country_code": "LTU",
+    "country_iso": "LTU",
+    "name": "Lithuania",
+    "country_of_origin": {
+      "asy": 100,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 282,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 2775,
+      "idp": null,
+      "ioc": 0,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1271,
+      "ret": null,
+      "roc": null,
+      "sta": 14580
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 114,
+    "country_code": "LUX",
+    "country_iso": "LUX",
+    "name": "Luxembourg",
+    "country_of_origin": {
+      "asy": 23,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 10,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 11544,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 11074,
+      "ret": null,
+      "roc": null,
+      "sta": 977
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 116,
+    "country_code": "MAC",
+    "country_iso": "MAC",
+    "name": "Macao SAR, China",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 12,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 6,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 117,
+    "country_code": "MAD",
+    "country_iso": "MDG",
+    "name": "Madagascar",
+    "country_of_origin": {
+      "asy": 313,
+      "idp": null,
+      "ioc": null,
+      "ooc": 30,
+      "rdp": null,
+      "ref": 3867,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 12,
+      "idp": null,
+      "ioc": null,
+      "ooc": 0,
+      "rdp": null,
+      "ref": 36,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 128,
+    "country_code": "MLW",
+    "country_iso": "MWI",
+    "name": "Malawi",
+    "country_of_origin": {
+      "asy": 42,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 176,
+      "ret": 80,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 316907,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 127072,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 127,
+    "country_code": "MLS",
+    "country_iso": "MYS",
+    "name": "Malaysia",
+    "country_of_origin": {
+      "asy": 127,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 154,
+      "ret": null,
+      "roc": null,
+      "sta": 40000
+    },
+    "country_of_asylum": {
+      "asy": 761452,
+      "idp": null,
+      "ioc": null,
+      "ooc": 480000,
+      "rdp": null,
+      "ref": 1983834,
+      "ret": null,
+      "roc": 5316,
+      "sta": 360000
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 123,
+    "country_code": "MDV",
+    "country_iso": "MDV",
+    "name": "Maldives",
+    "country_of_origin": {
+      "asy": 36,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 59,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 126,
+    "country_code": "MLI",
+    "country_iso": "MLI",
+    "name": "Mali",
+    "country_of_origin": {
+      "asy": 28751,
+      "idp": 1753862,
+      "ioc": null,
+      "ooc": null,
+      "rdp": 2309353,
+      "ref": 1533063,
+      "ret": 596113,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 17811,
+      "idp": 1753862,
+      "ioc": null,
+      "ooc": null,
+      "rdp": 2309353,
+      "ref": 464057,
+      "ret": 596113,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 132,
+    "country_code": "MTA",
+    "country_iso": "MLT",
+    "name": "Malta",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 1001,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 8093,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 125,
+    "country_code": "MHL",
+    "country_iso": "MHL",
+    "name": "Marshall Islands",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 118,
+    "country_code": "MAR",
+    "country_iso": "MTQ",
+    "name": "Martinique",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 119,
+    "country_code": "MAU",
+    "country_iso": "MRT",
+    "name": "Mauritania",
+    "country_of_origin": {
+      "asy": 5041,
+      "idp": null,
+      "ioc": null,
+      "ooc": 27,
+      "rdp": null,
+      "ref": 628908,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 8020,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1066871,
+      "ret": null,
+      "roc": 26000,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 134,
+    "country_code": "MTS",
+    "country_iso": "MUS",
+    "name": "Mauritius",
+    "country_of_origin": {
+      "asy": 59,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 175,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 124,
+    "country_code": "MEX",
+    "country_iso": "MEX",
+    "name": "Mexico",
+    "country_of_origin": {
+      "asy": 877,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 23019,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2540,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 66,
+    "country_code": "FSM",
+    "country_iso": "FSM",
+    "name": "Micronesia (Federated States of)",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 121,
+    "country_code": "MCO",
+    "country_iso": "MCO",
+    "name": "Monaco",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 67,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 129,
+    "country_code": "MNG",
+    "country_iso": "MNG",
+    "name": "Mongolia",
+    "country_of_origin": {
+      "asy": 10636,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6387,
+      "ret": null,
+      "roc": null,
+      "sta": 16
+    },
+    "country_of_asylum": {
+      "asy": 117,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 67,
+      "ret": null,
+      "roc": 10,
+      "sta": 62
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 133,
+    "country_code": "MNE",
+    "country_iso": "MNE",
+    "name": "Montenegro",
+    "country_of_origin": {
+      "asy": 20654,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2626,
+      "ret": null,
+      "roc": null,
+      "sta": 3296
+    },
+    "country_of_asylum": {
+      "asy": 226,
+      "idp": null,
+      "ioc": null,
+      "ooc": 77147,
+      "rdp": null,
+      "ref": 67901,
+      "ret": null,
+      "roc": null,
+      "sta": 9888
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 228,
+    "country_code": "MSR",
+    "country_iso": "MSR",
+    "name": "Montserrat",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 130,
+    "country_code": "MOR",
+    "country_iso": "MAR",
+    "name": "Morocco",
+    "country_of_origin": {
+      "asy": 33733,
+      "idp": null,
+      "ioc": null,
+      "ooc": 78,
+      "rdp": null,
+      "ref": 5570,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 3644,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 12429,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 131,
+    "country_code": "MOZ",
+    "country_iso": "MOZ",
+    "name": "Mozambique",
+    "country_of_origin": {
+      "asy": 330,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 318,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 92343,
+      "idp": null,
+      "ioc": null,
+      "ooc": 21,
+      "rdp": null,
+      "ref": 32003,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 135,
+    "country_code": "MYA",
+    "country_iso": "MMR",
+    "name": "Myanmar",
+    "country_of_origin": {
+      "asy": 710505,
+      "idp": 1705500,
+      "ioc": 175000,
+      "ooc": 1208,
+      "rdp": null,
+      "ref": 3331373,
+      "ret": null,
+      "roc": 1026677,
+      "sta": 3240000
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": 1705500,
+      "ioc": 175000,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": 4050000
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 136,
+    "country_code": "NAM",
+    "country_iso": "NAM",
+    "name": "Namibia",
+    "country_of_origin": {
+      "asy": 126,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1080,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 8324,
+      "idp": null,
+      "ioc": null,
+      "ooc": 6661,
+      "rdp": null,
+      "ref": 16324,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 144,
+    "country_code": "NRU",
+    "country_iso": "NRU",
+    "name": "Nauru",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 733,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1167,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 137,
+    "country_code": "NEP",
+    "country_iso": "NPL",
+    "name": "Nepal",
+    "country_of_origin": {
+      "asy": 6363,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2641,
+      "ret": null,
+      "roc": 36,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 1960,
+      "idp": null,
+      "ioc": null,
+      "ooc": 6386,
+      "rdp": null,
+      "ref": 626428,
+      "ret": null,
+      "roc": 490,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 138,
+    "country_code": "NET",
+    "country_iso": "NLD",
+    "name": "Netherlands",
+    "country_of_origin": {
+      "asy": 262,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 50,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 6940,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 410373,
+      "ret": null,
+      "roc": null,
+      "sta": 7844
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 62,
+    "country_code": "FNC",
+    "country_iso": "NCL",
+    "name": "New Caledonia",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 145,
+    "country_code": "NZL",
+    "country_iso": "NZL",
+    "name": "New Zealand",
+    "country_of_origin": {
+      "asy": 6,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 45,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 270,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2698,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 140,
+    "country_code": "NIC",
+    "country_iso": "NIC",
+    "name": "Nicaragua",
+    "country_of_origin": {
+      "asy": 1672,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 59118,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 472,
+      "idp": null,
+      "ioc": null,
+      "ooc": 18,
+      "rdp": null,
+      "ref": 2232,
+      "ret": null,
+      "roc": null,
+      "sta": 7
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 139,
+    "country_code": "NGR",
+    "country_iso": "NER",
+    "name": "Niger",
+    "country_of_origin": {
+      "asy": 323763,
+      "idp": null,
+      "ioc": null,
+      "ooc": 240000,
+      "rdp": null,
+      "ref": 1531,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 416,
+      "idp": null,
+      "ioc": null,
+      "ooc": 240000,
+      "rdp": null,
+      "ref": 351312,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 141,
+    "country_code": "NIG",
+    "country_iso": "NGA",
+    "name": "Nigeria",
+    "country_of_origin": {
+      "asy": 162693,
+      "idp": 2061721,
+      "ioc": null,
+      "ooc": 214,
+      "rdp": null,
+      "ref": 355417,
+      "ret": null,
+      "roc": 472979,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 8905,
+      "idp": 2061721,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6274,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 142,
+    "country_code": "NIU",
+    "country_iso": "NIU",
+    "name": "Niue",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 143,
+    "country_code": "NOR",
+    "country_iso": "NOR",
+    "name": "Norway",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 10,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 11673,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 188172,
+      "ret": null,
+      "roc": null,
+      "sta": 5991
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 146,
+    "country_code": "OMN",
+    "country_iso": "OMN",
+    "name": "Oman",
+    "country_of_origin": {
+      "asy": 45,
+      "idp": null,
+      "ioc": null,
+      "ooc": 32,
+      "rdp": null,
+      "ref": 98,
+      "ret": null,
+      "roc": null,
+      "sta": 9114
+    },
+    "country_of_asylum": {
+      "asy": 227,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 300,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 147,
+    "country_code": "PAK",
+    "country_iso": "PAK",
+    "name": "Pakistan",
+    "country_of_origin": {
+      "asy": 311410,
+      "idp": 19262656,
+      "ioc": null,
+      "ooc": 12,
+      "rdp": 1061557,
+      "ref": 5695487,
+      "ret": null,
+      "roc": 144843,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 94736,
+      "idp": 19262656,
+      "ioc": null,
+      "ooc": null,
+      "rdp": 1061557,
+      "ref": 21554831,
+      "ret": 19106,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 152,
+    "country_code": "PLW",
+    "country_iso": "PLW",
+    "name": "Palau",
+    "country_of_origin": {
+      "asy": 40,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 0,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 148,
+    "country_code": "PAN",
+    "country_iso": "PAN",
+    "name": "Panama",
+    "country_of_origin": {
+      "asy": 102,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1534,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 43698,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 104579,
+      "ret": null,
+      "roc": 464006,
+      "sta": 562
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 153,
+    "country_code": "PNG",
+    "country_iso": "PNG",
+    "name": "Papua New Guinea",
+    "country_of_origin": {
+      "asy": 48,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 400,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 19010,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 149,
+    "country_code": "PAR",
+    "country_iso": "PRY",
+    "name": "Paraguay",
+    "country_of_origin": {
+      "asy": 94,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 239,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 27,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 447,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 150,
+    "country_code": "PER",
+    "country_iso": "PER",
+    "name": "Peru",
+    "country_of_origin": {
+      "asy": 1699,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 53691,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 3091,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 13030,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 151,
+    "country_code": "PHI",
+    "country_iso": "PHL",
+    "name": "Philippines",
+    "country_of_origin": {
+      "asy": 5297,
+      "idp": 126789422,
+      "ioc": 255945,
+      "ooc": 480318,
+      "rdp": 52825943,
+      "ref": 419,
+      "ret": null,
+      "roc": 72,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 103470,
+      "idp": 126789422,
+      "ioc": 255945,
+      "ooc": 2722,
+      "rdp": 52825943,
+      "ref": 3860165,
+      "ret": 22,
+      "roc": null,
+      "sta": 346606
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 252,
+    "country_code": "PCN",
+    "country_iso": "PCN",
+    "name": "Pitcairn",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 154,
+    "country_code": "POL",
+    "country_iso": "POL",
+    "name": "Poland",
+    "country_of_origin": {
+      "asy": 266,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 5604,
+      "ret": null,
+      "roc": null,
+      "sta": 0
+    },
+    "country_of_asylum": {
+      "asy": 6880,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 31482,
+      "ret": null,
+      "roc": null,
+      "sta": 10825
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 155,
+    "country_code": "POR",
+    "country_iso": "PRT",
+    "name": "Portugal",
+    "country_of_origin": {
+      "asy": 49,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 77,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 688,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 699,
+      "ret": null,
+      "roc": null,
+      "sta": 42
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 156,
+    "country_code": "PUE",
+    "country_iso": "PRI",
+    "name": "Puerto Rico",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 157,
+    "country_code": "QAT",
+    "country_iso": "QAT",
+    "name": "Qatar",
+    "country_of_origin": {
+      "asy": 14,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": 0
+    },
+    "country_of_asylum": {
+      "asy": 456,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 893,
+      "ret": null,
+      "roc": null,
+      "sta": 4800
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 102,
+    "country_code": "KOR",
+    "country_iso": "KOR",
+    "name": "Rep. of Korea",
+    "country_of_origin": {
+      "asy": 206,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 737,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 33010,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 15400,
+      "ret": null,
+      "roc": null,
+      "sta": 1836
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 122,
+    "country_code": "MDA",
+    "country_iso": "MDA",
+    "name": "Rep. of Moldova",
+    "country_of_origin": {
+      "asy": 5732,
+      "idp": null,
+      "ioc": null,
+      "ooc": 6,
+      "rdp": null,
+      "ref": 6747,
+      "ret": null,
+      "roc": null,
+      "sta": 6
+    },
+    "country_of_asylum": {
+      "asy": 745,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2345,
+      "ret": null,
+      "roc": null,
+      "sta": 6108
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 158,
+    "country_code": "ROM",
+    "country_iso": "ROU",
+    "name": "Romania",
+    "country_of_origin": {
+      "asy": 586,
+      "idp": null,
+      "ioc": null,
+      "ooc": 24,
+      "rdp": null,
+      "ref": 4739,
+      "ret": null,
+      "roc": null,
+      "sta": 324
+    },
+    "country_of_asylum": {
+      "asy": 16616,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 74137,
+      "ret": null,
+      "roc": null,
+      "sta": 8354
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 160,
+    "country_code": "RUS",
+    "country_iso": "RUS",
+    "name": "Russian Federation",
+    "country_of_origin": {
+      "asy": 361477,
+      "idp": null,
+      "ioc": null,
+      "ooc": 70370,
+      "rdp": null,
+      "ref": 255360,
+      "ret": null,
+      "roc": null,
+      "sta": 0
+    },
+    "country_of_asylum": {
+      "asy": 69647,
+      "idp": null,
+      "ioc": null,
+      "ooc": 71954,
+      "rdp": null,
+      "ref": 8907255,
+      "ret": null,
+      "roc": 7000,
+      "sta": 5083522
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 161,
+    "country_code": "RWA",
+    "country_iso": "RWA",
+    "name": "Rwanda",
+    "country_of_origin": {
+      "asy": 214835,
+      "idp": null,
+      "ioc": null,
+      "ooc": 21211,
+      "rdp": null,
+      "ref": 5644482,
+      "ret": 15833,
+      "roc": null,
+      "sta": 0
+    },
+    "country_of_asylum": {
+      "asy": 5592,
+      "idp": null,
+      "ioc": null,
+      "ooc": 6075,
+      "rdp": null,
+      "ref": 2041439,
+      "ret": 15833,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 175,
+    "country_code": "STK",
+    "country_iso": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "country_of_origin": {
+      "asy": 122,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 21,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 0,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 108,
+    "country_code": "LCA",
+    "country_iso": "LCA",
+    "name": "Saint Lucia",
+    "country_of_origin": {
+      "asy": 169,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 20,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 206,
+    "country_code": "VCT",
+    "country_iso": "VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "country_of_origin": {
+      "asy": 351,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 45,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 208,
+    "country_code": "WES",
+    "country_iso": "WSM",
+    "name": "Samoa",
+    "country_of_origin": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 170,
+    "country_code": "SMA",
+    "country_iso": "SMR",
+    "name": "San Marino",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 176,
+    "country_code": "STP",
+    "country_iso": "STP",
+    "name": "Sao Tome and Principe",
+    "country_of_origin": {
+      "asy": 24,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 121,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 163,
+    "country_code": "SAU",
+    "country_iso": "SAU",
+    "name": "Saudi Arabia",
+    "country_of_origin": {
+      "asy": 773,
+      "idp": null,
+      "ioc": null,
+      "ooc": 72,
+      "rdp": null,
+      "ref": 828,
+      "ret": null,
+      "roc": null,
+      "sta": 9
+    },
+    "country_of_asylum": {
+      "asy": 1469,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 11137,
+      "ret": null,
+      "roc": 423,
+      "sta": 630000
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 165,
+    "country_code": "SEN",
+    "country_iso": "SEN",
+    "name": "Senegal",
+    "country_of_origin": {
+      "asy": 41995,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 60147,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 36052,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 185237,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 164,
+    "country_code": "SRB",
+    "country_iso": "SRB",
+    "name": "Serbia (and Kosovo: S/RES/1244 (1999))",
+    "country_of_origin": {
+      "asy": 558441,
+      "idp": 909669,
+      "ioc": null,
+      "ooc": null,
+      "rdp": 1965,
+      "ref": 278528,
+      "ret": 905,
+      "roc": 5306,
+      "sta": 7742
+    },
+    "country_of_asylum": {
+      "asy": 2628,
+      "idp": 824104,
+      "ioc": null,
+      "ooc": null,
+      "rdp": 570,
+      "ref": 480781,
+      "ret": null,
+      "roc": null,
+      "sta": 19050
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 166,
+    "country_code": "SEY",
+    "country_iso": "SYC",
+    "name": "Seychelles",
+    "country_of_origin": {
+      "asy": 40,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 44,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 169,
+    "country_code": "SLE",
+    "country_iso": "SLE",
+    "name": "Sierra Leone",
+    "country_of_origin": {
+      "asy": 88983,
+      "idp": null,
+      "ioc": null,
+      "ooc": 5916,
+      "rdp": null,
+      "ref": 19179,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 22,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2762,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 168,
+    "country_code": "SIN",
+    "country_iso": "SGP",
+    "name": "Singapore",
+    "country_of_origin": {
+      "asy": 49,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 36,
+      "ret": null,
+      "roc": null,
+      "sta": 0
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": 0,
+      "rdp": null,
+      "ref": 24,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 255,
+    "country_code": "SXM",
+    "country_iso": "SXM",
+    "name": "Sint Maarten (Dutch part)",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 10,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 180,
+    "country_code": "SVK",
+    "country_iso": "SVK",
+    "name": "Slovakia",
+    "country_of_origin": {
+      "asy": 3726,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 2455,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 1100,
+      "idp": null,
+      "ioc": null,
+      "ooc": 405,
+      "rdp": null,
+      "ref": 4794,
+      "ret": null,
+      "roc": null,
+      "sta": 6092
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 181,
+    "country_code": "SVN",
+    "country_iso": "SVN",
+    "name": "Slovenia",
+    "country_of_origin": {
+      "asy": 39,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 129,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 414,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1534,
+      "ret": null,
+      "roc": null,
+      "sta": 24
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 171,
+    "country_code": "SOL",
+    "country_iso": "SLB",
+    "name": "Solomon Islands",
+    "country_of_origin": {
+      "asy": 1245,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 76666,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 172,
+    "country_code": "SOM",
+    "country_iso": "SOM",
+    "name": "Somalia",
+    "country_of_origin": {
+      "asy": 1416837,
+      "idp": 45446139,
+      "ioc": null,
+      "ooc": 5300,
+      "rdp": 76416,
+      "ref": 16593149,
+      "ret": 503,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 417491,
+      "idp": 45446139,
+      "ioc": null,
+      "ooc": 1104,
+      "rdp": 76416,
+      "ref": 113094,
+      "ret": 19539,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 159,
+    "country_code": "RSA",
+    "country_iso": "ZAF",
+    "name": "South Africa",
+    "country_of_origin": {
+      "asy": 2127,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 816,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 6959110,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1090017,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 179,
+    "country_code": "SSD",
+    "country_iso": "SSD",
+    "name": "South Sudan",
+    "country_of_origin": {
+      "asy": 107479,
+      "idp": 24258444,
+      "ioc": 1290324,
+      "ooc": 624,
+      "rdp": 1000275,
+      "ref": 31159319,
+      "ret": 25140,
+      "roc": 73922,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 2077,
+      "idp": 24258444,
+      "ioc": 1290324,
+      "ooc": null,
+      "rdp": 1000275,
+      "ref": 8257230,
+      "ret": null,
+      "roc": 73922,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 173,
+    "country_code": "SPA",
+    "country_iso": "ESP",
+    "name": "Spain",
+    "country_of_origin": {
+      "asy": 710,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 123,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 15050,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 17394,
+      "ret": null,
+      "roc": null,
+      "sta": 270
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 112,
+    "country_code": "LKA",
+    "country_iso": "LKA",
+    "name": "Sri Lanka",
+    "country_of_origin": {
+      "asy": 74262,
+      "idp": 215929,
+      "ioc": null,
+      "ooc": 90,
+      "rdp": 2506,
+      "ref": 618636,
+      "ret": 3521,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 8501,
+      "idp": 215929,
+      "ioc": null,
+      "ooc": null,
+      "rdp": 2506,
+      "ref": 4601,
+      "ret": 3521,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 69,
+    "country_code": "GAZ",
+    "country_iso": "PSE",
+    "name": "State of Palestine",
+    "country_of_origin": {
+      "asy": 37737,
+      "idp": null,
+      "ioc": null,
+      "ooc": 52500,
+      "rdp": null,
+      "ref": 3301482,
+      "ret": null,
+      "roc": null,
+      "sta": 54
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 216,
+    "country_code": "STA",
+    "country_iso": "",
+    "name": "Stateless",
+    "country_of_origin": {
+      "asy": 29454,
+      "idp": null,
+      "ioc": null,
+      "ooc": 10000,
+      "rdp": null,
+      "ref": 12201,
+      "ret": null,
+      "roc": null,
+      "sta": 19957054
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 177,
+    "country_code": "SUD",
+    "country_iso": "SDN",
+    "name": "Sudan",
+    "country_of_origin": {
+      "asy": 412347,
+      "idp": 148627659,
+      "ioc": 386500,
+      "ooc": 25396,
+      "rdp": 819308,
+      "ref": 22810567,
+      "ret": 954427,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 1044875,
+      "idp": 148627659,
+      "ioc": 386500,
+      "ooc": 371991,
+      "rdp": 819308,
+      "ref": 25193445,
+      "ret": 954003,
+      "roc": 3291525,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 178,
+    "country_code": "SUR",
+    "country_iso": "SUR",
+    "name": "Suriname",
+    "country_of_origin": {
+      "asy": 18,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 182,
+    "country_code": "SWA",
+    "country_iso": "SWZ",
+    "name": "Swaziland",
+    "country_of_origin": {
+      "asy": 82,
+      "idp": null,
+      "ioc": null,
+      "ooc": 46,
+      "rdp": null,
+      "ref": 120,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 4280,
+      "idp": null,
+      "ioc": null,
+      "ooc": 62,
+      "rdp": null,
+      "ref": 7566,
+      "ret": 65,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 183,
+    "country_code": "SWE",
+    "country_iso": "SWE",
+    "name": "Sweden",
+    "country_of_origin": {
+      "asy": 96,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 26,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 163730,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 568828,
+      "ret": null,
+      "roc": null,
+      "sta": 27167
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 184,
+    "country_code": "SWI",
+    "country_iso": "CHE",
+    "name": "Switzerland",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 8,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 23069,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 62566,
+      "ret": null,
+      "roc": null,
+      "sta": 76
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 185,
+    "country_code": "SYR",
+    "country_iso": "SYR",
+    "name": "Syrian Arab Rep.",
+    "country_of_origin": {
+      "asy": 800081,
+      "idp": 179953000,
+      "ioc": 2805,
+      "ooc": 11952,
+      "rdp": 1388000,
+      "ref": 14014205,
+      "ret": null,
+      "roc": 253840,
+      "sta": 99
+    },
+    "country_of_asylum": {
+      "asy": 353173,
+      "idp": 179953000,
+      "ioc": null,
+      "ooc": 13080,
+      "rdp": 1388000,
+      "ref": 3710775,
+      "ret": null,
+      "roc": null,
+      "sta": 2720000
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 189,
+    "country_code": "TJK",
+    "country_iso": "TJK",
+    "name": "Tajikistan",
+    "country_of_origin": {
+      "asy": 10018,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1744,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 2214,
+      "idp": null,
+      "ioc": null,
+      "ooc": 1386,
+      "rdp": null,
+      "ref": 34831,
+      "ret": null,
+      "roc": null,
+      "sta": 40557
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 188,
+    "country_code": "THA",
+    "country_iso": "THA",
+    "name": "Thailand",
+    "country_of_origin": {
+      "asy": 451,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 559,
+      "ret": null,
+      "roc": 42,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 66134,
+      "idp": null,
+      "ioc": null,
+      "ooc": 1185,
+      "rdp": null,
+      "ref": 1271970,
+      "ret": null,
+      "roc": 826515,
+      "sta": 506197
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 120,
+    "country_code": "MCD",
+    "country_iso": "MKD",
+    "name": "The former Yugoslav Rep. of Macedonia",
+    "country_of_origin": {
+      "asy": 141927,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 7605,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 83585,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 13645,
+      "ret": 23,
+      "roc": 5444,
+      "sta": 8969
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 191,
+    "country_code": "TMP",
+    "country_iso": "TLS",
+    "name": "Timor-Leste",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 27,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": 16,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 192,
+    "country_code": "TOG",
+    "country_iso": "TGO",
+    "name": "Togo",
+    "country_of_origin": {
+      "asy": 14502,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 102240,
+      "ret": null,
+      "roc": 0,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 5667,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 461152,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 193,
+    "country_code": "TON",
+    "country_iso": "TON",
+    "name": "Tonga",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 0,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 194,
+    "country_code": "TRT",
+    "country_iso": "TTO",
+    "name": "Trinidad and Tobago",
+    "country_of_origin": {
+      "asy": 81,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 8,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 1014,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1130,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 195,
+    "country_code": "TUN",
+    "country_iso": "TUN",
+    "name": "Tunisia",
+    "country_of_origin": {
+      "asy": 22858,
+      "idp": null,
+      "ioc": null,
+      "ooc": 66,
+      "rdp": null,
+      "ref": 4832,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 2616,
+      "idp": null,
+      "ioc": null,
+      "ooc": 0,
+      "rdp": null,
+      "ref": 8288,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 196,
+    "country_code": "TUR",
+    "country_iso": "TUR",
+    "name": "Turkey",
+    "country_of_origin": {
+      "asy": 82511,
+      "idp": null,
+      "ioc": null,
+      "ooc": 66,
+      "rdp": null,
+      "ref": 252189,
+      "ret": null,
+      "roc": null,
+      "sta": 6
+    },
+    "country_of_asylum": {
+      "asy": 164258,
+      "idp": null,
+      "ioc": null,
+      "ooc": 306,
+      "rdp": null,
+      "ref": 1587350,
+      "ret": null,
+      "roc": null,
+      "sta": 780
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 190,
+    "country_code": "TKM",
+    "country_iso": "TKM",
+    "name": "Turkmenistan",
+    "country_of_origin": {
+      "asy": 8688,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 437,
+      "ret": null,
+      "roc": null,
+      "sta": 0
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 175,
+      "ret": null,
+      "roc": null,
+      "sta": 29963
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 187,
+    "country_code": "TCI",
+    "country_iso": "TCA",
+    "name": "Turks and Caicos Islands",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 7,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 6,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 197,
+    "country_code": "TUV",
+    "country_iso": "TUV",
+    "name": "Tuvalu",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 199,
+    "country_code": "UGA",
+    "country_iso": "UGA",
+    "name": "Uganda",
+    "country_of_origin": {
+      "asy": 12743,
+      "idp": null,
+      "ioc": null,
+      "ooc": 1440018,
+      "rdp": null,
+      "ref": 187335,
+      "ret": 54540,
+      "roc": 18,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 2966414,
+      "idp": null,
+      "ioc": null,
+      "ooc": 1440000,
+      "rdp": null,
+      "ref": 27345286,
+      "ret": 12,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 200,
+    "country_code": "UKR",
+    "country_iso": "UKR",
+    "name": "Ukraine",
+    "country_of_origin": {
+      "asy": 71610,
+      "idp": 1646000,
+      "ioc": null,
+      "ooc": 30,
+      "rdp": null,
+      "ref": 1648867,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 99765,
+      "idp": 4938000,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 22533,
+      "ret": null,
+      "roc": null,
+      "sta": 141340
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 198,
+    "country_code": "UAE",
+    "country_iso": "ARE",
+    "name": "United Arab Emirates",
+    "country_of_origin": {
+      "asy": 80,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 38,
+      "ret": null,
+      "roc": null,
+      "sta": 6
+    },
+    "country_of_asylum": {
+      "asy": 212,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 832,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 70,
+    "country_code": "GBR",
+    "country_iso": "GBR",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "country_of_origin": {
+      "asy": 64,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 68,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 914827,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 468644,
+      "ret": null,
+      "roc": null,
+      "sta": 44
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 186,
+    "country_code": "TAN",
+    "country_iso": "TZA",
+    "name": "United Rep. of Tanzania",
+    "country_of_origin": {
+      "asy": 3083,
+      "idp": null,
+      "ioc": null,
+      "ooc": 307,
+      "rdp": null,
+      "ref": 3334,
+      "ret": 50,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 5298,
+      "idp": null,
+      "ioc": null,
+      "ooc": 977892,
+      "rdp": null,
+      "ref": 591329,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 231,
+    "country_code": "VIR",
+    "country_iso": "VIR",
+    "name": "United States Virgin Islands",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 202,
+    "country_code": "USA",
+    "country_iso": "USA",
+    "name": "United States of America",
+    "country_of_origin": {
+      "asy": 1252,
+      "idp": null,
+      "ioc": null,
+      "ooc": 102,
+      "rdp": null,
+      "ref": 10343,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 562648,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1067768,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 201,
+    "country_code": "URU",
+    "country_iso": "URY",
+    "name": "Uruguay",
+    "country_of_origin": {
+      "asy": 20,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 42,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 323,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 1834,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 203,
+    "country_code": "UZB",
+    "country_iso": "UZB",
+    "name": "Uzbekistan",
+    "country_of_origin": {
+      "asy": 5258,
+      "idp": null,
+      "ioc": null,
+      "ooc": 18,
+      "rdp": null,
+      "ref": 12179,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 375,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 204,
+    "country_code": "VAN",
+    "country_iso": "VUT",
+    "name": "Vanuatu",
+    "country_of_origin": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 0,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 0,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 207,
+    "country_code": "VEN",
+    "country_iso": "VEN",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "country_of_origin": {
+      "asy": 9061,
+      "idp": null,
+      "ioc": null,
+      "ooc": 12,
+      "rdp": null,
+      "ref": 17167,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 142782,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 473942,
+      "ret": null,
+      "roc": 12246280,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 174,
+    "country_code": "SRV",
+    "country_iso": "VNM",
+    "name": "Viet Nam",
+    "country_of_origin": {
+      "asy": 25052,
+      "idp": null,
+      "ioc": null,
+      "ooc": 2722,
+      "rdp": null,
+      "ref": 3476587,
+      "ret": null,
+      "roc": 18,
+      "sta": 800
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": 20000,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": 13000
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 210,
+    "country_code": "WSH",
+    "country_iso": "ESH",
+    "name": "Western Sahara",
+    "country_of_origin": {
+      "asy": 169,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 543601,
+      "ret": null,
+      "roc": 26000,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": null,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": null,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 211,
+    "country_code": "YEM",
+    "country_iso": "YEM",
+    "name": "Yemen",
+    "country_of_origin": {
+      "asy": 22987,
+      "idp": 1670465,
+      "ioc": null,
+      "ooc": 84,
+      "rdp": 372974,
+      "ref": 11179,
+      "ret": 112,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 137353,
+      "idp": 1670465,
+      "ioc": 2805,
+      "ooc": null,
+      "rdp": 372974,
+      "ref": 6868581,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 213,
+    "country_code": "ZAM",
+    "country_iso": "ZMB",
+    "name": "Zambia",
+    "country_of_origin": {
+      "asy": 209,
+      "idp": null,
+      "ioc": null,
+      "ooc": null,
+      "rdp": null,
+      "ref": 510,
+      "ret": 10,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 19668,
+      "idp": null,
+      "ioc": null,
+      "ooc": 74160,
+      "rdp": null,
+      "ref": 266041,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  },
+  {
+    "year": 2014,
+    "country_id": 214,
+    "country_code": "ZIM",
+    "country_iso": "ZWE",
+    "name": "Zimbabwe",
+    "country_of_origin": {
+      "asy": 19366,
+      "idp": 2254118,
+      "ioc": null,
+      "ooc": 4426,
+      "rdp": null,
+      "ref": 79445,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    },
+    "country_of_asylum": {
+      "asy": 27757,
+      "idp": 2254118,
+      "ioc": null,
+      "ooc": 37072,
+      "rdp": null,
+      "ref": 283444,
+      "ret": null,
+      "roc": null,
+      "sta": null
+    }
+  }
+]

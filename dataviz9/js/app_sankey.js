@@ -116,7 +116,7 @@ function dragmove(d) {
 }
 });
 
-$(".map-legend").html("<i class='icon-ocha-affected-population'></i>&nbsp;"+
+$(".map_score").html("<i class='icon-ocha-affected-population'></i>&nbsp;"+
   total_refugees.toLocaleString("en")+
   " " +
   poc_type[query_poc]);

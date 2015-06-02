@@ -10,7 +10,11 @@ function app_worldmap(){
 	.attr("preserveAspectRatio","xMidYMid")
 	.attr("viewBox","0 0 "+width+" "+height)
 	.attr("width",m_width)
-	.attr("height",m_width*height/width);
+	.attr("height",m_width*height/width)
+        .attr('transform', 'matrix(1 0 0 1 0 0)')
+        .on('mousemove', moveLabel)
+        .on('mouseover', showLabel)
+        .on('mouseout', hideLabel);
 	var scale=width/6.3;
 	var projection=d3.geo.mercator()
 	.scale(scale)
@@ -50,30 +54,58 @@ function displayColors(){
 	var country_color = "#CCC";
 	var color_palette = ['#c3c3c3','#ddbbaa','rgb(254,232,200)','rgb(253,212,158)','rgb(253,187,132)','rgb(252,141,89)','rgb(239,101,72)','rgb(215,48,31)','rgb(153,0,0)'];
 	query_poc = $(".querybuilder").find("#query_poc").val();
-	query_type = $("#query_type").val();
-	query_year = $("#query_year").val();
-	cl("params: "+query_year+"/"+query_poc+"/"+query_type);
+	query_type = $(".querybuilder").find("#query_type").val();
+	query_year = $(".querybuilder").find("#query_year").val();
+	cl("displaying query for "+query_year+" | "+query_poc+" | "+query_type);
+	var country_label = "";
 	var json_filename = "data/"+
 	query_year+
 	"_"+
-	filename_param1[query_poc]+
-	"_"+
-	filename_param2[query_type]+
-	".json";
+	"poc.json";
 	cl("file name: "+json_filename);
+	// hardcoding file name
+	//json_filename = "data/2014_poc.json";
 	total_refugees = 0;
 	poc_value = 0;
 	d3.json(json_filename+'?'+Math.random(),function(error,data){$(data)
 		.each(function(){
-			if(this.iso!=''){
-				var selection=d3.select('#'+this.iso);
+			if(this.country_iso!=''){
+				var selection=d3.select('#'+this.country_iso);
 				switch(query_type){
 					case "0": 
-					poc_value = this.CoO;
-					 // cl("case 0: CoO "+ poc_value); 
-					 break;
-					 case "1": poc_value = this.CoA; 
-					// cl("case 1: CoA "+ poc_value); 
+					switch(query_poc){
+						case "0":
+							poc_value = this.country_of_origin.ref;
+						break;
+						case "1":
+							poc_value = this.country_of_origin.asy;
+						break;
+						case "2":
+							poc_value = this.country_of_origin.idp;
+						break;
+						default:
+						break;
+					}
+					cl("country "+this.country_iso+" | case 0: CoO "+ poc_value); 
+					break;
+					case "1": 
+					case "0": 
+					switch(query_poc){
+						case "0":
+							poc_value = this.country_of_asylum.ref;
+						break;
+						case "1":
+							poc_value = this.country_of_asylum.asy;
+						break;
+						case "2":
+							poc_value = this.country_of_asylum.idp;
+						break;
+						default:
+						break;
+					}
+
+					cl("country "+this.country_iso+" | case 0: CoA "+ poc_value); 
+					country_data.push({iso:this.country_iso,value:poc_value});
 					break;
 					default: poc_value = 0; cl("case default: problem "+ query_type); break;
 				}
@@ -85,18 +117,49 @@ function displayColors(){
 				if (poc_value > 100000) { country_color = color_palette[5];};
 				if (poc_value > 1000000) { country_color = color_palette[6];};
 				if (poc_value > 2000000) { country_color = color_palette[7];};
-				if (poc_value > 3000000) { country_color = color_palette[8];cl("color "+color_palette[8]+"/"+poc_value)};
+				if (poc_value > 3000000) { country_color = color_palette[8];
+					// cl("color "+color_palette[8]+"/"+poc_value)
+				};
 
+				// color fill on map
 				selection.attr('fill',country_color);
-
+				// add country popup
+				country_label = this.name+": "+poc_value+" "+poc_type[query_poc];
+				cl(country_label);
+				// calculate total poc
 				total_refugees+=poc_value*1.0;
-					 // cl("CoO: "+total_refugees);
-					 $(".map-legend").html("<i class='icon-ocha-affected-population'></i>&nbsp;"+
-					 	total_refugees.toLocaleString("en")+
-					 	" " +
-					 	poc_type[query_poc]);
+			 	// cl("CoO: "+total_refugees);
+			 	$(".map_score").html("<i class='icon-ocha-affected-population'></i>&nbsp;"+
+			 	total_refugees.toLocaleString("en")+
+			 	" " +
+			 	poc_type[query_poc]);
 
 			}
 		});
-	});							
+});							
 }
+
+    // Display the tooltip popup when hovering a country.
+    function showLabel() {
+      var target = d3.select(d3.event.target);
+      if (target.classed('country')) {
+        var value = "country";
+
+        $("#label_country")
+            .html(value);
+      }
+      else {
+        hideLabel();
+      }
+    }
+
+    // Hide the country tooltip.
+    function hideLabel() {
+      
+        $("#label_country").html("no country");
+    }
+
+    // Move the currently displayed tooltip when the mouse moves.
+    function moveLabel() {
+      
+    }
